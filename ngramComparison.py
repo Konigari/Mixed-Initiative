@@ -19,14 +19,13 @@ import itertools
 from nltk.util import ngrams
 import pandas as pd
 import numpy as np
-
+from nltk.corpus import stopwords 
+from nltk.tokenize import word_tokenize     
 # from nltk.tokenize
+stop_words = set(stopwords.words('english')) 
 
-argp = argparse.ArgumentParser()
-argp.add_argument("input_location")
-argp.add_argument("output_location")
-command = argp.parse_args()
-saved_column = []
+
+sentences = []
 
 def get_all_files_in_dir(location): 
     for subdir, dirs, files in os.walk(location):
@@ -34,7 +33,7 @@ def get_all_files_in_dir(location):
             yield os.path.join(subdir, file)
 
 def is_CSV(filepath):
-    return filepath.endswith(".csv") and not "metadata" in filepath
+    return filepath.endswith(".txt") and not "metadata" in filepath
 
 def get_all_csvs_in_dir(location):
     return filter(is_CSV, get_all_files_in_dir(location))
@@ -43,26 +42,49 @@ def get_jaccard_sim(str1, str2):
     b = set(str2.split())    
     c = a.intersection(b)
     return c
+def stop_word_removal(str):
+    word_tokens = word_tokenize(str)
+    filtered_sentence = [] 
+  
+    for w in word_tokens: 
+        if w not in stop_words: 
+            filtered_sentence.append(w) 
+    return filtered_sentence
+name = './Switchboard-Corpus/swda_data/train'
+for file in os.listdir(name):
 
-for file in itertools.islice(get_all_csvs_in_dir(command.input_location),0,1,1):
-    file_without_ext = os.path.splitext(file)[0]
-    pathlib.Path(os.path.join(command.output_location, file_without_ext)).mkdir(parents=True, exist_ok=True)
-    with open(file) as f:
-        df = pd.read_csv(f)
-        saved_column = df['text'] #you can also use df['column_name']
-        print(type(saved_column))
-        
-        saved_column = np.array(saved_column.tolist())
-        print(len(saved_column))
-        for i in range(1,len(saved_column)):
-            for j in range(2,len(saved_column)):
-                similarity = get_jaccard_sim(saved_column[i],saved_column[j])
+    f_output = open("./output/"+file+"_output.txt",'w')
+    # pathlib.Path(os.path.join(command.output_location, file_without_ext)).mkdir(parents=True, exist_ok=True)
+    with open(name+"/"+file,'r') as f:
+        print(f.name)
+        for sentence in f.readlines():
+            # print(sentence.split("|")[1])
+            sentences.append(sentence.split("|")[1])
+        # sentences = np.array(saved_column.tolist())
+        # # print(len(saved_column))
+        temp = []
+
+        for sentence in sentences:
+            s = stop_word_removal(sentence)
+            temp.append(" ".join(s))
+        # for x in itertools.combinations(temp, 2):
+        for i in range(1,len(temp)):
+            for j in range(2,len(temp)):
+                words = word_tokenize(temp[i])
+                wordsFiltered = []
+                 
+                for w in words:
+                    if w not in stop_words:
+                        wordsFiltered.append(w)
+                similarity = get_jaccard_sim(temp[i],temp[j])
                 depth = j- i
                 if (len(similarity) > 3 and depth > 2):
-                    print("similarity",similarity,"depth",depth)
-        print("---------------done -------------------")
-        # for i in ennumeratesaved_column:
-        #     saved_column
+                    f_output.write("similarity"+"==>" + " ".join(similarity)+" | " + "depth : "+ str(depth) + "\n")
+
+        
+        # print("---------------done -------------------")
+        # for i in ennumeratesentences:
+        #     sentences
         # # rows = csv.DictReader(f)
         # sentences = [row for row in rows]
         # print(sentences)
