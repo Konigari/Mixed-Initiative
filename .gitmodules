@@ -1,0 +1,6 @@
+[submodule "InferSent"]
+	path = InferSent
+	url = https://github.com/facebookresearch/InferSent.git
+[submodule "swda"]
+	path = swda
+	url = https://github.com/cgpotts/swda.git
