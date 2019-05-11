@@ -30,8 +30,8 @@ A|And having worked with some of the legal folks very closely, uh, it becomes a 
 A|and you have to get it fixed el pronto.|sd
 A|As you know, they, they're allowed to come on site, the federaldes, anytime they want, drive through, and see, and inspect.|sd
 A|So it's a full time, uh, everybody has their home phone number type of job. Um,|sd
-B|Now is that place built|qy
-B|or you're still on the makings of it?|qrr
+B|Now is that place built|qy|3-
+B|or you're still on the makings of it?|qrr|4+
 A|The Sherman facility, we are still in the, closer too, but still have a little bit of, um, finalization to do.|sd
 A|It's been pitched to the Sherman City Council with, um, open arms, as well as the public.|sd
 A|We had open forum|sd
@@ -48,8 +48,8 @@ A|But it won't have can any, uh, any bad stuff.|sd
 A|So, uh, I think T I, we spend, of all the major semiconductor firms, we probably put safety and environmental on the utmost, foremost, uh, uh, first thing we always look at.|sd
 A|And we probably put more money into the systems and engineering behind the system of any other firm I know of.|sd
 A|We eat and sleep the stuff, everything we do over here.|sd
-A|and, uh, it's an interesting job.|sd |3-
-B|Well, I know from some of the sites that we've had, uh, quite a list of cites that have gone bad|sd |4+
+A|and, uh, it's an interesting job.|sd |4-
+B|Well, I know from some of the sites that we've had, uh, quite a list of cites that have gone bad|sd |54+
 B|and you have to clean up.|sd
 B|And, you know the law now is the super fund|sd
 B|and anybody who's contributed toxic waste, no matter if you were somebody that eventually, you know, uh, damaged the ground or not.|sd
@@ -60,8 +60,8 @@ B|Because eventually, you know, it, it seems that no matter what they do, if the
 B|It still only in time starts to leak out.|sd
 A|Possibly.|aap_am
 B|There, there was one site that they cleaned up|sd
-B|and then the new place leaked again. .|sd |4-
-A|I'm familiar with that one.|sd |5+
+B|and then the new place leaked again. .|sd |5-
+A|I'm familiar with that one.|sd |6+
 A|We have, we have stuff that's very interesting, uh,|sd
 A|we have hoods,|sd
 A|we have duckwork and all those type of interesting pieces of equipment where, um, they have, um, that we sample|sd
@@ -76,11 +76,11 @@ A|But the cost of doing this is astronomical, they actually show you what duckwo
 A|And so we were, uh, very, very, uh, cognizance of, and aware of all these types of, uh, expenditures because it could get very expensive.|sd
 A|But I think we, uh, you know, we do all kinds of things to make the, the world a better place to live, you know,|sd
 A|I think some of the folks that aren't aware of it will be surprised at how much effort and energy is put into doing that.|sd
-A|I really would.|sd |5-
-A|Um, I've enjoyed speaking with you,|sd |6+
-A|This has been an interesting topic.|sv |6-
+A|I really would.|sd |6-
+A|Um, I've enjoyed speaking with you,|sd |7+
+A|This has been an interesting topic.|sv |7-
 A|Uh, I was one of the,|sd 
-A|I was responsible for all the planning and engineering over the corporate, or in the north building|sd |7+
+A|I was responsible for all the planning and engineering over the corporate, or in the north building|sd |8+
 B|Oh, you were?|bh
 A|Yeah.|ny
 B|It's a heck of a lot different.|sd
@@ -90,10 +90,10 @@ B|People used to come and laugh and go, gee, I hadn't seen one of those ten, fif
 A|Well, the, uh, I think what changed everything and, uh, is, uh, y'all were, y'all were the only ones that make any money for TI, here in the last ten years,|sv
 B|We, finally got a little respect.|sd
 B|Nobody thought of us as a profit center before.|sv
-A|And that's, um, when, when you start, when you start paying your way, uh, you know, Jerry takes a different outlook towards you guys.|sv |7-
+A|And that's, um, when, when you start, when you start paying your way, uh, you know, Jerry takes a different outlook towards you guys.|sv |8-
 B|Not just overhead.|sv
-A|I've enjoyed speaking with you.|fc |6+BB
+A|I've enjoyed speaking with you.|fc |7+BB
 B|You too.|fc
 A|See you later.|fc
 A|Bye-bye.|fc
-B|Bye.|fc |6-BB
+B|Bye.|fc |
