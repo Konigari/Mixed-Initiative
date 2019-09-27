@@ -1,0 +1,9 @@
+edu.mit.nlp
+edu.mit.nlp.segmenter
+edu.mit.nlp.segmenter.dp
+edu.mit.nlp.segmenter.mcmc
+edu.mit.nlp.segmenter.wrappers
+edu.mit.util
+edu.mit.util.ling
+edu.mit.util.stats
+edu.mit.util.weka
