@@ -1,0 +1,163 @@
+,Person,Conversation,Custom Tag,Custom Tag 2,Topic Description,Class
+0,A,Hello.,opening,,,0
+1,B,Hello,,,,0
+2,A,"Hi, um,",,,,0
+3,A,this is Betty,,,,0
+4,A,"and I'm in Richardson, Texas.",,,,0
+5,B,I'm Nola,,,,0
+6,B,and I'm in Plano.,,,,0
+7,A,"Oh, okay,",,,,0
+8,A,well here we go,opening,,,0
+9,A,"I guess we're going to have a lot of parades this weekend in honor of these guys that are, that did some stuff over in the Gulf. Um.",major topic start,,Talking about Gulf and parades,0
+10,B,"Yeah,",,,,0
+11,B,"now, did you push one?",off topic start,,Talking personal,2
+12,A,"Yeah, uh,",,,,2
+13,B,"Oh, okay.",,,,2
+14,A,no,,,,2
+15,A,I haven't pushed one yet.,,,,2
+16,A,"I just,",,,,2
+17,B,"Okay,",,,,2
+18,B,"but, I think it's,",,,,2
+19,B,I just started doing this,,,,2
+20,B,so I don't know too much about it.,,,,2
+21,A,"Okay,",,,,2
+22,A,we're just sort of getting acquainted here.,,,,2
+23,B,"Oh, okay.",,,,2
+24,A,"Um, you know, I, I just wanted to see if, you know, you had an opinion about this,",,,,2
+25,A,"or, you know.",,,,2
+26,B,Uh-huh.,,,,2
+27,A,"Um, so, if that's okay with you, then I'll just press one.",,,,2
+28,B,That will be fine.,,,,2
+29,A,Okay,off topic end,,,2
+30,A,"Well, hi,",,,,0
+31,B,Hi.,,,,0
+32,A,"Good morning. Um,",,,,0
+33,A,"I think I mean, if, if I start this I just wanted to say that, um, one of the things that I don't think we really understood about the, the middle eastern situation is that they're a totally different type of people than we are,",minor topic start,,Talking about middle eastern situation,1
+34,A,and I mean they think differently,,,,1
+35,A,and their idea of what is justice is totally different from ours.,,,,1
+36,A,"And, and right now, I, I think that that's been proven in the fact that, um, they have just,",,,,1
+37,A,"well, anyway, I just think that, you know, the United States policy over there,",,,,1
+38,A,I think we should just leave them alone.,,,,1
+39,A,"I really do. In, in a major way because they just, um, that whole region over there, I think needs to settle its own differences within itself.",,,,1
+40,B,Yeah.,,,,1
+41,A,"And that's the way, the course that they should go,",,,,1
+42,A,"I mean, you know, we can maybe help them a little bit, prompt them,",,,,1
+43,A,but I don't think this intervention at such high levels should be going on.,,,,1
+44,A,"The, the thing with Israel and Palestine, I believe that should be settled between them.",,,,1
+45,A,"And also, um, you know, the other thing is their idea, or our idea of democracy has nothing to do with them.",,,,1
+46,A,"I mean, I mean, I'm talking about the whole middle",,,,1
+47,A,"and, and maybe this is too general,",,,,1
+48,A,"but I just believe that, um, they do not look at democracy the same way we do.",,,,1
+49,A,They don't understand it as we don't understand the way they live.,,,,1
+50,B,Yeah.,,,,1
+51,A,"And, so, you know, trying to put like a square peg in a round hole is just, you know,",,,,1
+52,A,I don't think that that's the way to go in this,,,,1
+53,A,"and, um, you know, it, it. Oh, well, that's, that's a couple thoughts on it.",,,,1
+54,B,Yeah.,,,,1
+55,A,"I, I guess, you know, I'd like you to maybe express something here.",,,,1
+56,B,"Well I, I, I think overall that's right.",,,,1
+57,B,"I think it's kind of sad though, that, for generations they've been taught to hate each other.",,,,1
+58,A,Yeah.,,,,1
+59,B,"And that's, you know,",,,,1
+60,B,"if,",,,,1
+61,B,somewhere in there someone's going to have to learn a different way.,,,,1
+62,A,"That's,",,,,1
+63,A,yeah.,,,,1
+64,B,"You know, an, an, I, I think that, um,",,,,1
+65,B,"true we do have completely different ways of looking at things, at a lot of things,",minor topic end,,,1
+66,B,"but, uh, at the same time, I think there are a lot of, there is a lot of good that the United States and other countries can do, as far as example",,,,0
+67,B,"and, and, uh, I think some different things could come from what's happened, than what we expect.",,,,0
+68,A,"Well,",,,,0
+69,A,"well, yeah,",,,,0
+70,A,"um, I, I guess we could be a catalyst for their change.",,,,0
+71,A,"I, um,",,,,0
+72,A,the war has certainly sort of set things on end over there,,,,0
+73,A,"and I don't think we'd be talking about this, you know, the Israeli situation, Palestinian situation, um, sort of came to a head, um, unless there had been a war.",,,,0
+74,A,"I mean that was one thing, that came out of it, good or bad,",,,,0
+75,B,Yeah.,,,,0
+76,A,"I, I don't judge any war as good or bad,",,,,0
+77,A,it's just a war.,,,,0
+78,B,Yeah.,,,,0
+79,A,"And I don't see any winners or losers,",,,,0
+80,A,I just see dead bodies.,,,,0
+81,A,"I'm sorry. You know,",,,,0
+82,A,"but, um, I, I just think, you know, you're right",off topic start,,Talking about solving the problem,2
+83,A,and I think maybe it's at a whole different level of them trying to cooperate and get along.,,,,2
+84,A,"It's not going to be that we're going to, uh, you know, sort of, tell them to go to their room",,,,2
+85,A,and that's going to solve the whole problem.,,,,2
+86,B,Yeah.,,,,2
+87,A,"It's going to be them,",,,,2
+88,B,"But, that's the type of thing they understand.",,,,2
+89,A,Yeah.,,,,2
+90,B,They don't understand any other way.,,,,2
+91,A,"And, you know,",,,,2
+92,B,"And so at that, at that, you have to work at their level, to an extent, too.",,,,2
+93,A,"It's,",,,,2
+94,A,"Yeah,",,,,2
+95,A,"that, that's true too,",,,,2
+96,A,"I, um.",,,,2
+97,B,They wouldn't have understood anything else than what we did in the war.,,,,2
+98,A,"Oh, well yeah,",,,,2
+99,A,"they, they understand violence.",,,,2
+100,B,There was nothing else.,,,,2
+101,B,Yeah.,off topic end,,,2
+102,A,"They love violent leaders, to, you know,",,,,0
+103,A,"I mean look at, you know, the leader they had.",,,,0
+104,A,"They, they just adored him, because he was so strict and cruel,",,,,0
+105,B,Yeah.,,,,0
+106,A,"and, you know, for a while there he had them,",,,,0
+107,B,I can't figure out why they adored him.,,,,0
+108,A,Well it has a lot to do with their religion.,,,,0
+109,A,"I got to say, that over there, um,",,,,0
+110,B,"Yes,",,,,0
+111,B,yeah.,,,,0
+112,A,"and I know this only because from personal experience that I'm speaking of this,",off topic start,,Relating topic with personal experience,2
+113,A,"because I, I've, you know, traveled around town with different cab drivers in a situation where I've done that",,,,2
+114,A,"and one, one of the kindest people I've ever met in my whole life, um, is from that area of the country",,,,2
+115,A,"and I mean he is just overly, he, he is abounding in kindness, let's say.",,,,2
+116,B,Yeah.,,,,2
+117,A,"And his wife is so godly, I mean, every thought,",,,,2
+118,A,they have a totally different life than we have.,,,,2
+119,B,Huh.,,,,2
+120,A,"You know, and when you add the, um, commercialization of the western world it sort of screws everything up for them.",,,,2
+121,B,Yeah.,,,,2
+122,A,"And they have very basic life, um,",,,,2
+123,A,well it's just a very basic life,,,,2
+124,A,"and they just really believe in Allah, or God, or whatever.",,,,2
+125,B,Uh-huh.,,,,2
+126,A,"And it's, you know, everything is to the glory of Allah,",,,,2
+127,A,"and, and, you know, and, it, it's almost like,",off topic end,,,2
+128,B,"What's sad is that the leaders that have control are power,",minor topic start,,Talking politically about leaders,1
+129,A,"Yeah,",,,,1
+130,A,"well that's, see using that,",,,,1
+131,A,yeah.,,,,1
+132,B,"yes,",,,,1
+133,B,and they abuse that.,,,,1
+134,A,And it's always been military,,,,1
+135,A,"and it's always been,",,,,1
+136,A,"and that's, that's always been the way of the world. Don't you think",,,,1
+137,B,"Which I think that that's not the, the way the majority of the people over there really are.",,,,1
+138,A,Yeah.,,,,1
+139,A,"So it's really hard,  when you see the leaders, compared to the people.",,,,1
+140,B,"But I think in a, in a way the war,  uh, I think in a way all, the involvement over there too, though, has shown a lot of people that there are a lot of people that don't follow what those few are doing.",,,,1
+141,B,And there are a lot of people who are good people.,,,,1
+142,A,"Yeah,",,,,1
+143,A,yeah.,,,,1
+144,B,"You know, there's,",,,,1
+145,B,"and I, I think we may not have ever have seen that without some of these, uh, newspeople being in there in the broadcasts and the, the, uh, soldiers leaving, um, you know, surrendering and, trying to get out of that situation.",,,,1
+146,A,Right,,,,1
+147,A,"and surrendering,",,,,1
+148,A,"that was,",,,,1
+149,A,Yeah.,,,,1
+150,B,"And, and, the, you know,",,,,1
+151,A,"it just really comes down to people are people, you know,",,,,1
+152,A,you have to have some compassion some humanness.,,,,1
+153,B,That's right.,,,,1
+154,A,"Doesn't matter where the boundaries are. Um, you know,",,,,1
+155,A,there are political boundaries,,,,1
+156,A,"and those are man made boundaries,",minor topic end,,,1
+157,A,"but, you know, for heaven sakes, that's something that's been going on for ages,",,,,0
+158,B,"and I, I think so much of it is what you're taught.",,,,0
+159,A,"Yeah,",,,,0
+160,A,that's true.,,,,0
+161,B,"You know, they teach their children, uh, in such a way that,",,,,0

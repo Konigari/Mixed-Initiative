@@ -1,0 +1,157 @@
+,Person,Conversation,Custom Tag,Custom Tag 2,Topic Description,Class
+0,A,I guess we're supposed to talk about what's being done about recycling.,opening,,,0
+1,B,Yes.,,,,0
+2,A,"Well, lots, right?",,,,0
+3,B,Right,,,,0
+4,A,Finally.,,,,0
+5,B,"Really,",,,,0
+6,B,"what, what do you do, now?",opening,,,0
+7,A,"Well, we have saved our newspapers for years and years because the, uh, Boy Scouts our boys have been involved in have, uh, had a huge recycling bin, over at Resurrection Lutheran Church",major topic start,,The major theme is about recycling,0
+8,B,Uh-huh.,,,,0
+9,B,Uh-huh.,,,,0
+10,B,Uh-huh.,,,,0
+11,A,"and, uh, so we've done that for quite some time,",,,,0
+12,A,but since the price of paper has gone down,,,,0
+13,A,like it's about a fifth of what it used to be,,,,0
+14,B,"Oh, really?",,,,0
+15,A,so the Boy Scout troop quit doing it when the City took it over.,,,,0
+16,B,Okay.,,,,0
+17,A,So now we just put ours out for the City of Plano.,,,,0
+18,A,Do you live in Plano?,off topic start,,A enquires B about where B lives,2
+19,B,"Yes,",,,,2
+20,B,I do.,,,,2
+21,A,"Okay,",,,,2
+22,A,yeah.,,,,2
+23,B,"Yeah,",off topic end,,,2
+24,B,and I'm so glad when they brought out those recycling bins.,minor topic start,,They start talking about recycling bins,1
+25,A,Right.,,,,1
+26,B,Have you had yours now?,,,,1
+27,A,Yes.,,,,1
+28,B,Yeah.,,,,1
+29,A,"Although just, just about a week ago some of my volunteer mothers that, uh, work in the library for me said they hadn't gotten theirs.",,,,1
+30,B,"Oh, that's why I asked you.",,,,1
+31,A,Yeah.,,,,1
+32,B,and not everyone got theirs right away.,minor topic end,,,1
+33,A,"Yeah,",,,,0
+34,A,yeah.,,,,0
+35,B,"And I, I was so relieved because I've been making a real concerted effort, make, you know, recycling the aluminum and the newspapers and even got into plastic because Wal-Mart collected it.",minor topic start,,They talk about thir recycling practices,1
+36,A,Uh-huh.,,,,1
+37,A,"Right,",,,,1
+38,A,"yeah,",,,,1
+39,A,we used to take ours there.,,,,1
+40,B,"And, uh",,,,1
+41,B,my garage was just getting overwhelmed.,,,,1
+42,A,I know.,,,,1
+43,B,"And, of course, I didn't go weekly,",,,,1
+44,B,"so it became quite a big  thing,",,,,1
+45,A,Right.,,,,1
+46,B,"and, uh,",,,,1
+47,A,"Right,",,,,1
+48,A,I'm really glad  they do it.,,,,1
+49,A,"Uh, yeah,",,,,1
+50,A,"I do news, mostly newspapers and, uh, plastic two liter diet Coke bottles And aluminum cans some,",minor topic end,,,1
+51,B,"Yes,",,,,0
+52,B,yeah.,,,,0
+53,A,but I don't use as many of those.,,,,0
+54,B,Uh-huh.,,,,0
+55,A,"I guess the ones that are hard to convince yourself to do are the ones that you have to really, that are really dirty that you have to wash out",minor topic start,,They talk about jars,1
+56,B,"Yeah,",,,,1
+57,B,"well, I found out after washing out many a peanut butter jar that they're not a recycling number one or two.",,,,1
+58,A,"Uh, ha.",,,,1
+59,B,"Uh, ha,",,,,1
+60,A,"Wasting all your time and effort and,  Putting it in there.",,,,1
+61,B,Thinking I was safe  in buying those jars as far as the environment was concerned.,,,,1
+62,A,"Yeah,",,,,1
+63,A,yeah.,,,,1
+64,B,"But, uh, you know, but it, it's not that hard now that I've got this  system under control.",,,,1
+65,A,Got your routine down.,minor topic end,,,1
+66,A,Yeah.,,,,0
+67,B,Yeah.,,,,0
+68,A,"Well, I guess there are some places, uh, in the north, in particular that, uh, have a real definite way of encouraging you to recycle",minor topic start,,They talk about how recycling is being encouraged,1
+69,A,"because they charge you, let's see, they charge you for your garbage pick up by the weight.",,,,1
+70,B,"Uh, uh-huh.",,,,1
+71,A,"So if you recycle things, of course, then you don't have all that weight in there.",,,,1
+72,B,"Yeah,",,,,1
+73,B,"I do find that I don't have as much to throw away because all the bulky things are, are being tossed in with the recycling.",,,,1
+74,A,Right.,,,,1
+75,A,That's right.,,,,1
+76,A,Yeah.,,,,1
+77,A,Yeah.,,,,1
+78,B,"And, uh, I don't know what they could do more of exactly around here right now other than, uh,",minor topic end,,,1
+79,B,what are some of the things they don't recycle.,minor topic start,,They talk about objects that are not recycled,1
+80,B,"Oh, one thing I thought about the other day were batteries,",,,,1
+81,B,"just everyday regular batteries. Supposedly, you know, leak and, and contaminate the landfills",,,,1
+82,A,Um.,,,,1
+83,A,Right.,,,,1
+84,B,"and, yet, what am I going to do when I have a couple double A batteries to toss out.",,,,1
+85,A,"Yeah,",,,,1
+86,A,right.,,,,1
+87,B,"And they don't take,",,,,1
+88,A,Probably going to throw them in your trash,,,,1
+89,B,"Yeah,",,,,1
+90,B,that's what happens,,,,1
+91,B,"because,",,,,1
+92,A,"Well, there are places that take car batteries,",,,,1
+93,A,"but I wonder if they would take,",,,,1
+94,B,Yeah.,,,,1
+95,A,"I mean, not that it would",,,,1
+96,A,"kind of a pain to, you know, drive over somewhere special just for that, for two little tiny batteries",,,,1
+97,A,"but,",,,,1
+98,B,"Yeah,",,,,1
+99,B,"yeah,",,,,1
+100,B,but I think the city one could possibly look into that or something.,,,,1
+101,A,"Yeah,",,,,1
+102,A,that's true.,,,,1
+103,B,"Uh, if they've got these bins for all the other little items,",,,,1
+104,B,"I'm sure if people will have batteries, uh, you know, quite often to, to toss out.",minor topic end,,,1
+105,A,"Right,",,,,0
+106,A,that's true.,,,,0
+107,A,"Uh, when I was home those few days around Thanksgiving and the, uh, the truck came by, well, we all ran out to watch it because, you know, we'd never really seen it pick up our stuff",off topic start,,A talks about his/her past experience,2
+108,B,Uh-huh.,,,,2
+109,A,"and one thing I thought was interesting was that the driver had something on his belt that he, uh, scanned across the little bar code on our bin as soon as he took the stuff",,,,2
+110,B,Oh.,,,,2
+111,B,"Oh, is that right?",,,,2
+112,A,"and he just pulled this thing kind of out of his pocket and just, you know, scanned it,",,,,2
+113,A,"so I don't know why, what that was reading it for",,,,2
+114,B,Huh.,,,,2
+115,A,"but, uh",,,,2
+116,B,Registering our garbage,,,,2
+117,A,"they must be trying to keep track of  , you know, who is doing it, or what, I guess.",,,,2
+118,B,Yeah.,,,,2
+119,A,I don't know.,,,,2
+120,A,"Another,",,,,2
+121,B,Wouldn't it be nice if you could get a credit back at the end of the year,,,,2
+122,A,"Ooh, for those who are really cooperating.",,,,2
+123,B,Yeah.,,,,2
+124,A,"Now, that would encourage it.",,,,2
+125,B,"Well, except I know it would just not be cost effective.",,,,2
+126,B,"They've already got all this money out on hiring, uh, getting the trucks and hiring people to work them.",,,,2
+127,B,I'm sure they couldn't afford that.,off topic end,,,2
+128,A,Sure.,,,,0
+129,B,But,,,,0
+130,A,Sure.,,,,0
+131,B,"uh,",,,,0
+132,A,"But the garbage, uh,",,,,0
+133,A,now there is just one garbage man that comes on the truck instead of two.,,,,0
+134,B,Yeah.,,,,0
+135,B,"Oh, yeah.",,,,0
+136,A,So that's interesting.,major topic end,,,0
+137,A,"Uh, also, slightly off the subject, but our, our big green garbage thing got stolen.",off topic start,,A talks about his bin being stolen,2
+138,B,"Oh, it did?",,,,2
+139,A,Uh-huh.,,,,2
+140,B,Gosh.,,,,2
+141,A,And we we called the City,,,,2
+142,A,"and, uh, they, they brought us a new one",,,,2
+143,A,and they did not charge us.,,,,2
+144,A,And they said that between three and four hundred have been stolen.,,,,2
+145,B,"Oh, my goodness.",,,,2
+146,A,Isn't that sad? You know.,,,,2
+147,B,It is sad.,,,,2
+148,A,"And just,",,,,2
+149,B,"You know,",,,,2
+150,B,they paid for those things anyway.,,,,2
+151,A,"Oh, and they must be, Yeah, really expensive.",,,,2
+152,B,"Or, our taxes do.",,,,2
+153,A,"I mean, of course, we were hoping we weren't, we weren't going to have to pay for it, you know",,,,2
+154,B,Uh-huh.,off topic end,,,2
+155,A,"but, I mean, what would somebody do with them.",,,,0

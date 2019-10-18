@@ -1,0 +1,153 @@
+,Person,Conversation,Custom Tag,Custom Tag 2,Topic Description,Class
+0,A,Okay,,,,0
+1,A,"wow, I don't know what that was.",off topic start,,addressing a random interuption,2
+2,B,What was that?,,,,2
+3,A,I don't know,off topic end,,,2
+4,B,"And, uh, to, uh, the Brazos River near Dinosaur Valley State Park.",major topic start,,persons thoughts on camping,0
+5,A,Uh-huh.,,,,0
+6,A,"Oh, yes.",,,,0
+7,B,Uh-huh.,,,,0
+8,A,"Uh-huh,",,,,0
+9,A,"uh, we have not camped in any of those places,",,,,0
+10,A,"in fact it has been a number of years since we have camped,",,,,0
+11,A,"but we used to go to Tyler State Park and, uh, Daingerfield",,,,0
+12,A,"and in Texas that is where we camp basically. Uh,",,,,0
+13,B,What are they like?,off topic start,,persons preferrences in campsites,2
+14,A,They are very nice.,,,,2
+15,A,"Tyler is really, really a neat place to camp.",,,,2
+16,A,It has a nice little lake,,,,2
+17,A,"and it has some really wonderful, uh, sights that are in the wooded areas.",,,,2
+18,A,"Uh, the facilities are quite nice",,,,2
+19,A,"and our children liked, liked it quite well.",,,,2
+20,A,"and you know they,",,,,2
+21,A,we felt real safe with their being able to do what they would like to do there in the area.,,,,2
+22,A,"And, uh, it was just, it was just a really nice place to camp.",,,,2
+23,B,Uh-huh.,,,,2
+24,A,"Uh, now Daingerfield is,",,,,2
+25,A,"let's see,",,,,2
+26,A,"I think that's a little bit more east, further east, and and maybe south, if I am remembering where that is.",,,,2
+27,A,"No,",,,,2
+28,A,"I think it's a little bit further north, when I think about it.",,,,2
+29,A,"At any rate it was, it was very nice as well.",,,,2
+30,A,"But Tyler, we sort of got spoiled with, I think.",,,,2
+31,B,Uh-huh.,off topic end,,,2
+32,A,"But, uh, we had lived in Michigan before we came here and, uh, had done a lot of camping in Michigan,",,,,0
+33,A,"I think the upper peninsula of Michigan, especially,",,,,0
+34,A,"and then also, we had done some camping in Colorado, in the mountains,",,,,0
+35,A,"so, uh, my parents were real avid campers",off topic start,,his parents connection to camping,2
+36,A,and my husband's parents were really avid campers as well.,,,,2
+37,A,So I guess we just kind of came by it naturally,off topic end,,,2
+38,B,Yeah.,,,,0
+39,A,Do you have a large tent,off topic start,,queries regarding persons tent and supplies,2
+40,A,"or,",,,,2
+41,B,"Yeah,",,,,2
+42,B,it was a nine by twelve.,,,,2
+43,A,Uh-huh.,,,,2
+44,B,Uh-huh.,,,,2
+45,A,"And how many does it sleep, uh, comfortably?",,,,2
+46,B,"Well, there, well supposedly,",,,,2
+47,B,they always say it sleeps more than it does.,,,,2
+48,A,Right,,,,2
+49,B,"But they,",,,,2
+50,B,it would have slept three adults anyway.,,,,2
+51,A,"Yeah,",,,,2
+52,B,Yeah.,,,,2
+53,A,"Well, sort of early on especially as our children got a little bit bigger, uh, we invested in some stacking, uh, cots, you know, that were like bunk, bunk beds,",,,,2
+54,A,"but they were cots, fold up cots.",,,,2
+55,A,"That really gave us a lot more space, um, floor space and, so, you did not have to be constantly getting things off the floor in order to walk around",,,,2
+56,A,"and,",,,,2
+57,B,Right.,,,,2
+58,A,"uh, gave us a place to stack things during the day",,,,2
+59,A,so that was real nice.,,,,2
+60,A,"But, uh, we, uh,",,,,2
+61,A,"like, my in-laws also had a camper, or, uh, a pop up tent, you know, one of those trailer tops",,,,2
+62,A,and those are really nice too.,,,,2
+63,A,"A little more, uh, luxurious, so to speak, but not much",,,,2
+64,B,do they have a kitchen in them?,,,,2
+65,A,"Yes,",,,,2
+66,A,uh-huh.,,,,2
+67,A,"It's really nice,",,,,2
+68,A,"in fact, it even had, had a little refrigerator, uh, and the whole business.",,,,2
+69,A,It was quite nice in that respect.,,,,2
+70,A,"Uh, and everything was very convenient",,,,2
+71,A,"and you did not have to, to be hauling things out of your, the trunk of you car,",,,,2
+72,B,"Trunk  of your car all time, right.",,,,2
+73,A,and that was nice.,off topic end,,,2
+74,A,"So, uh, do you have plans for, for any other camping trips in the near future?",minor topic start,,persons plans for future camping trips,1
+75,B,"Uh, maybe, uh, maybe back to Caddo, or, Uh, Purdis Creek.",,,,1
+76,A,Uh-huh.,,,,1
+77,A,Right.,,,,1
+78,B,"Or, I like Bob Sandlin too,",,,,1
+79,B,it's a new park.,,,,1
+80,A,Uh-huh.,,,,1
+81,B,"And there is, uh, not really camping,",,,,1
+82,B,"but, uh,",,,,1
+83,B,"what is it called, Cedar Hill.",,,,1
+84,A,Right.,,,,1
+85,B,Lake Joe Pool.,,,,1
+86,A,"Oh, yes.",,,,1
+87,B,"And sometime, I like to go to Eisenhower up on Lake Texoma.",,,,1
+88,A,"Yes,",,,,1
+89,A,"yes,",,,,1
+90,A,I have been in that area.,,,,1
+91,A,That is a really pretty state park.,,,,1
+92,A,"Uh, just,",,,,1
+93,A,"we did not camp there,",,,,1
+94,A,but we drove through it just one time when we were in that area,,,,1
+95,A,and it's real lovely.,,,,1
+96,A,"It's close to the lake and close to,",,,,1
+97,A,I think it's close to the dam up there,,,,1
+98,A,"so it's, it's really quite pretty.",,,,1
+99,A,"Uh, are you, um,",,,,1
+100,A,"let's see what was,",minor topic end,,,1
+101,A,I was going to ask you something else.,,,,0
+102,A,"Oh, do you have a favorite among all those that you have been to?",off topic start,,persons favourite campsite,2
+103,B,"Oh, from those three,",,,,2
+104,B,"just, just, uh, from when I have been an adult, I like Caddo the best.",,,,2
+105,A,"Yeah,",,,,2
+106,A,uh-huh.,off topic end,,,2
+107,A,"Uh, is it true that Caddo Lake is the only natural lake in the State of Texas?",off topic start,,query on lake Caddo,2
+108,B,"Yeah,",,,,2
+109,B,that's right.,,,,2
+110,A,"I, I would,",,,,2
+111,A,I have never been there,,,,2
+112,A,and I would love to see what it looks like,,,,2
+113,B,"It's not, it's not very deep.",,,,2
+114,A,Uh-huh.,,,,2
+115,B,"And they did build a dam on it,",,,,2
+116,B,but it was there before they built the dam.,,,,2
+117,B,It has been there for a hundred years.,,,,2
+118,A,"Oh, I see.",,,,2
+119,B,"Apparently, an earth quake caused it.",,,,2
+120,A,How interesting.,,,,2
+121,B,Yeah.,,,,2
+122,A,I guess I never heard the history of that.,off topic end,,,2
+123,A,"Huh, well, that might be some place where my husband and I can go.",,,,0
+124,A,We are talking about starting camping again in the fall.,,,,0
+125,A,"Um, our children are both grown",,,,0
+126,A,"and, and so, it's just pretty much the two of us who do things.",,,,0
+127,A,"And so, uh, we thought we might take some weekend trips and maybe that would be a good place to, to go to and see what it looks like.",,,,0
+128,B,"Yeah,",,,,0
+129,B,it's really nice.,,,,0
+130,A,"Yeah,",,,,0
+131,A,yeah.,,,,0
+132,B,"And I, I don't know,",,,,0
+133,B,probably spring is probably the busiest time anywhere  in Texas.,minor topic start,,conversation on the busiest camping times in texas,1
+134,A,Is it?,,,,1
+135,A,"Uh, yeah,",,,,1
+136,A,I think so.,,,,1
+137,A,"Especially with, uh, uh,",,,,1
+138,A,"when the trees start blossoming out and everything it is really very pretty,",,,,1
+139,B,Right.,,,,1
+140,A,"especially in East Texas, it's really nice.",,,,1
+141,A,"So, uh, well, I, um, I have enjoyed talking with you.",,,,1
+142,B,It was nice talking to you.,,,,1
+143,A,"And, um, have, uh, some happy camping trips",minor topic end,,,1
+144,A,Hope you get to those places you have talked about.,,,,0
+145,B,"Yeah,",major topic end,,,0
+146,B,you too.,,,,0
+147,A,"Well, okay,",closing,,,0
+148,A,thanks.,,,,0
+149,B,"Bye,",,,,0
+150,A,"Uh-huh,",closing,,,0
+151,A,bye-bye.,,,,0

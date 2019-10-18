@@ -1,0 +1,106 @@
+,Person,Conversation,Custom Tag,Custom Tag 2,Topic Description,Class
+0,A,Jeri?,opening,,,0
+1,B,Yes.,,,,0
+2,A,We're supposed to discuss crime in the United States and what can be done with it.,major topic start,,talk about crime and people's indifference towards it,0
+3,B,"That's a rather, rather broad topic",,,,0
+4,A,They're usually pretty broad anyway.,,,,0
+5,B,Yeah.,,,,0
+6,A,Where do you live?,off topic start,,talk about native place,2
+7,B,"Uh, we live in Plano.",,,,2
+8,A,"Okay,",,,,2
+9,A,"so, that's a,",,,,2
+10,B,"Uh, and where you are?",,,,2
+11,A,"I'm in Richardson,",,,,2
+12,A,"so when I heard the topic I was thinking of the thing down at, uh, Maceo High School in Dallas.",off topic end,minor topic start,talk about specific incident and its effect on children,2
+13,B,Uh-huh.,,,,0
+14,B,Right.,,,,0
+15,B,"Right,",,,,0
+16,B,that is so frightening.,,,,0
+17,A,"It is, you know,",,,,0
+18,B,"Uh, do you have children in school?",,,,0
+19,A,"No,",,,,0
+20,A,"mine are already in college now,",,,,0
+21,A,"so I don't have to,",,,,0
+22,B,Yeah.,,,,0
+23,A,"at least when they were in high school, it was beginning but not like the rampages.",,,,0
+24,B,"Well, I have,",,,,0
+25,B,my oldest is his first year in high school,,,,0
+26,B,"so we have all this to, to look forward to,",,,,0
+27,B,"and it is really frightening, uh, to think that you can't even send them to school in safety.",,,,0
+28,B,"I mean, certainly, you know, you can't just turn them loose in the middle of Dallas,",,,,0
+29,B,"but, you know, when you can't even, send them on their normal activities in safety, it, it's really frightening.",,minor topic end,,0
+30,A,That's true.,,,,0
+31,B,"And, uh, I really, you know,",,,,0
+32,B,"they're coming down on the principal,",,,,0
+33,B,but I really don't know what they can do.,,,,0
+34,B,"I mean, it's just in so much of society with the violence",,,,0
+35,B,and the kids having access to weapons and drugs,,,,0
+36,B,"and I, I really don't know what, what can be done.",,,,0
+37,A,"Yeah,",,,,0
+38,A,"well, I just, I just don't understand how, of course, in my little world, how guns could be so available.",minor topic start,,talk about guns being easily accessible,1
+39,B,"Well I don't either,",,,,1
+40,B,but apparently they just really are.,,,,1
+41,B,"Uh I mean, to me, in Plano you would think that would be about, you know, about as innocent as you could get for for being in a, a large area.",,,,1
+42,B,"But, you know, my son comes home and tells me that, you know, he hears kids talk about having guns",,,,1
+43,B,"and uh, someone came to his football practice about two weeks ago with a gun.",,,,1
+44,A,"Oh, my heavens.",,,,1
+45,B,"And, I mean, it just scared me to death",,,,1
+46,B,"and, you know, they called the police",,,,1
+47,B,"and, and nothing happened,",,,,1
+48,B,"but my goodness you know, it, it could have easily.",minor topic end,,,1
+49,A,"Well, maybe that's the answer to crime is getting more prosecution.",,,,0
+50,B,Maybe so.,,,,0
+51,A,"You know, because I don't,",,,,0
+52,A,"now I, somehow I feel we're living in an impartial society as far as people seeing something happen, you know, across the street, or seeing someone get mugged, or unfortunately, raped,",,,,0
+53,A,and people don't do anything.,,,,0
+54,B,Yeah.,,,,0
+55,A,"A woman was raped in Richardson, I read in the paper oh, about a two weeks ago now.",,,,0
+56,A,And all the neighbors said they heard her yelling for help.,,,,0
+57,B,"Oh, no.",,,,0
+58,A,"But nobody, nobody did anything.",,,,0
+59,B,I just can't imagine that.,,,,0
+60,A,"You know, I mean they heard someone calling for help.",,,,0
+61,A,"Nobody even called the police to say, you know, I hear a strange screaming",,,,0
+62,B,Right.,,,,0
+63,A,"I'm afraid, you know, if you,",,,,0
+64,A,I don't blame people with today's society about going out to help themselves.,,,,0
+65,B,"Right,",,,,0
+66,B,"well, I can see, you know, especially if you heard screams from a house or something, not going over there maybe, because, you know, it could be dangerous,",,,,0
+67,B,but certainly I can't understand not calling the police.,,,,0
+68,A,Yeah.,,,,0
+69,B,"I,",,,,0
+70,A,"I just, you know,",,,,0
+71,A,"it's, it's really frightening that we're not, we're trying to live in our own little cocoons",,,,0
+72,A,and probably one of the best things we could do for crime is to participate ourselves in its prevention.,,,,0
+73,B,Right.,,,,0
+74,B,"Well I, I think you're right there.",,,,0
+75,B,"I guess people just kind of keep their noses pointed in their own business,",,,,0
+76,B,but I think that's real dangerous,,,,0
+77,B,"and, uh, I don't know.",,,,0
+78,B,"I try to tell my kids just, just kind of be aware of what's around them, you know",,,,0
+79,B,"and if you see a situation that looks like it could be trouble, just get out of it or call for help, whichever.",,,,0
+80,A,Yes.,,,,0
+81,B,"But, uh,",,,,0
+82,A,"Yeah,",,,,0
+83,A,"well, you know, the call for help is what scares me now because it, it just,",,,,0
+84,A,"I don't know,",,,,0
+85,A,"people just don't,",,,,0
+86,A,"I don't know,",,,,0
+87,A,"I can't say they don't care, because people just have to care about another person.",,,,0
+88,B,Yeah.,,,,0
+89,A,"But it's that not getting involved, that impersonal society, I think we live in today.",,,,0
+90,B,"Well, maybe this thing with with the child at school, maybe that will make people think a bit more and, you know, take some steps to, to correct it.",,,,0
+91,B,"I don't know,",,,,0
+92,B,"it's, it really is, is frightening.",,,,0
+93,A,Yeah,,,,0
+94,B,"I, uh,",,,,0
+95,A,"Let me ask you,",minor topic start,,talk about police inaction,1
+96,A,"getting back to your son's football practice because it really sort of astonished me that police aren't doing,",,,,1
+97,A,"he didn't have a license for the gun, correct?",,,,1
+98,B,I don't know.,,,,1
+99,B,"I mean, I don't know the details.",,,,1
+100,B,This was not a child that was on the team.,,,,1
+101,B,"It was someone that, uh, you know, just kind of showed up at the field.",,,,1
+102,A,Uh-huh.,,,,1
+103,B,"Uh, it was a, a student age person,",,,,1
+104,B,"but I'm not even,",minor topic end,major topic end,,1

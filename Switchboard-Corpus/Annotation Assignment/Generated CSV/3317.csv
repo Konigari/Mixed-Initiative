@@ -1,0 +1,150 @@
+,Person,Conversation,Custom Tag,Custom Tag 2,Topic Description,Class
+0,A,"Okay,",,,,0
+1,A,what kind of house do you live in?,Major Topic - start,,Comparing their residences' specs,0
+2,B,"Well, uh, we live in a, a brick home in far north Dallas",,,,0
+3,B,"and it's, uh, four bedrooms and three and a half baths and swimming pool in the back",,,,0
+4,B,"and, It's about thirty-five hundred square feet.",,,,0
+5,A,Uh-huh.,,,,0
+6,A,"Well, it sounds like ours are pretty similar.",,,,0
+7,A,"I live in one,",,,,0
+8,A,I don't have a swimming pool.,,,,0
+9,A,And mine's about twenty-seven hundred square foot.,,,,0
+10,B,Yeah.,,,,0
+11,A,But the four bedrooms,,,,0
+12,A,and all the rest of it sounds just about about alike.,,,,0
+13,A,I think it's pretty much typical for this area.,,,,0
+14,B,It is.,,,,0
+15,B,Have you been living there very long?,Minor Topic - start,,Comparing their periods of living in residences',1
+16,A,I've been in the house,,,,1
+17,A,I'm in here right now about twelve and a half years.,,,,1
+18,B,So you've been there longer.,,,,1
+19,B,"We built this one about, uh,",,,,1
+20,B,"it's been let's see it's been six years six and a half years ago,",Minor Topic - end,,,1
+21,A,Uh-huh.,,,,0
+22,B,and we subcontracted it out ourselves.,Minor Topic - start,,Contracting the house,1
+23,B,"We bought the lot and, uh, had an architect draw the plans based on our specifications",,,,1
+24,A,"Oh, really?",,,,1
+25,A,Uh-huh.,,,,1
+26,B,"and then we subbed it out,",,,,1
+27,B,"so, we've been here a little over six years now. And uh, have really enjoyed it because we built what we wanted to have to live in.",Minor Topic - end,,,1
+28,A,Uh-huh.,,,,0
+29,A,"Well, I bet you,",,,,0
+30,A,Uh-huh.,,,,0
+31,B,My husband got his big garage.,Off topic - start,,Comparing Husbands' interests,2
+32,B,"He we have a three car garage, that he has a big work area in",,,,2
+33,A,Uh-huh.,,,,2
+34,B,and he likes to rebuild cars and redo engines,,,,2
+35,B,"and, so he has all the work space he needs.",,,,2
+36,A,"Well, that sounds interesting.",,,,2
+37,A,I bet he's enjoyed having it that way,,,,2
+38,B,"He,",,,,2
+39,A,because,,,,2
+40,A,kind of hard to find one prebuilt that 's kind of fits those specifications.,,,,2
+41,B,"It is,",,,,2
+42,B,and that's why we decided to build.,,,,2
+43,B,"We looked at things that were already, uh, built",,,,2
+44,A,Uh-huh.,,,,2
+45,B,"and the garages were always, if the house was large, it seemed like the garages were small even if they were three car garages which is what we have.",,,,2
+46,A,"Well, then, most of them don't have a three car garage.",,,,2
+47,B,Uh-huh.,,,,2
+48,A,They're kind of rare.,,,,2
+49,B,So we put a three car garage in.,,,,2
+50,A,Uh-huh.,,,,2
+51,B,"But, even if they had three car garages, they didn't have a work space.",,,,2
+52,B,All of it was taken up with just car space.,,,,2
+53,A,Uh-huh.,,,,2
+54,B,And so he has a big landing area that's between where the cars are in the garage and where the house starts that he can work on.,,,,2
+55,A,Uh-huh.,,,,2
+56,A,"Well that,",,,,2
+57,A,"my, we've just got a two car garage,",,,,2
+58,A,"but my husband's got a big space in between the, where the cars are and the house, where he has a big work shop, you know, workbench and everything.",,,,2
+59,B,"Well, sounds like our husbands have similar interests.",,,,2
+60,A,"Now, mine does not work on cars,",,,,2
+61,A,he just piddles on this and that.,,,,2
+62,B,"Oh, I see.",,,,2
+63,A,"But he likes to have a spot to keep all of his, his piddling things.",,,,2
+64,B,Uh-huh.,,,,2
+65,B,"Well, that's nice that it's not in your house.",,,,2
+66,A,It really is.,,,,2
+67,B,Uh-huh.,,,,2
+68,A,"Because, you know, they have a lot of things of their own,",,,,2
+69,A,"and I, you know, I wouldn't mind having,",Off topic - end,,,2
+70,A,"and I at one time was going to fix up when one of my daughters left, a bedroom to where I had a room to just put all of my craft stuff and sewing machine and all that kind of stuff,",Minor Topic - start,,A's Family adjusting to house,1
+71,B,Uh-huh.,,,,1
+72,A,"but I, someone,",,,,1
+73,A,"I don't know,",,,,1
+74,A,it ended up I got some furniture back that one of them had moved out or something.,,,,1
+75,B,Right.,,,,1
+76,A,So I didn't end up with my vacant room like I had thought I would.,,,,1
+77,B,"Well, we still have a, a son and daughter in college that come home.",,,,1
+78,A,Uh-huh.,,,,1
+79,B,And the other room we use as a guest bedroom because my husband's family come.,,,,1
+80,B,His parents come,,,,1
+81,B,and also the kids have friends who come and stay,,,,1
+82,A,Uh-huh.,,,,1
+83,B,and so it seems like it's always used as a bedroom.,,,,1
+84,A,Uh-huh.,,,,1
+85,A,"Well, I still,",,,,1
+86,A,"all three of my daughters are married,",,,,1
+87,A,"but, I don't know,",,,,1
+88,A,"I just still have need for the four bedrooms just having company from time to time. And some of them coming back home and things, you know.",,,,1
+89,B,Right.,,,,1
+90,B,"Oh, I understand",,,,1
+91,A,"And we've got grandchildren now,",,,,1
+92,A,"so when they come, they have to have a place.",Minor Topic - end,,,1
+93,B,"Well, we,",,,,0
+94,B,That's true,,,,0
+95,B,and you don't want them to not be able to come because there's no room.,Major Topic - end,,,0
+96,A,"That's right,",,,,0
+97,A,you sure don't.,,,,0
+98,A,"At times I keep thinking, though, that might be kind of nice.",Major Topic - start,,Comparing Families and generations and their behaviour,0
+99,B,"Well, I I haven't reached that point yet.",Minor Topic - start,,B's family,1
+100,B,I've heard people say that.,,,,1
+101,B,"But, uh, my middle son is engaged,",,,,1
+102,B,my oldest son has been going with the same girl for a while.,,,,1
+103,A,Uh-huh.,,,,1
+104,B,"He's out of college and has a good job,",,,,1
+105,A,Uh-huh.,,,,1
+106,B,"so he could afford to get married but, is not engaged yet,",,,,1
+107,A,Uh-huh.,,,,1
+108,B,"and my daughter's been going with the same boy for a while,",,,,1
+109,B,but she's still in college,,,,1
+110,B,and we're just as happy for her to finish her education first.,,,,1
+111,A,Uh-huh.,,,,1
+112,B,That's what she plans to do.,,,,1
+113,A,"Well, I don't blame you for that.",,,,1
+114,B,"So, I hope so.",Minor Topic - end,,,1
+115,A,"Well, I have the three girls",Minor Topic - start,,A's family activities,1
+116,A,and then we ended up with four grandsons.,,,,1
+117,B,"Oh, ho-ho.",,,,1
+118,A,And little boys are around the house a whole lot more than girls.,,,,1
+119,B,A whole new world.,,,,1
+120,B,Uh-huh.,,,,1
+121,A,"And, uh, I enjoy them coming, but for short doses",,,,1
+122,B,I can understand.,,,,1
+123,A,"It feels,",,,,1
+124,A,"after they've been here ten minutes, they have already explored the entire house,",,,,1
+125,A,they know everything.,,,,1
+126,B,Uh-huh.,,,,1
+127,A,"But, they're fun.",,,,1
+128,B,So you're all back to the safety catches and the whole nine yards or either watching them every minute.,,,,1
+129,A,"Well, I just watch them.",Major Topic - end,Minor Topic - end,,1
+130,B,Yeah.,,,,0
+131,A,I I never did put things up when my kids were little,Off topic - start,,"""what they did as a kid and what they pass on"" philosophy",2
+132,A,and I haven't with them.,,,,2
+133,A,I try to teach them not to get into things.,,,,2
+134,B,"Well, that's the same thing that I did.",,,,2
+135,B,I hope I'll be able to do the same with grandchildren.,,,,2
+136,A,"I think that once you do that, your children kind of develop the same attitudes.",,,,2
+137,A,At least my daughters have.,,,,2
+138,A,They try to teach theirs not to get into things instead of having to put everything up.,,,,2
+139,A,So it's worked pretty well.,,,,2
+140,A,"There's,",,,,2
+141,A,I don't really think anything's been broken.,,,,2
+142,A,"Every now and then we have to kind of go and say, now don't bother this you know.",,,,2
+143,B,"Um, uh-huh",,,,2
+144,A,"But, all in all, they mind pretty well.",,,,2
+145,A,"But, I guess most of the",Off topic - end,,,2
+146,A,what kind of roof does your house have?,,,,0
+147,A,Here I'm getting off the subject.,,,,0
+148,B,"Well, we have,",,,,0

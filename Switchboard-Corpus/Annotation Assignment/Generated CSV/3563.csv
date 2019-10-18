@@ -1,0 +1,120 @@
+,Person,Conversation,Custom Tag,Custom Tag 2,Topic Description,Class
+0,B,Lucille Hughes.,opening,,,0
+1,A,"Okay,",,,,0
+2,A,"Lucille, I'm on, on .",,,,0
+3,B,"All right,",,,,0
+4,B,"and what,",,,,0
+5,A,"And our  okay, our topic was,",,,,0
+6,A,did you hear our topic?,,,,0
+7,B,Yes.,,,,0
+8,A,"All right,",,,,0
+9,A,basketball.,opening,,,0
+10,B,Uh-huh.,,,,0
+11,A,I guess I'm probably a lot like you.,,,,0
+12,A,I'm a Dallas Maverick fan.,major topic start,,Talking about a basketball team named Dallas Mavericks,0
+13,B,"Well, I certainly am too.",,,,0
+14,B,Now tell me what you expect from the Mavericks this year.,,,,0
+15,A,"Well, unfortunately, I don't expect a great deal out of them.",,,,0
+16,A,"They just have too many problems, too many ailments, too many hurt bones, and maybe too much age at this point.",,,,0
+17,A,"You know, when Roy Tarpley just now he messed up on them, it just hurt them so bad.",,,,0
+18,A,"I feel like everyone else,",,,,0
+19,B,Um.,,,,0
+20,A,I feel sorry for Donald Carter and the members of the team and the management team and everyone else.,,,,0
+21,A,"It just seems like they were just getting themselves in a position where they could possibly be a final, a final team playing for all of it.",,,,0
+22,B,"Yes, sir.",,,,0
+23,A,"National championship or the world championship, and something like this happens.",,,,0
+24,B,Oh.,,,,0
+25,B,"Well, do you think it's time that we go for new, uh, coaches?",minor topic start,,Talking about whether or not to get new coaches,1
+26,B,Is that part of our problem?,,, ,1
+27,A,"Yeah,",,,,1
+28,A,"I think at this time, we're just in a, a rebuilding type of phase, you know.",,,,1
+29,A,"I think that probably be evident with the more and more, the more and more young guys they draft.",,,,1
+30,A,"But,",,,,1
+31,B,"Well, it just, it's so discouraging that they can't really,",,,,1
+32,B,"I mean, they're entitled to more than they've been able to do so far.",,,,1
+33,B,"I, I'm awfully sorry that the Mavericks can't come on and, and do.",minor topic end,,,1
+34,B,"Roy, who's your next best team,",off topic start,,Talking about personal interests,2
+35,B,or who do you like after the Mavericks?,,,,2
+36,A,"Oh, gosh,",,,,2
+37,A,"I'm so much a Maverick, Maverick fan I don't know.",,,,2
+38,A,Probably the Boston Celtics.,,,,2
+39,A,I've just always like the Boston Celtics.,,,,2
+40,A,"They have a, they have a similar situation in that a lot of old guys on the team,",,,,2
+41,A,"and, but they're still playing good ball.",,,,2
+42,B,Well.,,,,2
+43,A,"But I'm, I've always been a Boston Celtic fan, too,",,,,2
+44,A,"but, you know, I've lived in Texas since seventy-four,",off topic end,,,2
+45,A,"so being a transplanted Texan in, in the Dallas area, I have to stick with those Dallas Mavericks.",,,,0
+46,B,"We certainly need to support them,",,,,0
+47,B,do we not.,,,,0
+48,A,"Yes,",,,,0
+49,A,we do. You know.,,,,0
+50,B,Do you go to the game?,off topic start,,Talking about going to watch games or not,2
+51,A,"Yes,",,,,2
+52,A,I go to a few games.,,,,2
+53,A,I haven't been to many.,,,,2
+54,A,I'm not a season ticket holder or anything.,,,,2
+55,A,"I was a season ticket holder of the Cowboys for years,",,,,2
+56,A,"and when my kids got to a certain age and went off to school and college and doing their own thing, sort of gets boring going by yourself",,,,2
+57,B,"Yes,",,,,2
+58,B,it does,,,,2
+59,B,I'm sure it would in such a monstrous place down there.,,,,2
+60,A,"Oh, you bet.",,,,2
+61,B,"But, um, maybe next, maybe they can do some.",,,,2
+62,B,"I don't know,",off topic end,,,2
+63,B,who do they need to trade?,minor topic start,,Talking about trading some players to get new players to build their team,1
+64,A,"Well, I don't know.",,,,1
+65,A,"It seems like Rolando Blackman and, and Harper sort of carry the team,",,,,1
+66,A,"they just,",,,,1
+67,A,"I don't know,",,,,1
+68,A,"I'm afraid to say, that's probably who they need to trade to get someone in there good,",,,,1
+69,A,"but, and that can really help the team,",,,,1
+70,A,"but they do that,",,,,1
+71,A,they trade the nucleus of their power right now.,,,,1
+72,B,"Yes, sir,",,,,1
+73,B,it seems that way to me.,,,,1
+74,B,"I, course I don't know any of the newer ones that they have",,,,1
+75,B,"and I'm not well versed on their capabilities,",,,,1
+76,B,but we really need to do something.,,,,1
+77,A,"Well, you know, I feel like, uh, the best they can hope for this year is probably an opportunity to make the playoffs.",minor topic end,,,1
+78,A,I like their coach.,minor topic start,,Talking about the Mavericks' coach,1
+79,A,"I really like a lot,",,,,1
+80,A,"and I just, I think he deserves a good break.",,,,1
+81,A,I think he deserves a healthy team so they can really see what he can do for the club.,,,,1
+82,A,"I think Donald Carter, the owner, I think with all he's invested, he deserves a a healthy team for one year and a good break also.",,,,1
+83,B,I really.,,,,1
+84,B,"Yes, sir.",minor topic end,,,1
+85,A,"This thing with Roy Tarpley just upset everyone, I think. Fans, owners, management, everyone.",minor topic start,,"Talking about Roy, who left Mavericks",1
+86,B,"And they have just done as much as they can for that man,",,,,1
+87,B,"and he apparently can't straighten his act out,",,,,1
+88,B,"so we need to, to build on something more positive than that.",,,,1
+89,A,You bet.,,,,1
+90,A,I think they're fools if they ever bring him back,,,,1
+91,B,"Oh, I do, too.",,,,1
+92,B,I certainly would agree to that.,,,,1
+93,A,Hate to put it that way.,,,,1
+94,A,I just would not believe him any more.,,,,1
+95,B,"Well, it, um,",,,,1
+96,B,"I mean, you can't give, anyone too many chances",,,,1
+97,A,No.,,,,1
+98,B,and I think he has gone over the limit.,,,,1
+99,A,"There's an old saying you can, you can lead a horse to water",,,,1
+100,A,but you can't make him drink.,,,,1
+101,A,"So,",,,,1
+102,B,That's right.,,,,1
+103,A,And I think Tarpley's just a sad case.,,,,1
+104,B,Well.,,,,1
+105,A,"But to be making a, a million dollars a year, that's pretty sad.",,,,1
+106,B,It is tragic.,,,,1
+107,B,"I don't, um,",,,,1
+108,B,"I mean, we're going to have to do something about all of these fabulous salaries they're paying to all of our athletes, I think.",,,,1
+109,A,"Oh, I think you're right.",,,,1
+110,A,Everything has been put out of perspective now.,,,,1
+111,A,"You know, you take a, a young kid Roy Tarpley's age, I'd say he was twenty-one when he came into the league,",,,,1
+112,A,"and now he's probably an old age of, uh, twenty-five or six and making all that money,",,,,1
+113,B,"Yes, sir.",,,,1
+114,A,"well, that's, uh, that's quite a, that's a little more of a challenge for a young man than they, they need at that point in their life, I think.",,,,1
+115,B,I think you're right.,minor topic end,major topic end,,1
+116,B,"I believe that one,",,,,0
+117,B,so.,,,,0
+118,A,"I think, you know, it's created by,",,,,0

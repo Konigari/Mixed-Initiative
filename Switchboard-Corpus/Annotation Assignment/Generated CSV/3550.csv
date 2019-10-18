@@ -1,0 +1,195 @@
+,Person,Conversation,Custom Tag,Custom Tag 2,Topic Description,Class
+0,A,Okay.,opening,,,0
+1,B,All right.,,,,0
+2,A,Go ahead.,,,,0
+3,B,"Well, what kind of car would I want to buy.",major topic start,,comparing cars,0
+4,A,Yeah.,,,,0
+5,B,I don't know.,,,,0
+6,B,"The question is, I mean, would I want to buy,",,,,0
+7,B,"or would I, would I probably actually buy.",,,,0
+8,B,May be two different things.,,,,0
+9,A,"Oh, well, if you, if you had all your, all the money in the world or something.",,,,0
+10,B,"If I had all the money I wanted, then that's whole different matter.",,,,0
+11,B,"No,",,,,0
+12,B,"in that case, I'd, I'd, I don't know.",,,,0
+13,B,"I, I, my dream car for years was a, was a Porsche Turbo .",,,,0
+14,A,Uh-huh.,,,,0
+15,A,Uh-huh.,,,,0
+16,B,"But, uh, I don't know if I'd want one of those now.",,,,0
+17,A,"Oh, really?",,,,0
+18,B,Of course I would want one if somebody was was given to me.,,,,0
+19,A,Yeah.,,,,0
+20,B,"But I maybe would buy a B M W. Uh, or, or even a Volvo.",,,,0
+21,A,Uh-huh.,,,,0
+22,A,What do you have now?,,,,0
+23,B,"I've got a, uh, a Dodge Daytona.",minor topic start,,cars speakers own/have owned,1
+24,A,Uh-huh.,,,,1
+25,B,It's actually the first car we ever bought new.,,,,1
+26,A,"Oh, really.",,,,1
+27,A,"Yeah,",,,,1
+28,A,"we just, we, well, I have",,,,1
+29,A,"my car is the first one we ever bought new, too.",,,,1
+30,B,Uh-huh.,,,,1
+31,A,"But we just bought another used car, a couple weeks ago, actually.",,,,1
+32,B,"Uh-huh,",,,,1
+33,B,yeah,,,,1
+34,B,me too,,,,1
+35,B,So what car do you drive?,,,,1
+36,B,What is it?,,,,1
+37,A,"Uh, mine is a Honda Accord.",,,,1
+38,B,"Uh-huh,",,,,1
+39,B,we almost bought one of those.,minor topic end,,,1
+40,B,Do you like it?,,,,0
+41,A,"Yeah,",,,,0
+42,A,"I do,",,,,0
+43,A,"and, and, um, it's funny because, after I bought it, I was doing a lot of business traveling,",minor topic start,,comparing automatics vs standards,1
+44,A,"and I,",,,,1
+45,A,some of the cars that I got were like the Toyota Camry and the Nissan Maxima and some of the competitors,,,,1
+46,B,Uh-huh.,,,,1
+47,A,"and, um, I don't like them as well except, it wasn't really a fair comparison because those were automatics,",,,,1
+48,A,and mine is a standard,,,,1
+49,B,Yeah.,,,,1
+50,A,and the reason I got a standard was because I thought it handled a lot better,,,,1
+51,B,Uh-huh.,,,,1
+52,A,it had a lot more pickup and everything.,,,,1
+53,B,"Yeah,",,,,1
+54,B,you get a little more control over when when it's doing the things it's doing.,,,,1
+55,A,Uh-huh.,,,,1
+56,B,Yeah.,minor topic end,,,1
+57,B,"Uh, what, what rental agent did you go to to actually rent to rent those kind of cars.",off topic start,,car rentals,2
+58,A,Um,,,,2
+59,A,usually AVIS.,,,,2
+60,B,"To what, AVIS?",,,,2
+61,A,AVIS.,,,,2
+62,B,Really.,,,,2
+63,A,Yeah.,,,,2
+64,B,Huh.,,,,2
+65,B,"I guess,",,,,2
+66,A,"It's just because we're on,",,,,2
+67,A,"I think of it,",,,,2
+68,A,"I'm not sure those are AVIS or not,",,,,2
+69,A,"but we have corporate contracts you know, with the various companies",,,,2
+70,B,I see.,,,,2
+71,B,Uh-huh.,,,,2
+72,A,"so it depends on your destination, too.",,,,2
+73,B,Right.,,,,2
+74,A,Kind of strange,,,,2
+75,B,"You work for a big company, then.",,,,2
+76,A,"Work for T I. Uh-huh, which is how I heard about this",,,,2
+77,B,"T I, I see.",off topic end,,,2
+78,B,"Uh-huh. Um,",,,,0
+79,B,"but yeah,",,,,0
+80,B,"I, I, uh, I don't know,",,,,0
+81,B,"I would probably, if I were to buy a car you know, with the constraints of real money I probably would, would go with something like, you know, like a Honda Accord.",,,,0
+82,A,Uh-huh.,,,,0
+83,A,Uh-huh.,,,,0
+84,B,"Maybe it would,",,,,0
+85,B,"one thing I, I really liked about, about the Dodge Daytona is the fact that they have, uh, this seven year warranty.",minor topic start,,car warranties and it’s usefulness,1
+86,A,"Oh, really.",,,,1
+87,B,"Um, and it really saved us some big money once.",,,,1
+88,A,"It did, huh.",,,,1
+89,B,"Yeah,",,,,1
+90,B,"they had a whole bunch of things that, that sort of broke at the same time",,,,1
+91,A,"Oh, my gosh.",,,,1
+92,B,"and the bill would have been over fifteen hundred dollars,",,,,1
+93,B,"and I had to pay twenty five for the,",,,,1
+94,A,"Oh, that was great.",,,,1
+95,B,"Yeah,",,,,1
+96,B,it was.,,,,1
+97,A,"That's unusual to hear,",,,,1
+98,A,"usually, you know something breaks,",,,,1
+99,A,you look at the warranty,,,,1
+100,A,and it's excluded.,,,,1
+101,B,"Well, we, we bought the extended, the the extension and, uh, at the time we bought it it was like, you know, I don't know, four hundred and twenty-five dollars or something extra.",,,,1
+102,A,"Oh, I see,",,,,1
+103,A,okay.,,,,1
+104,A,"Oh, you got your money's worth.",,,,1
+105,B,"Yeah,",,,,1
+106,B,"we did,",,,,1
+107,B,"but, you know, we really debated at the beginning,",,,,1
+108,B,and of course I'm glad I did it.,,,,1
+109,A,Yeah.,,,,1
+110,A,"Yeah,",,,,1
+111,A,that is good.,,,,1
+112,B,"But, um, we still have, we still have like, you know, three years left on it.",,,,1
+113,A,"Yeah,",minor topic end,,,1
+114,A,"well, I've been lucky.",off topic start,,incident about car,2
+115,A,Mine hasn't had any trouble except last week a shopping cart crashed into it,,,,2
+116,B,"Oh, no.",,,,2
+117,A,"but I was real lucky because it just hit the, um the lens to the light.",,,,2
+118,B,Bumper?,,,,2
+119,B,Oh.,,,,2
+120,A,It didn't actually dent the car or anything.,,,,2
+121,A,"So it cost me twenty-five bucks to replace that,",,,,2
+122,B,"Well, that was good.",,,,2
+123,A,"and the store will pay for it anyway,",,,,2
+124,B,Are you.,off topic end,,,2
+125,A,so. No big deal.,,,,0
+126,B,Uh-huh.,,,,0
+127,B,"Um, if you were, if you were going to, uh, buy a new car would you buy another, uh, another Accord?",,,,0
+128,A,"Um, I probably wouldn't, just because I already have one",,,,0
+129,B,Uh-huh.,,,,0
+130,A,"but, you know, if I had to make the choice again, I, yeah, I, I'm perfectly happy with what I decided um, although we did just buy another car,",,,,0
+131,B,Uh-huh.,,,,0
+132,A,and that's a Legend,,,,0
+133,B,"Oh, yeah,",,,,0
+134,B,those are nice .,,,,0
+135,A,"um, but it's, it's a used one",,,,0
+136,B,Uh-huh.,,,,0
+137,A,"and, um, my husband has really wanted one for a long time,",minor topic start,,old cars,1
+138,A,"and the fact that, you know, this this car that I have has performed so well,",,,,1
+139,A,"and before that I also had an Accord,",,,,1
+140,A,it was a real old one,,,,1
+141,B,Uh-huh.,,,,1
+142,A,"and, uh, I bought that used.",,,,1
+143,A,"I had absolutely no money to my name and bought that,",,,,1
+144,A,"and it served me real well, too.",,,,1
+145,B,Uh-huh.,,,,1
+146,A,So he's been impressed with all the Honda cars.,minor topic end,,,1
+147,B,Right.,,,,0
+148,A,And.,,,,0
+149,B,"Yeah,",,,,0
+150,B,my sister drives one.,,,,0
+151,B,"She drives a, uh, I don't know, is it Legend",,,,0
+152,A,Uh-huh.,,,,0
+153,B,"it's a,",,,,0
+154,B,"I'm not certain,",,,,0
+155,B,"but she's liked it. Um,",,,,0
+156,A,Yeah.,,,,0
+157,B,"But, I, I have, I have never had,",,,,0
+158,B,"and we,",,,,0
+159,B,"in fact, what I'm driving right now,",,,,0
+160,B,"we bought a, we only had one car for a long time,",,,,0
+161,B,"and and yet most of our usage of the car was just this little shuttle back and forth, four miles to work and back kind of thing.",,,,0
+162,A,Uh-huh.,,,,0
+163,A,Uh-huh.,,,,0
+164,B,"And so, uh, I bought a used Yugo just to be a little, you know, little car that I could care less about",,,,0
+165,A,Uh-huh.,,,,0
+166,A,Yeah.,,,,0
+167,A,How did it go for you?,,,,0
+168,B,"Oh, well, it's, uh, it's worked.",,,,0
+169,A,Hasn't left you stranded.,,,,0
+170,B,"I mean, that's exactly what it is, you know,",,,,0
+171,B,"it's just a, it's a cheap little little car just to go, you know, run around town in",,,,0
+172,A,Yeah,,,,0
+173,A,I know.,,,,0
+174,A,Yeah.,,,,0
+175,B,"and, uh. It's actually kind of fun to drive.",,,,0
+176,B,"I, I,",,,,0
+177,B,"you know, getting back in the Daytona now, I almost don't like it. You know",,,,0
+178,A,Really.,,,,0
+179,B,"it's like too, too mushy,",,,,0
+180,B,"and it, you know it's an automatic,",,,,0
+181,A,Huh.,,,,0
+182,B,and,,,,0
+183,A,"Well, that's what my husband thinks about my car now, that he's had the Legend",,,,0
+184,B,"it's too,",,,,0
+185,B,the steering,,,,0
+186,A,it's windy.,,,,0
+187,B,"you know, you feel like you're in a boat or something, you know,",,,,0
+188,B,"it's kind of,",,,,0
+189,A,"I can't drive that,",,,,0
+190,A,"the Legend, it's just so huge.",,,,0
+191,B,Oh.,,,,0
+192,A,"I, I don't like it,",,,,0
+193,A,"and it's so, uh,",major topic end,,,0

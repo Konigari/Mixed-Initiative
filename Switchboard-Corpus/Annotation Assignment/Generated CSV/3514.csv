@@ -1,0 +1,113 @@
+,Person,Conversation,Custom Tag,Custom Tag 2,Topic Description,Class
+0,A,"Okay,",,,,0
+1,A,we're supposed to talk about vacations.,,,,0
+2,B,"Right,",,,,0
+3,B,"so, uh, well, uh, what kind of vacations do you like?",Major Topic - start,,Vactions,0
+4,A,"Well, uh, I haven't been to many places,",,,,0
+5,A,"but I have a opportunity to go to, uh, Paris, France, uh, with, uh, with my friend in April.",Off topic - start,,Friend's family in Paris,2
+6,A,"She is, her, uh, her family, you know, lives there,",,,,2
+7,A,and she's only been there once.,,,,2
+8,A,Her grandmother lives there,,,,2
+9,B,Uh-huh.,,,,2
+10,A,"so I'm hoping to I'm praying I get to go. Uh,",Off topic - end,,,2
+11,B,"Oh, that's great.",,,,0
+12,A,"Yeah,",,,,0
+13,A,"it's, it will be probably the most exciting place I'll ever get to go.",,,,0
+14,B,Uh-huh.,,,,0
+15,A,"Have you ever been to, uh, like New Mexico?",,,,0
+16,B,"Uh, no, actually.",,,,0
+17,A,Oh.,,,,0
+18,B,"Why,  have you?",,,,0
+19,A,I was curious.,,,,0
+20,A,I was just wondering what it was like.,,,,0
+21,B,"Oh, okay",,,,0
+22,B,"No, uh,",,,,0
+23,B,"I have been to Europe once and to Haiti and, uh,",Off topic - start,,Haiti vs Tahiti,2
+24,A,Tahiti?,,,,2
+25,B,Yeah.,,,,2
+26,A,"Tahiti,",,,,2
+27,A,oh.,,,,2
+28,B,"No,",,,,2
+29,B,"no,",,,,2
+30,B,Haiti.,,,,2
+31,A,"Oh, Haiti.",,,,2
+32,B,Right.,,,,2
+33,A,Where is that?,,,,2
+34,B,"It's, uh, well, it's in the Caribbean",,,,2
+35,B,"and it's the western half of an island,",,,,2
+36,B,with the eastern half that's the Dominican Republic.,Off topic - end,,,2
+37,A,Uh-huh.,,,,0
+38,B,"And I was down there with a program from the college that I went to where we would just spend like three months in a foreign country, most of them third world countries. And study the language and then do a little service project.",Off topic - start,,Why B went to Haiti,2
+39,A,Uh-huh.,,,,2
+40,A,Um.,,,,2
+41,B,"So, yeah,",,,,2
+42,B,that turned out to be a really good experience for me.,,,,2
+43,A,"So, what did you do when you were in Europe?",,,,2
+44,B,"Uh, well, see, I went there when I was in high school, actually",Off topic - end,,,2
+45,A,Uh-huh.,,,,0
+46,B,"and I mostly went to Germany and visited some friends of my family and, uh, hung out with them, worked a bit on one of their farms and also went to a youth camp.",Minor Topic - start,,Experiences in Germany,1
+47,A,What did you do on the farm?,,,,1
+48,B,"Uh, uh, uh, well, not that much",,,,1
+49,B,"Just, uh,",,,,1
+50,A,"Are you just  kind of sight, just kind of, uh,",,,,1
+51,B,"Right,",,,,1
+52,B,"I mean, I wasn't a great asset to them or anything",,,,1
+53,B,"But I, you know, drove a tractor, helped them weed beets and that sort of thing.",,,,1
+54,A,Um.,,,,1
+55,B,"And, uh, yep,",,,,1
+56,B,and I went to a youth camp that included working at an old people's home,,,,1
+57,B,and that was pretty interesting.,Minor Topic - end,,,1
+58,B,"And while I was there I visited my aunt and uncle who were, uh, staying for their vacation in France in Nantes, which is on the west coast, like right across from England.",,,,0
+59,A,Um.,,,,0
+60,B,"Uh, so, uh, where in France are you,",,,,0
+61,A,Paris.,,,,0
+62,B,"Right,",,,,0
+63,B,Paris.,,,,0
+64,A,Yeah.,,,,0
+65,B,"And, uh, um, how long do you plan to be going for?",,,,0
+66,A,"Uh, two weeks.",,,,0
+67,A,"Last time she stayed two months,",,,,0
+68,A,but we're only going to stay two weeks.,,,,0
+69,B,Uh-huh.,,,,0
+70,A,"So,",,,,0
+71,B,Great.,,,,0
+72,B,"And, uh,",,,,0
+73,A,"We're going to take a cooking class there,",Off topic - start,,What French cooking is,2
+74,A,so that might be fun.,,,,2
+75,B,A what?,,,,2
+76,A,"Cooking class, you know,",,,,2
+77,A,French cooking.,Off topic - end,,,2
+78,B,"Oh, great.",,,,0
+79,A,Yeah.,,,,0
+80,B,"And, uh, what else are you planning to do, if anything?",Minor Topic - start,,Itinerary for vacation for A,1
+81,A,"Museums, you know,",,,,1
+82,A,"go to museums and,",,,,1
+83,B,Uh-huh.,,,,1
+84,B,"Yeah, um,",Minor Topic - end,,,1
+85,A,Do you go to museums in Europe?,Minor Topic - start,,B's expereinces in Europe,1
+86,B,"Uh, actually, no,",,,,1
+87,B,I don't think I went to any of them.,,,,1
+88,B,"Uh, the closest thing I did was go to some like, uh, restored castles and stuff.",,,,1
+89,A,Um.,,,,1
+90,B,"That, there is some on that west coast of France",,,,1
+91,B,and I went to a vineyard or two in Germany.,,,,1
+92,A,"Um, that's neat.",,,,1
+93,B,"Yeah,",,,,1
+94,B,that was nice.,Minor Topic - end,,,1
+95,B,"Uh, um, but, so, uh,",,,,0
+96,A,"Hey,",,,,0
+97,A,"what about,",,Minor Topic - start,Confirming whether they went to Hawaii,0
+98,A,have you ever been to Hawaii?,,,,0
+99,B,"Uh, no,",,,,0
+100,B,I haven't.,,,,0
+101,A,No?,,,,0
+102,B,Have you?,,,,0
+103,A,No.,,,,0
+104,B,Okay,,,,0
+105,B,"Well, uh, well,",,,,0
+106,A,I'm wanting to go there.,,Minor Topic - end,,0
+107,B,Where have you gone first?,,,,0
+108,A,"Oh, where have I gone that's anywhere.",Major Topic - end,,,0
+109,B,"Yeah,",,,,0
+110,B,"I mean,",,,,0
+111,A,"Uh,",,,,0

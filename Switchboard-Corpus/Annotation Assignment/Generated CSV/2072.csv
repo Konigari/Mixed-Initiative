@@ -1,0 +1,198 @@
+,Person,Conversation,Custom Tag,Custom Tag 2,Topic Description,Class
+0,A,All righty .,opening,major topic start,Hobby discussion,0
+1,A,"Uh, I'll just hand it off to you",,,,0
+2,A,and hobbies in our spare time is what we've been selected to discuss today.,opening,,,0
+3,B,"Well, uh, the hobbies that I pursue in my spare time, are crafts",minor topic start,,,1
+4,B,"and, uh, I've been involved in making, uh, hat stands and, uh, rag dolls and, uh, different type hats with, uh, flowers and roses, you know, and, uh, that kind of thing, straw hats and, all that kind of stuff.",,,,1
+5,A,Oh like typing noises in,,,,1
+6,B,"And I enjoy it,",,,,1
+7,B,it's relaxing.,,,,1
+8,B,And you kind of get absorbed in it,,,,1
+9,B,"so the time goes by, you know, before you realize anything is going on.",minor topic end,,,1
+10,B,"And I play the organ sometimes, uh, just for my own satisfaction Not for anybody else's ears",minor topic start,,B's interest in instruments,1
+11,B,"because I'm not that good at it,",,,,1
+12,B,but I like to bang on the keyboards once in a while.,,,,1
+13,A,Oh really?,minor topic end,,,1
+14,B,How about yourself?,off topic start,,A's inability to deal with many hobbies,2
+15,A,"Well, oh, hobbies, gee whiz,",,,,2
+16,A,I guess I got too many hobbies,,,,2
+17,A,so I never have time to deal with them.,,,,2
+18,B,Really?,off topic end,,,2
+19,A,"I like photography a lot,",minor topic start,,A's interest in photography,1
+20,B,"Oh, yeah,",,,,1
+21,B,that's neat.,,,,1
+22,A,"uh, I used to do that a lot",,,,1
+23,A,"and then I like, um,",,,,1
+24,A,"we have a new child that will be a year old here next week,",,,,1
+25,A,"so I'll take a lot of pictures of her, you know, and spoil them,",,,,1
+26,B,"Oh, that's great,",,,,1
+27,B,uh-huh.,,,,1
+28,A,"first one, you know how that is.",minor topic end,,,1
+29,A,"And, um, uh, I play the guitar and a banjo.",minor topic start,,A's interest in instruments,1
+30,A,"I mainly play the guitar a lot,",,,,1
+31,A,I play about every night.,,,,1
+32,A,"And, um, I really love that,",,,,1
+33,A,"if I had a druther ,",,,,1
+34,A,"if I could have, if I could make it on the road, I'd like to play on like a bluegrass band or something,",,,,1
+35,A,"because that's,",,,,1
+36,A,"I've,",,,,1
+37,B,"Oh, that sounds nice.",,,,1
+38,B,"I like bluegrass, too.",,,,1
+39,A,"yeah,",,,,1
+40,A,"I've done it before and when I was in in high school and college, and thoroughly enjoyed it,",,,,1
+41,B,Uh-huh.,,,,1
+42,A,"and it's really a, a blast.",minor topic end,,,1
+43,A,"My wife hates it,",off topic start,,A's wife dislikes bluegrass,2
+44,A,"but that's the way life is, I guess.",,,,2
+45,B,"That's the hard part, right?",,,,2
+46,A,Exactly.,,,,2
+47,B,"If you can do things together, that really helps a lot.",,,,2
+48,A,"yeah,",off topic end,,,2
+49,A,"we, uh,",minor topic start,,A and his wife's experience with aerobics,1
+50,A,"she's, uh, into aerobics,",,,,1
+51,A,"and, uh, and we did aerobics together for about a month and a half",,,,1
+52,B,"Oh, that's good, too.",,,,1
+53,A,"and that went over real well,",,,,1
+54,B,Uh-huh.,,,,1
+55,A,"but, uh, that's about it there.",,,,1
+56,B,"Oh, it's good",,,,1
+57,B,"and it's healthy, too.",,,,1
+58,A,"Oh, yeah,",,,,1
+59,A,yeah.,minor topic end,,,1
+60,B,"We do that too,",minor topic start,,B indulging in exercise and movies,1
+61,B,"we have a, uh, a treadmill and, uh, a bicycle and that kind of stuff,",,,,1
+62,B,"we try to get twenty minutes like at least three for four times a week, you know.",,,,1
+63,A,"Oh, that's great.",,,,1
+64,B,Yeah.,,,,1
+65,A,That's great.,,,,1
+66,B,"And we like movies,",,,,1
+67,B,that,,,,1
+68,B,yeah.,,,,1
+69,A,"Yeah,",minor topic end,,,1
+70,A,"that's, uh,",minor topic start,,Responsibility of having a child,1
+71,A,"spare time,",,,,1
+72,A,"with a child it's, kind of",,,,1
+73,A,"she's,",,,,1
+74,A,"we have, uh,",,,,1
+75,A,we're looking for a baby-sitter,,,,1
+76,A,so we've been out twice in in this year so far. By ourselves without the child,,,,1
+77,B,Uh-huh.,,,,1
+78,A,"so it's kind of, uh, become an issue you could say.",,,,1
+79,B,Sure.,minor topic end,,,1
+80,A,"Um, hobbies,",minor topic start,,Modifying house interiors with spouses,1
+81,A,"I like, messing around in your house building things, and, you know, putting cabinets up, and, those kind of things, um,",,,,1
+82,B,"Oh yeah,",,,,1
+83,B,"that's great, too.",,,,1
+84,B,Uh-huh.,,,,1
+85,B,"Yeah,",,,,1
+86,B,"we did some remodeling when we bought a house,",,,,1
+87,B,"we built, put a kitchen in and, um, that kind of stuff, and painting and some wallpapering,",,,,1
+88,B,that's fun.,,,,1
+89,A,It's really kind of fun.,,,,1
+90,B,It is.,,,,1
+91,B,It really is.,,,,1
+92,A,"Especially if your spouse will get in there with you and get dirty,",,,,1
+93,A,yeah.,,,,1
+94,B,"Yeah,",,,,1
+95,B,exactly.,minor topic end,,,1
+96,B,"I like things that, you know, two people can do,",minor topic start,,Hobbies they indulge in themselves,1
+97,B,"but I like the quiet of doing things away, you know,",,,,1
+98,B,"kind of gives you some space for yourself,",,,,1
+99,B,"and that's what I find in making the dolls and things, that it gives me something that I can create,",,,,1
+100,B,and I like to crochet and knit.,,,,1
+101,B,I made some afghans and that kind of stuff.,,,,1
+102,B,I like doing things with my hands.,,,,1
+103,A,Uh-huh.,,,,1
+104,A,Sounds like it.,,,,1
+105,B,Yeah.,minor topic end,,,1
+106,A,Do you like to cook?,minor topic start,,Interest in cooking,1
+107,B,"Yes,",,,,1
+108,B,I love to cook.,,,,1
+109,A,"Yeah,",,,,1
+110,A,"I love to cook, too,",,,,1
+111,A,"I'm, uh,",,,,1
+112,B,Italian food,,,,1
+113,A,"Oh, really?",,,,1
+114,B,"Yeah,",,,,1
+115,B,pizzas and spaghettis and lasagnas and that kind of stuff.,,,,1
+116,A,"Well, we're all skinny farts",,,,1
+117,A,"so, I,",,,,1
+118,A,"it,",,,,1
+119,A,"so when it comes to,",,,,1
+120,A,"I like to cook and eat and, to have, mainly, I guess, I get to",,,,1
+121,B,Yeah.,,,,1
+122,A,"amount of people eat, *listen and then say, man this is really good,",,,,1
+123,B,Uh-huh.,,,,1
+124,B,"Yeah,",,,,1
+125,B,it is.,,,,1
+126,A,"um, um, but it just,",,,,1
+127,A,"work in the garden, work around the yard, of course,",minor topic end,,,1
+128,B,Do you do barbecues?,off topic start,,Talking about barbecues and restaurants,2
+129,A,"Yes,",,,,2
+130,A,"we sure do,",,,,2
+131,A,smoke them,,,,2
+132,B,"Well, uh, uh, smoking and  all that stuff?",,,,2
+133,A,"Oh, yeah,",,,,2
+134,A,all that hoedown stuff.,,,,2
+135,B,"Yeah,",,,,2
+136,B,"yep,",,,,2
+137,A,All that stuff that's bad for you.,,,,2
+138,B,"I, I lived in Abilene for  a little while, and, uh, worked in the Abilene plant,",,,,2
+139,A,"Oh, sure,",,,,2
+140,A,yeah.,,,,2
+141,B,"and we used to go to Joe Allen's Barbecue,",,,,2
+142,B,"and, uh, oh, that was great.",,,,2
+143,A,"Oh, yeah.",,,,2
+144,B,"Really great,",,,,2
+145,A,"That's, uh, only way to do it.",,,,2
+146,B,they have some nice stuff down there.,,,,2
+147,B,I miss it,,,,2
+148,A,"Well, yeah,",,,,2
+149,A,"it's, uh, it's, uh, it's, uh,",,,,2
+150,A,"there's, uh, there's pluses to everything,",,,,2
+151,B,"Oh, yeah.",off topic end,,,2
+152,A,"but, you know, seems like there's just so many things to do down here,",minor topic start,,New things to do at A's neighbourhood,1
+153,A,"I like the sports,",,,,1
+154,A,I play a lot of racquetball.,,,,1
+155,B,"We did, I did horseback riding, too,",minor topic end,,,1
+156,B,"in fact, when my children were growing up, we always had horses",off topic start,,Talking about horses,2
+157,B,"and, uh, that was kind of for them,",,,,2
+158,B,"but they weren't as interested in it as we were, you know,",,,,2
+159,B,"so, uh, that was a real,",,,,2
+160,B,"I'd say probably for maybe fifteen years, we dabbled in that, you know,",,,,2
+161,B,"we always had horses around,",,,,2
+162,B,"and I really enjoyed that,",,,,2
+163,A,"Oh, that's great,",,,,2
+164,A,"sounds like you,",,,,2
+165,B,and I was disappointed when I went to Texas.,,,,2
+166,B,I didn't see that many of them.,,,,2
+167,A,Horses?,,,,2
+168,B,Yes,,,,2
+169,A,"Yeah,",,,,2
+170,A,you really don't.,,,,2
+171,A,"Yeah,",,,,2
+172,A,"the,",off topic end,,,2
+173,A,"you have to look real hard to see a lot of things besides concrete, uh,",off topic start,,Dullness at Texas,2
+174,B,"I know,",,,,2
+175,B,"I know,",,,,2
+176,B,it's true.,,,,2
+177,A,there's buildings and concrete and a lot of people,,,,2
+178,A,"and that's about it down here,",,,,2
+179,A,"and so,",,,,2
+180,B,Uh-huh.,,,,2
+181,A,Yeah.,off topic end,major topic end,,2
+182,A,"But, uh, that's great.",closing,,,0
+183,A,"Well, sounds like you have a lot of nice hobbies there.",,,,0
+184,B,"Yeah,",,,,0
+185,B,"you too,",,,,0
+186,B,you too.,,,,0
+187,A,"Well, great,",,,,0
+188,A,"well look, uh,",,,,0
+189,A,"I know it's probably late for you,",,,,0
+190,B,Okay.,,,,0
+191,A,I enjoyed speaking with you,,,,0
+192,B,Me too.,,,,0
+193,A,have a good weekend.,,,,0
+194,B,Okay.,,,,0
+195,A,Bye-bye.,closing,,,0
+196,B,"Bye, now.",,,,0

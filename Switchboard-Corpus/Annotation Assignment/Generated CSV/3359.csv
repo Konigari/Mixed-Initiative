@@ -1,0 +1,127 @@
+,Person,Conversation,Custom Tag,Custom Tag 2,Topic Description,Class
+0,A,"Oh, I guess, uh, this is a, a topic near and dear to my heart, since I am a, am a healthy eater,",major topic start,,Food,0
+1,B,"Well, I, I try to be as well,",minor topic start,,A talks about restaurants he likes,1
+2,A,"Well, I'm not, uh, I,",,,,1
+3,A,"there really isn't any kind of particular food that I, I don't, don't like really,",,,,1
+4,A,"and I like a good Italian restaurant or a good, uh, uh,",,,,1
+5,B,Uh-huh.,,,,1
+6,A,especially like good prime rib,,,,1
+7,B,Uh-huh.,,,,1
+8,A,"so if it's, uh, nice to get out and find a good restaurant like that,",,,,1
+9,A,"and I live here in, uh, Rome, New York,",,,,1
+10,A,and there are a lot of good restaurants around here.,minor topic end,,,1
+11,B,"Oh, you're in New York,",minor topic start,,A and B talk about the best places to get prime rib,1
+12,B,"I was going to,",,,,1
+13,B,"there's a place, if you ever make it to Dallas they have the best prime rib.",,,,1
+14,A,Uh-huh.,,,,1
+15,B,"It's called Lawry's, like Lawry's seasoning salt",,,,1
+16,A,Uh-huh.,,,,1
+17,B,and it is absolutely wonderful.,,,,1
+18,A,Really.,,,,1
+19,B,"And, uh, we were there a few months ago,",,,,1
+20,B,"and it, I mean, it's kind of pricey,",,,,1
+21,B,"well, from New York it probably doesn't matter,",,,,1
+22,B,but,,,,1
+23,A,"Oh, no,",,,,1
+24,A,"I'm in upstate New York,",,,,1
+25,A,"and it's actually very inexpensive,",,,,1
+26,A,"I,",,,,1
+27,A,"there's a there's a place, um, half a mile from me here that, uh, has, uh, fantastic prime rib for, oh, eleven dollars for a whole meal, you know a potato and salad and soup, and the whole, whole nine yards,",,,,1
+28,B,"Oh, is it, okay.",,,,1
+29,B,Wow.,,,,1
+30,B,Uh-huh.,,,,1
+31,A,"so that,",,,,1
+32,B,"Yeah,",,,,1
+33,B,"well, I think the cheapest there probably starts at eighteen,",,,,1
+34,B,"and it includes, you know, salad and rolls and, oh, some other stuff,",,,,1
+35,B,but it is absolutely wonderful.,,,,1
+36,A,Right.,,,,1
+37,B,It's the best I have ever had.,,,,1
+38,A,"Uh, I was going to this place up the street from me is the best I've ever had,",,,,1
+39,A,"so, I'll have to go there when I get to get to Dallas.",,,,1
+40,B,Yeah,,,,1
+41,B,"Well,",,,,1
+42,B,"Yeah,",minor topic end,,,1
+43,B,"well, we like, uh, lots of people down here like Mexican food",minor topic start,,Talk about mexican food,1
+44,A,"Uh-huh,",,,,1
+45,A,sure.,,,,1
+46,B,"so, um, that's,",,,,1
+47,B,"I, I think Italian and Mexican food are probably my favorites.",,,,1
+48,A,Uh-huh.,minor topic end,,,1
+49,B,"But, um, I'm not into sushi or any of that kind of stuff.",minor topic start,,They are discussing sea food,1
+50,A,"No,",,,,1
+51,A,"no,",,,,1
+52,A,"I'm not into the, the, don't do the, the raw, raw fish like that,",,,,1
+53,A,"but I do like, uh, like a seafood bar, like a raw, raw bar like oysters and things like that, uh",,,,1
+54,B,Uh-huh.,,,,1
+55,A,"that they, uh,",,,,1
+56,A,"I go on,",,,,1
+57,A,I'm an officer in the Air Force and travel quite a bit on business,,,,1
+58,B,"Oh, okay.",,,,1
+59,A,"so I, uh, find myself down in Melbourne, Florida about once, once a month, once every two months or so and, uh, go and hit the, the oyster bars down there quite a bit",,,,1
+60,B,Uh-huh.,,,,1
+61,B,"Oh, yeah",,,,1
+62,A,"but, I love that,",,,,1
+63,B,"fresh seafood down there,",,,,1
+64,A,"Yeah,",,,,1
+65,A,"and, um, and, uh, Maryland's great,",,,,1
+66,A,you get the crabs,,,,1
+67,B,Uh-huh.,,,,1
+68,A,"it's like, I can't go anywhere where I where I don't enjoy myself,",,,,1
+69,B,Yeah,,,,1
+70,A,"so,",,,,1
+71,B,"Yeah,",,,,1
+72,B,"seafood seems to be a a little bit more expensive than, than other types of food.",,,,1
+73,A,That's true.,,,,1
+74,B,"But it sure is good,",,,,1
+75,B,and it's supposed to be good for you.,,,,1
+76,A,"Yeah,",,,,1
+77,A,"well, uh, it's really strange that, that, that seafood is so expensive, because when you, in reality, uh, uh, I, say that, uh, the oceans have the greatest resource of food on the planet,",,,,1
+78,B,Right.,,,,1
+79,A,"and yet, we haven't, as human beings, haven't figured out a way to harvest it economically",,,,1
+80,B,Right.,,,,1
+81,A,"so, we managed to, uh, figure out how to get at just about everything else, but, uh, but not, uh, not seafood.",,,,1
+82,B,Uh-huh.,minor topic end,,,1
+83,B,Do you like spicy foods,minor topic start,,Talk about various spicy foods,1
+84,B,"or,",,,,1
+85,A,"Yeah,",,,,1
+86,A,"yeah,",,,,1
+87,A,"I like, uh, I make a, a wicked chili",,,,1
+88,A,"and around here the big spicy thing is like, uh, buffalo wings",,,,1
+89,B,"Oh, uh-huh.",,,,1
+90,A,"and so, uh, it, people, they, you know,",,,,1
+91,A,you go out to get the chicken wings,,,,1
+92,A,"and those are really hot and the hotter the better,",,,,1
+93,B,Yeah.,,,,1
+94,B,Yeah.,,,,1
+95,B,"Well, we, uh, we like spicy food down here, especially, uh, the hot sauce, Picante sauce, or salsa whatever you all call it",,,,1
+96,A,Right.,,,,1
+97,A,Sure.,,,,1
+98,B,"and, uh, we, we sure go through a lot of that",,,,1
+99,A,Yeah.,,,,1
+100,B,"But I like it hot,",minor topic end,,,1
+101,B,but I don't like it real hot because then my nose starts running,minor topic start,,Express dislike of super spicy food,1
+102,A,Uh-huh.,,,,1
+103,A,"My, generally my, my scalp will start,",,,,1
+104,A,"I can feel just the top of my scalp getting hot, the weirdest, weirdest sensation, almost like a tingling,",,,,1
+105,A,"but, uh, I don't know,",,,,1
+106,A,"but, uh,",,,,1
+107,A,"yeah,",,,,1
+108,A,"well, there isn't, isn't too much in the way of restaurants that I don't like.",,,,1
+109,B,Yeah.,,,,1
+110,A,"Things that are kind of oddball, like, uh, Thai cuisine,",,,,1
+111,A,I never been really fond of that stuff.,,,,1
+112,A,"You talk about spicy,",,,,1
+113,A,"that'll, that'll literally blow your head off,",,,,1
+114,A,it's so hot.,,,,1
+115,B,Uh-huh.,,,,1
+116,A,"And, uh, and I can handle just about any kind of food without, uh, um,",,,,1
+117,A,"well, but that, that stuff is, goes one notch beyond, uh, my tolerances,",minor topic end,,,1
+118,B,Uh-huh,off topic start,,,2
+119,A,"So. Although I guess on this topic are to talk about the, uh, service in a restaurant is always nice though, too",,,,2
+120,B,"Oh, yeah,",,,,2
+121,A,"that's one thing,",,,,2
+122,B,and the price.  And the price. Make you want to come back.,,,,2
+123,A,What's that?,,,,2
+124,A,"Yeah,",off topic end,major topic end,,2
+125,A,"Well, I find that lately that so many people are working, you know, working waitressing jobs or waiter,",,,,0

@@ -1,0 +1,112 @@
+,Person,Conversation,Custom Tag,Custom Tag 2,Topic Description,Class
+0,A,Okay.,opening ,,,0
+1,A,"Have you faced, uh, elderly care yet, uh, nursing home care for any of your parents?",,,,0
+2,B,"Unfortunately, yes.",opening ,,,0
+3,B,"Uh, in fact, tonight I had the dinner with, uh, my three brothers and our wives",major topic start,,"talking about the nursing homes,their situations and their experiences.",0
+4,B,"and we were talking, uh,",,,,0
+5,B,we had a review with the nursing home staff.,,,,0
+6,B,My mother's in a nursing home.,minor topic start,,talking about the reason to visit a nursing home,1
+7,A,Uh-huh.,,,,1
+8,B,"And, uh, we had a review today",,,,1
+9,B,"and a few things we had to do that are part of it that you don't really like, like, uh making decisions on living wills and extended care, that type of thing,",minor topic end,,,1
+10,A,Yes.,,,,0
+11,B,"so, yes,",,,,0
+12,B,I'm very familiar with it,,,,0
+13,B,"and it's not something that is, uh, you know,",,,,0
+14,B,I never thought I'd have to go through this kind of experience.,,,,0
+15,B,But I guess we all do.,,,,0
+16,A,"I think sooner or later, uh,",,,,0
+17,A,"both my mother and my husband's mother, we had to end up putting in nursing homes",minor topic start,,talking about her search to go to a nursing home.,1
+18,A,"and they were to the point that they only lived, both of them, about six weeks once they got in.",,,,1
+19,B,"Oh, really?",minor topic end,,,1
+20,A,"And, uh-huh.",,,,0
+21,A,"And it's absolutely, I believe that was one of the hardest things I ever did. In my life.",,,,0
+22,B,Uh-huh.,,,,0
+23,A,"I, that, it just, you know, it's absolutely devastating.",,,,0
+24,B,Right.,,,,0
+25,A,What have you found in dealing with the nursing homes?,,,,0
+26,B,"Well, they're not, every, all the horror stories you hear about them I think are true.",,,,0
+27,A,Yes,,,,0
+28,B,"Uh, we've, you know, we've looked around",minor topic start,,talking about the nearby nursing homes and their costs.,1
+29,B,"and, my wife has looked at, extensively at all the ones in the area",,,,1
+30,B,"And the one she is in now, uh, there's a lot of drawbacks, a lot of things we don't like.",,,,1
+31,B,"But, again, it's no different than every one.",,,,1
+32,B,"And, you know, the cost of it, the, three thousand dollars a month",,,,1
+33,A,"Um, uh-huh.",,,,1
+34,B,"when you think about it, for what you're paying a hospital for almost the same, well, even not as much care.",,,,1
+35,A,Yes.,,,,1
+36,A,Yes.,,,,1
+37,B,"It's not that expensive, really.",,,,1
+38,A,"No,",,,,1
+39,A,"uh, there, well, there's a little bit of difference in, in the two between my mother and my mother-in-law.",,,,1
+40,B,Uh-huh.,,,,1
+41,A,"And, uh, theirs both ran,",,,,1
+42,A,"oh, I think my mother-in-law's was like fifteen hundred",,,,1
+43,A,and my mother's was two thousand.,,,,1
+44,A,"Then, this has been five years ago.",minor topic end,,,1
+45,A,"And, uh uh, one of the things that, you know, I had discovered is that if they knew that I came in there at all different hours, they got much better care than if,",minor topic start ,,talking about how nursing homes dealt with the patients .,1
+46,B,Uh-huh.,,,,1
+47,A,"when I started out with my mother-in-law, because she was in there first, I would go certain hours",,,,1
+48,B,Uh-huh.,,,,1
+49,A,and they knew.,,,,1
+50,A,"And if I'd pop in unexpectedly, I discovered, you know, they did a little bit, they did better.",,,,1
+51,B,"Oh, really?",,,,1
+52,A,"You know, uh-huh.",,,,1
+53,A,"And, you know, a couple of times with my mother-in-law, I would catch something not being taken care of. And, you know, would have to rate,",,,,1
+54,B,Uh-huh.,,,,1
+55,A,"so I got to where, I knew then when my mother was in that, you know, not to go the same time all the time. Because they would,",,,,1
+56,B,Yeah.,,,,1
+57,A,"and when I was looking for the nursing homes, another thing that I learned, uh,",,,,1
+58,A,we had my mother all set to go into one,,,,1
+59,A,"and for some reason I just went back, and on my own went around the different floors.",,,,1
+60,B,Uh-huh.,,,,1
+61,A,"And, I saw areas that they had not shown me",,,,1
+62,A,"and they did not come across as well as, you know, what they had originally shown me,",,,,1
+63,B,"Well, I'll be darned.",,,,1
+64,A,"so, uh, we did not put her in that one.",,,,1
+65,A,"We put her in another one that I, I went a couple of times when they weren't expecting me and saw, and, you know, was much, uh, better pleased with the situation.",,,,1
+66,B,Uh-huh.,,,,1
+67,B,Yeah.,,,,1
+68,B,"Yeah,",,,,1
+69,B,"you, you know, this is the whole point.",,,,1
+70,B,"You've got, you've got to shop them.",minor topic end,,,1
+71,A,"Yes,",,,,0
+72,A,you do.,,,,0
+73,B,"I know my mother's in now, in a unit that's mainly Alzheimer's",minor topic start,,talking about where her mother in law is kept in the nursing home.,1
+74,A,Uh-huh.,,,,1
+75,B,"and, uh, we're convinced that she probably would be better off in a geriatric.",,,,1
+76,A,Uh-huh.,minor topic end,,,1
+77,B,"Uh, the fact that these people are they're up and around,",,,,0
+78,B,"but they're, they're, it's reminds me too much of an asylum type situation.",,,,0
+79,A,Uh-huh.,,,,0
+80,A,Uh-huh.,,,,0
+81,B,"And it's very, very,",,,,0
+82,A,Does your mother have Alzheimer's?,off topic start,,talking about the patients' health and her personal life.,2
+83,B,"She,",,,,2
+84,B,"well, who knows.",,,,2
+85,B,"They call it, uh, dementia.",,,,2
+86,A,Uh-huh.,,,,2
+87,B,"And, uh, we don't know.",,,,2
+88,B,"I, I mean she does not know us anymore",,,,2
+89,A,Uh-huh.,,,,2
+90,B,"and whether it's Alzheimer's or what it is nobody really knows,",,,,2
+91,A,Uh-huh.,,,,2
+92,B,"but it's, basically the same.",,,,2
+93,B,And her health is not that bad.,,,,2
+94,B,"Although she has gone down, downhill drastically since this, this last,",,,,2
+95,B,"well, she had been in a retirement community",off topic end,,,2
+96,B,and somewhere in the back of her mind she had it that she would live with her children.,minor topic start,,talking about how their inability to keep her resulted her in a nursing home.,1
+97,B,"Well she, we, we just did not have the capabilities to, to take care of her.",,,,1
+98,A,Uh-huh.,,,,1
+99,B,"And, uh, but she, she has gone down steadily since she has been in,",,,,1
+100,B,"and she's been in the nursing home now for, oh, I would say about three months.",,,,1
+101,A,Uh-huh.,minor topic end,,,1
+102,B,"And,",off topic start,,talking about whether she knew about nursing place.,2
+103,A,Did she know that she was going to a nursing home?,,,,2
+104,B,I'm sorry?,,,,2
+105,A,Did she know that she was going to a nursing home?,,,,2
+106,B,"She,",,,,2
+107,B,"no,",,,,2
+108,B,"as far as she knew, she was going to a hospital. And that she could, she could handle a hospital",,,,2
+109,A,Uh-huh.,,,,2
+110,B,"and we says, you know, mom, if you, you know, if you get a, you get better, you've got to have the care, the doctor insisted on it, you know, if you get better that you could come out.",off topic end,major topic end,,2

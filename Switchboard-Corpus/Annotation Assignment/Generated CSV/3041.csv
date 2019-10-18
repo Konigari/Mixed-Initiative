@@ -1,0 +1,248 @@
+,Person,Conversation,Custom Tag,Custom Tag 2,Topic Description,Class
+0,A,So what movies have you seen lately?,major topic start,,Movies they have watched recently,0
+1,B,"Well, I saw, um, lately I've seen SOAP DISH.",,,,0
+2,A,Oh.,,,,0
+3,B,"Which was a,",,,,0
+4,B,and that was a lot of fun.,,,,0
+5,B,It was kind of a silly little film about soap operas and things.,,,,0
+6,A,"Well, see that's something I want to see,",,,,0
+7,B,Yeah.,,,,0
+8,A,that's on my list to see.,,,,0
+9,B,"Yeah,",,,,0
+10,B,"it was, it was okay.",,,,0
+11,B,"It was not, um, not a wonderful film",,,,0
+12,B,"but it was, I mean it was, it was cute but not the biggest laugh I've seen.",,,,0
+13,A,"Oh, okay.",,,,0
+14,B,"I saw THELMA AND LOUISE. A couple of days ago, and really liked that.",,,,0
+15,A,"Oh, did you?",,,,0
+16,B,Actually I saw it twice because I liked it so much.,,,,0
+17,A,Oh.,,,,0
+18,A,See that's also on my list.,,,,0
+19,B,"And it's very, it's really disturbing but a good movie.",minor topic start,,Talks about the stereotypes of why it is not normal to see women in fight scenes,1
+20,A,"A disturbing movie,",,,,1
+21,A,how do you mean?,,,,1
+22,B,"Well, it was,",,,,1
+23,B,"um, let's see.",,,,1
+24,B,"The, um,",,,,1
+25,B,"it's, it's different,",,,,1
+26,B,"it's kind of, it's an action adventure kind of, you know, shoot 'em up kind of film.",,,,1
+27,A,Right.,,,,1
+28,B,But it's with women in it instead of men,,,,1
+29,B,so that's kind of a that's kind of a twist on the normal thing.,,,,1
+30,A,"A switcheroo, huh?",,,,1
+31,B,"And it made me think a lot about, you know,",,,,1
+32,B,you would applaud Bruce Willis in DIE HARD if he was doing this,,,,1
+33,B,"but you might not be so you know, so encouraging, of Susan Sarandon and then Gena Davis when they do it.",,,,1
+34,A,Right.,,,,1
+35,A,"When the shoe is on the other foot and see how it,",minor topic end,,,1
+36,B,"So, that was kind of interesting.",,,,0
+37,B,"I've,",,,,0
+38,B,but I really enjoyed it.,,,,0
+39,A,Oh.,,,,0
+40,B,"So, I",,,,0
+41,A,"Because that, that just reminds me of, you know, like back in school",off topic start,,anecdote,2
+42,A,"and, you know, the girlfriends just taking off for a day or something. Just getting in trouble and probably not that much trouble",,,,2
+43,B,"Yeah,",,,,2
+44,B,that's kind of what it was.,,,,2
+45,A,"but,",,,,2
+46,B,Right.,,,,2
+47,A,"um, yeah.",,,,2
+48,B,"They had started out with that,",,,,2
+49,B,then they got into lots of trouble.,,,,2
+50,A,Before we found the shopping malls that's what we did.,off topic end,,,2
+51,B,Uh-huh.,,,,0
+52,A,"Yeah,",,,,0
+53,A,"well, I'll have to put that, I'll have to keep that on my list then.",,,,0
+54,B,Yeah.,,,,0
+55,B,I also saw that Madonna movie.,minor topic start,,Criticize the actress - Madonna,1
+56,A,Oh.,,,,1
+57,B,It's TRUTH OR DARE,,,,1
+58,B,and that was pretty scandalous.,,,,1
+59,A,Scandalous?,,,,1
+60,B,"Yeah,",,,,1
+61,B,"it was kind of,",,,,1
+62,B,"yeah,",,,,1
+63,B,Madonna she's pretty trashy.,,,,1
+64,A,I can imagine.,,,,1
+65,B,"And so it was, it was interesting",,,,1
+66,A,"I guess she does it for the social value of showing you what trash is, huh?",,,,1
+67,B,"well, I think she kept saying that, uh,",,,,1
+68,B,"they talked about her,",,,,1
+69,B,"it, it was a film of her concert, um, tour she had taken through all, all around the world.",,,,1
+70,B,"And they were all to her at the Vatican city and wouldn't let her perform in Rome,",,,,1
+71,B,"and she, kept saying that her show was not garbage.",,,,1
+72,A,Huh.,,,,1
+73,B,It had a social message to it,,,,1
+74,B,"and,",,,,1
+75,A,You just had to find it.,,,,1
+76,A,You had to wade through it and find it,,,,1
+77,B,Right.,,,,1
+78,B,"We never quite believed that,",,,,1
+79,B,so.,,,,1
+80,A,"You never quite got to,",,,,1
+81,B,I thought that was pushing it a little bit,,,,1
+82,B,"but, she ,",,,,1
+83,A,All I know about that woman is that she's an incredible marketeer,,,,1
+84,B,She is.,,,,1
+85,B,She's rich,,,,1
+86,A,"Yeah,",,,,1
+87,A,and she's rich,,,,1
+88,A,"and she,",,,,1
+89,A,"yeah,",,,,1
+90,A,so.,,,,1
+91,B,she's smart at what she does.,,,,1
+92,B,She knows how to do that.,,,,1
+93,A,"She knows how to twist this around, huh?",,,,1
+94,B,Yeah.,minor topic end,,,1
+95,B,What did you think about DANCES WITH WOLVES when you saw it?,,,,0
+96,A,"Well, okay,",,,,0
+97,A,"see, we're getting back to last year.",,,,0
+98,A,"That's probably the last movie I saw. Um, DANCES WITH WOLVES,",,,,0
+99,A,I just adored it.,,,,0
+100,B,Really?,,,,0
+101,A,How can I tell you.,,,,0
+102,A,"Um, a couple years ago, I guess, well, maybe ten years ago I, I had read BURY MY HEART AT WOUNDED KNEE",,,,0
+103,A,"and, so, you know, just the general theme of the whole movie was, um, pretty,",,,,0
+104,B,Uh-huh.,,,,0
+105,A,I mean I really liked it a lot.,,,,0
+106,B,Right.,,,,0
+107,A,"I mean it was a real consciousness raiser, I guess.",,,,0
+108,A,"Um, and I only bring up WOUNDED KNEE because that was what ten years ago you read and, and understood, you know, about the American pop, Indian population,",minor topic start,,talks about the history and social implications of the movie,1
+109,B,Right.,,,,1
+110,A,"and then everything went away for a couple years,",,,,1
+111,B,Uh-huh.,,,,1
+112,A,and now it's back again.,,,,1
+113,A,"And, you know, it's sort of a popular view of, um, what happened way back then.",,,,1
+114,B,Right.,,,,1
+115,A,"Of course, no one will ever know.",,,,1
+116,A,Really I don't,,,,1
+117,B,"I know,",,,,1
+118,B,"I was,",,,,1
+119,B,"I wondered if, uh, the tribes that they represented the tribe that was the, the evil tribe, if they were really as bad as it made them to be.",,,,1
+120,A,"Well, who knows.",,,,1
+121,A,"I mean it, it, it sort of showed like two different types of tribes",,,,1
+122,A,"like one was a warring tribe,",,,,1
+123,A,"and the other one was, uh, vegetarian kind of, you know, feel good tribe. You know, sort of thing,",,,,1
+124,B,Right,,,,1
+125,A,so there possibly were because you know you always have conflict in the world.,,,,1
+126,B,Uh-huh.,,,,1
+127,A,Nobody can get along peacefully,,,,1
+128,B,"Yeah,",,,,1
+129,B,but I wonder,,,,1
+130,B,I thought,,,,1
+131,B,"because they made a big deal about how this, this film was such a big leap for the, the people who, who were the ancestors of the, this Indian tribe",,,,1
+132,B,"and that, you know, that was so wonderful that they done that",,,,1
+133,B,"and they, uh, uh, I wonder how the ancestors of this warlike tribe if they were offended by the film,",,,,1
+134,A,"Oh, I see.",,,,1
+135,B,"if it,",,,,1
+136,B,"you know, you didn't, hear any press about that.",,,,1
+137,A,Yeah.,,,,1
+138,A,Huh.,,,,1
+139,B,I thought it was a very interesting movie.,,,,1
+140,A,"Well, I think so.",,,,1
+141,A,"I, um, I have come to respect a little bit more the, uh, you know, what went on here,",,,,1
+142,B,Right.,,,,1
+143,A,"but, but who knows how it's supposed to all end",,,,1
+144,B,Uh-huh,,,,1
+145,B,Right.,,,,1
+146,A,"You know on the, on the broad scope I mean, um, like if, uh, it, it, it had a much bigger thing I",,,,1
+147,A,meaning to me,,,,1
+148,A,"I think about, you know, just the meaning of, um, the freedom of this country and, and what that really meant.",,,,1
+149,B,Right.,,,,1
+150,A,And that was taking over somebody else's freedoms. And sort of trampling that,,,,1
+151,B,Uh-huh.,,,,1
+152,A,"and, uh, so you know it, it meant something bigger I think.",minor topic end,,,1
+153,A,But still it was a,,,,0
+154,A,I loved the buffalo scene.,,,,0
+155,A,"And I thought Kevin Costner was just,",,,,0
+156,A,"I got a little sick of his mug on the screen every, three minutes,",,,,0
+157,B,I know the,,,,0
+158,A,"but he's the director, you know.",,,,0
+159,A,"Um, but, yeah,",,,,0
+160,A,"I, I just thought it was a really interesting, intense film.",,,,0
+161,B,"Well, that's good.",,,,0
+162,A,Intense I think is the word for it because three hours went by really fast.,,,,0
+163,B,"That was, that was, it was, it was good.",,,,0
+164,B,"I looked at my watch only a few times, which is a good thing.",,,,0
+165,A,Yeah.,,,,0
+166,A,Ate a lot of popcorn.,,,,0
+167,B,"But it put me in a really, it put me in a really bad mood,",off topic start,,talks about how he felt guilty,2
+168,B,I don't know why.,,,,2
+169,A,Did it really?,,,,2
+170,B,"Yeah,",,,,2
+171,B,we,,,,2
+172,B,there were three of us who went.,,,,2
+173,B,We were just all really grouchy when it was over.,,,,2
+174,A,Huh.,,,,2
+175,B,So we decided that may be the mark of a good film.,,,,2
+176,B,It made us think.,,,,2
+177,B,"And so,",,,,2
+178,A,It made you think.,,,,2
+179,B,we were grouchy.,,,,2
+180,B,"We felt guilty for being,",,,,2
+181,A,"Maybe well, maybe that was, um,",,,,2
+182,A,"but there are no answers, you know.",,,,2
+183,B,I know,,,,2
+184,B,"and we, we had nothing to do with it.",,,,2
+185,A,"That, that can make you crabby, yes.",,,,2
+186,B,"We were not responsible,",,,,2
+187,B,"but we still felt the thick blame for, what had gone on.",,,,2
+188,A,"Really,",,,,2
+189,A,that's true.,,,,2
+190,B,"We could have,",,,,2
+191,A,"But it, it's,",,,,2
+192,A,"they sort of candy coated the western story for many years,",,,,2
+193,B,Right.,,,,2
+194,A,"and, um, you know, when the truth, oh, well,",,,,2
+195,A,it always balances out one way or the other once you get the whole story,off topic end,,,2
+196,B,Uh-huh.,,,,0
+197,A,"but,",,,,0
+198,B,Yeah.,,,,0
+199,B,"Well,",,,,0
+200,B,I do.,,,,0
+201,B,I'm just out of school,,,,0
+202,B,"so I've seen, a lot of",,,,0
+203,A,"Oh, okay.",,,,0
+204,B,don't have a job,,,,0
+205,B,so I shouldn't go see movies all the time.,,,,0
+206,A,"Oh, there you go",,,,0
+207,B,"Um, I rented a good movie, um, called CINEMA PARADESO which is an Italian movie which is probably the best movie I've seen ever.",,,,0
+208,A,Oh.,,,,0
+209,A,Oh.,,,,0
+210,B,"It was just, wonderful.",,,,0
+211,A,Really?,,,,0
+212,B,"It's, uh, story about a little boy in a Italian, a little Italian village,",,,,0
+213,B,"and he, um, owns a, um,",,,,0
+214,B,"or he works in a, a movie theater and it it helps the projectionist.",,,,0
+215,B,"There's a little, oh, an old man who's the projectionist",,,,0
+216,B,"and he befriends this old man,",,,,0
+217,B,and then it just tells about their friendship that lasts through all these years.,,,,0
+218,A,Oh.,,,,0
+219,B,"And it's just,",,,,0
+220,B,"I mean, if you don't mind reading subtitles,",,,,0
+221,B,I thought I had to kind of get beyond that.,,,,0
+222,B,"Those little, you know,",,,,0
+223,B,reading the little words at the bottom of the screen,,,,0
+224,B,"but, um, oh, I just laughed and cried",,,,0
+225,B,"and, I really loved it.",,,,0
+226,A,"Oh, I'll have to write that down.",,,,0
+227,B,"That was a, a great one.",,,,0
+228,A,Wow.,,,,0
+229,B,"And other than that I,",,,,0
+230,A,"I'll have to write that,",,,,0
+231,A,"have you, have, did you see TEXASVILLE?",,,,0
+232,A,"Are you into, Larry McMurtry?",,,,0
+233,B,"No, I I hadn't.",,,,0
+234,B,"I had read, um, THE LAST PICTURE SHOW",,,,0
+235,B,and but that's out on video now,,,,0
+236,B,and I haven't seen it.,,,,0
+237,B,But I was interested in reading TEXASVILLE before I saw the movie.,,,,0
+238,A,Yeah.,,,,0
+239,B,Did you like it?,,,,0
+240,A,"Um, I, I read a lot of Larry McMurtry books",,,,0
+241,B,Right.,,,,0
+242,A,and TEXASVILLE is just like that.,,,,0
+243,A,It's like very peculiar circumstances and very peculiar things that people do with each other,,,,0
+244,B,Uh-huh.,,,,0
+245,A,"it's, it's, you know,",major topic end,,,0
+246,A,"and it's just sort of a,",,,,0

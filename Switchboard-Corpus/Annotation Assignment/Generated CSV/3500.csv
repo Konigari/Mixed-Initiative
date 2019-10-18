@@ -1,0 +1,118 @@
+,Person,Conversation,Custom Tag,Custom Tag 2,Topic Description,Class
+0,A,"In, in the light of what has been happening lately with the doctors that I know and lawyers and whatnot, I think national health insurance is a way to throw a lot of money at a very small problem.",major topic start,,Lot of money spent on Health insurance,0
+1,B,Do you?,,,,0
+2,B,Why?,,,,0
+3,A,Why?,,,,0
+4,A,"Well, if you took half the money that they would spend in the state of Texas for health insurance and gave it to qualified students to, so they could become doctors, the problem would go away.",minor topic start,,Relating number of doctors on cost required for health insurance,1
+5,B,You think the problem is not enough doctors?,,,,1
+6,A,"I think the problem is that the doctor doctors have conspired to limit the number of doctors, and that the lawyers have conspired to make sure that if you are a doctor, you are going to pay high premiums on your uh, I mean, on your liability.",,,,1
+7,B,"Gosh, for one thing.",,,,1
+8,A,Oh?,,,,1
+9,A,Uh-huh.,,,,1
+10,A,And you think there are plenty of doctors?,,,,1
+11,B,"Oh, yeah,",,,,1
+12,B,I don't think there is a shortage of doctors,minor topic end,,,1
+13,B,"and I do know that O B, which is my field the doctors' health the doctors' malpractice insurance is over two hundred thousand dollars a year that deliver babies.",off topic start,,Malpractice Insurance For Doctors,2
+14,A,Uh-huh.,,,,2
+15,A,It's astronomical.,,,,2
+16,B,Now they can't doing anything about that.,,,,2
+17,B,I don't think they're in a conspiracy.,,,,2
+18,B,"I think it's our fault, because we as people just sue them.",,,,2
+19,A,"No,",,,,2
+20,A,people don't sue,,,,2
+21,B,"People are very sue, sue conscious.",,,,2
+22,A,lawyers sue.,,,,2
+23,A,If you put a ten thousand dollar cap on the amount of money that a lawyer could make from a law suit against a doctor,,,,2
+24,B,Yeah.,,,,2
+25,B,"Well, that's probably true, too.",,,,2
+26,B,But people are very conscious of how much money they can get real fast these days.,,,,2
+27,A,"Well, sure.",,,,2
+28,B,"And, so,",off topic end,,,2
+29,A,"But, you know, when you think about reasonableness, now, I believe that a law suit should have some foundation in the tort theory.",off topic start,,Justification of mistakes committed by doctors,2
+30,A,You know what tort theory is?,,,,2
+31,B,No.,,,,2
+32,A,"Well, a tort is when you do something wrong.",,,,2
+33,B,Right.,,,,2
+34,A,"Well, it, uh,",,,,2
+35,A,an O B G Y N doctor cannot control the fetus in the womb a hundred percent.,,,,2
+36,B,That's right.,,,,2
+37,A,"If the baby is born dead, well, that happens.",,,,2
+38,B,"Well,",,,,2
+39,A,"If, if they have complications and,",,,,2
+40,B,It depends.,,,,2
+41,A,"Well, I know, I mean, there are guys that are real slobs,",off topic end,,,2
+42,A,"but you know, there are also people out there that are really doing their job.",,,,0
+43,B,"Well, that's true,",,,,0
+44,B,they are because doctors are performing many more tests.,,,,0
+45,B,"Many of them are unnecessary,",,,,0
+46,B,they are doing so many C sections just to prevent.,,,,0
+47,A,Just to prevent a a law suit.,,,,0
+48,B,Because they have all these monitors now,,,,0
+49,B,"and if anything looks even a little bit funny their only safety precaution is to go in and get that baby,",,,,0
+50,A,Yeah.,,,,0
+51,B,"and so it's costing more all around in health insurance for tests, for surgery, for longer hospital stay.",,,,0
+52,A,Yeah.,,,,0
+53,A,Uh-huh.,,,,0
+54,A,"See, I believe that there, there is a system already in place for health care.",,,,0
+55,B,"So, it's terrible.",,,,0
+56,B,Uh-huh.,,,,0
+57,A,"You know, they have indigent health care.",minor topic start,,Showing people prefer cheaper places to Doctor,1
+58,A,You show up at Parkland bleeding,,,,1
+59,B,You'll get it.,,,,1
+60,B,That's true.,,,,1
+61,B,"In fact, you'll get it at Presbyterian if you show up there, too.",,,,1
+62,A,Yeah.,,,,1
+63,B,And we have that happen.,,,,1
+64,B,We have patients that go through Parkland through the clinic,,,,1
+65,A,Uh-huh.,,,,1
+66,B,"and at the last minute, they come to us.",,,,1
+67,B,"Well uh, we can't turn them away.",,,,1
+68,A,Uh-huh,,,,1
+69,B,"So,",,,,1
+70,A,"Yeah,",minor topic end,,,1
+71,A,I think that if you just wrote the lawyers out of the equation the problem would pretty much evaporate.,,,,0
+72,B,Yeah.,,,,0
+73,B,I'm for that.,off topic start,,Lawyer involvement in Divorce case,2
+74,B,"I've been through a two year divorce where the only one that came out ahead was my lawyer,",,,,2
+75,B,so I'd like to wipe them all out,,,,2
+76,A,Yeah.,,,,2
+77,A,"Well, I, I happen to know a few",,,,2
+78,A,and I even claim one as a friend.,,,,2
+79,A,He's a divorce attorney.,,,,2
+80,A,"But,",,,,2
+81,B,He better not be mine,off topic end,,,2
+82,A,"I think he'll go nameless for the, for the purposes of this conversation.",minor topic start,,Problems faced by OBGYN doctors against Lawyers,1
+83,A,"But I also know an, uh, O B G Y N who has stopped practicing.",,,,1
+84,B,"Yeah,",,,,1
+85,B,some they do.,,,,1
+86,A,"Uh, he just said,",,,,1
+87,B,They stop their O B at least.,,,,1
+88,A,"Yeah,",,,,1
+89,A,"I mean, he's not going to deliver any more babies ever.",,,,1
+90,B,"Right,",,,,1
+91,B,Right.,,,,1
+92,A,His malpractice was five hundred thousand dollars a year.,,,,1
+93,B,That's incredible.,,,,1
+94,A,"And, you know, he said, I had to, he had to gross two million to take home as much as his malpractice.",,,,1
+95,B,Yeah.,,,,1
+96,B,And most of them are very sincere.,,,,1
+97,B,Most of them do the best they can.,,,,1
+98,A,Yeah,minor topic end,,,1
+99,B,They are human.,off topic start,,Showing that doctors can also make mistakes,2
+100,B,Occasionally something will go wrong.,,,,2
+101,B,"Well, you can be human and Catholic.",,,,2
+102,A,"I know you can be human and Catholic,",,,,2
+103,A,"but, you're not likely to find somebody who is going to, you know, have a less conscientious effort.",,,,2
+104,B,"Yeah,",,,,2
+105,B,no,,,,2
+106,A,"I mean,",,,,2
+107,B,most of them do.,,,,2
+108,B,I really believe that.,,,,2
+109,B,"From dealing with doctors, dealing with lawyers, there is no doubt in my mind who is more conscientious.",off topic end,,,2
+110,A,"Well, you know, who is getting rich?",minor topic start,,About Insurance companies getting benefitted from insurance,1
+111,A,Insurance companies.,,,,1
+112,B,"Yeah,",,,,1
+113,B,they are.,,,,1
+114,A,"You know, if you were able to write a malpractice insurance that would negate any financial obligation on the part of the doctor over and above the insurance,",,,,1
+115,A,"say, say you have malpractice insurance and a kid dies or is malformed",,,,1
+116,A,"or,",minor topic end,major topic end,End has been incomplete,1

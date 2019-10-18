@@ -1,0 +1,112 @@
+,Person,Conversation,Custom Tag,Custom Tag 2,Topic Description,Class
+0,A,"Well, have you seen a new movie lately?",Major Topic - start,,Discussing Movies and TV shows,0
+1,B,"Well, uh, I am a student",,,,0
+2,B,"and I have, uh, been actually watching more movies on video, than being able to go out to see, uh, movies at the store, or at the theater.",,,,0
+3,A,Uh-huh.,,,,0
+4,B,"Uh, I I want to see the FISHER KING and, and, uh, catch ROBIN HOOD.",,,,0
+5,A,Okay.,,,,0
+6,A,"I, uh, I haven't seen either one of those.",,,,0
+7,A,"Uh, what, what are some of the shows that you have been able to rent though?",,,,0
+8,B,"Uh, let's see.",,,,0
+9,B,"Uh, I'm trying to just think of the ones that have come on.",,,,0
+10,B,"Uh, WHITE PALACE which I thought was over rated, over hyped, um, recently.",,,,0
+11,B,"Well, you're catching me at, it, uh, uh, at mind's end here.",,,,0
+12,B,What have you seen recently?,,,,0
+13,A,"Well, maybe you, uh, you have seen DANCES WITH WOLVES.",Minor Topic - start,,about DANCES WITH WOLVES,1
+14,B,Yes.,,,,1
+15,A,Okay.,,,,1
+16,B,Yes.,,,,1
+17,A,What did you think of that one?,,,,1
+18,B,Enjoyed that quite a bit.,,,,1
+19,B,"Um, I thought the, uh, the the cinematography was excellent.",,,,1
+20,A,Uh-huh.,,,,1
+21,B,"Uh, the story was,",,,,1
+22,B,"uh, though it tended to be a little one sided uh, it was good.",,,,1
+23,A,Yeah.,,,,1
+24,B,"Uh, it was, it was believable.",Minor Topic - end,,,1
+25,A,"I, uh, I just moved down, in fact, from South Dakota in, in June,",Off topic - start,,How A moved to South Dakota and how there was where the filming was happening,2
+26,A,"and that's when the movie was filmed,",,,,2
+27,B,Uh-huh.,,,,2
+28,A,"and, uh, we, when, when the movie came out, we went,",,,,2
+29,A,"uh, my dad lives in the state capital, which is Pierre",,,,2
+30,B,Uh-huh.,,,,2
+31,A,and it was filmed right outside of Pierre.,,,,2
+32,A,"In fact, the buffalo, the scene, the big buffalo herd scene, that was, that was a live scene.",,,,2
+33,B,Wow.,,,,2
+34,A,"Uh, there's a guy that has got a, a buffalo farm,",,,,2
+35,A,"and he has got over ten thousand head of buffalo and, and, uh, we, my dad has got a little plane, we flew over it all looked at the buffalo,",Off topic - end,,,2
+36,A,it was really neat.,,,,0
+37,A,"But, uh, so we are watching the, the movie in the movie theater in Pierre",Off topic - start,,Movie theatre disturbances,2
+38,B,Uh-huh.,,,,2
+39,A,"and, uh, just every time I would start to get into the movie, and it was getting good someone in the crowd would yell, hey, there's John Red Eagle, you know",,,,2
+40,B,Uh-huh.,,,,2
+41,A,"or, you know, they'd start recognizing people.",,,,2
+42,B,"They knew, they knew the extras or the,",,,,2
+43,A,Yeah.,,,,2
+44,A,"So, I kind of, I think I enjoyed it more when I, when I watched it on video cassette than I did, uh, in the movie theater because my attention would get diverted every time they'd say that.",,,,2
+45,A,"I'd go now, now which one could that be you know,",,,,2
+46,B,Uh-huh.,,,,2
+47,A,"and I'd, I'd start trying to focus in on people instead of, of picking up the overall,",,,,2
+48,B,Scope.,,,,2
+49,A,Right.,,,,2
+50,A,Exactly.,,,,2
+51,B,Uh-huh.,Off topic - end,,,2
+52,A,"So, but I, I thought it was a good film.",,,,0
+53,A,"But you are right,",,,,0
+54,A,"I think, I think it was very one sided.",,,,0
+55,B,"It, it was,",,,,0
+56,B,"but it's a side that hasn't been told. Uh, as far as, you know, telling it from, you know, the Indians as the good guys and the, the white men as the bad guys.",Minor Topic - start,,How newer movies show the other side of white men,1
+57,B,"I, I really thought about, uh, all the, the westerns that we have seen for years and years,",,,,1
+58,A,Sure.,,,,1
+59,B,"and it's just, shoot the Indians,",,,,1
+60,B,and they are always the savages.,,,,1
+61,A,Right.,,,,1
+62,B,"So,",,,,1
+63,A,"In fact, I was watching WILD WILD WEST last night",,,,1
+64,A,"and, it was a similar, uh, situation with the Iroquois Indians attacking a, an army fort.",,,,1
+65,B,Uh-huh.,,,,1
+66,A,"Um, but it was an interesting movie.",Minor Topic - end,,,1
+67,A,"Uh, have you seen PRETTY WOMAN?",Minor Topic - start,,about PRETTY WOMAN,1
+68,B,Yes.,,,,1
+69,A,Now I thought that was a good show.,,,,1
+70,B,Yeah.,,,,1
+71,B,"That was, that was a good movie.",,,,1
+72,B,"Um, it was just kind of a get away movie.",,,,1
+73,A,Yeah.,,,,1
+74,B,"Kind of,",,,,1
+75,A,"It didn't, uh, it didn't have any real social bearing",,,,1
+76,A,"or, uh, and it wasn't really a comedy,",,,,1
+77,A,but it was an enjoyable movie.,,,,1
+78,A,"It was, it was kind of like the STAR WARS series, you know, just something a little different,  yet  believable.",Minor Topic - end,,,1
+79,B,Uh-huh.,,,,0
+80,B,Right.,,,,0
+81,B,Yes.,,,,0
+82,B,"You're bringing it,",,,,0
+83,B,"I don't know,",,,,0
+84,B,"I had a, I sure did have a mind lock about the movies I've seen.",,,,0
+85,B,"But, yeah,",,,,0
+86,B,"I've seen PRETTY WOMAN and DANCES WITH WOLVES,",Major Topic - end,,,0
+87,B,"and, uh,",,,,0
+88,A,"Uh, now are you, are you going to see, or do you, are you much of a STAR TREK fan,",Off topic - start,,"about STRA TREK's series concept and reach, not how it was as a movie",2
+89,A,are you going to see this next one that's coming out?,,,,2
+90,B,"Oh, definitely.",,,,2
+91,A,Have you seen the rest?,,,,2
+92,B,Yes.,,,,2
+93,A,I think I've missed one.,,,,2
+94,A,"I'm not sure,",,,,2
+95,A,but I think I've missed one.,,,,2
+96,B,"I actually went to the STAR TREK twenty fifth anniversary marathon that happened about a month ago,",,,,2
+97,B,and they showed all five in a row.,,,,2
+98,A,Was that here in Dallas?,,,,2
+99,B,"Oh, they had it everywhere,",,,,2
+100,B,"uh, every major city had one theater that did it",,,,2
+101,B,"and,",,,,2
+102,A,Okay.,,,,2
+103,A,Because we had one here in Dallas.,,,,2
+104,B,"Right,",,,,2
+105,B,"and they did it in Houston,",,,,2
+106,B,"they did it, well, they did it everywhere.",,,,2
+107,B,"And it was, it was really good to see all the movies and how the story developed,",,,,2
+108,B,"and the thing that I didn't realize is that if you watch the movies in a row, uh, time wise they happen one after another and just no, no time between them,",Off topic - end,,,2
+109,A,Uh-huh.,,,,0
+110,B,"but you can watch the characters develop,",,,,0

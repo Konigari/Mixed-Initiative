@@ -1,0 +1,140 @@
+,Person,Conversation,Custom Tag,Custom Tag 2,Topic Description,Class
+0,B,"Hi,",opening,,,0
+1,B,this is Donna Donahue.,,,,0
+2,A,"Hi, Donna.",,,,0
+3,B,Hi.,,,,0
+4,A,Ready to get started?,,,,0
+5,B,"Uh, yeah,",,,,0
+6,B,I think so.,,,,0
+7,A,Okay.,,,,0
+8,A,Sort of an interesting topic since I just got back from lunch here,,,,0
+9,B,Okay.,,,,0
+10,B,"Well, what did you have for lunch?",major topic start,,talking about food,0
+11,A,"Oh, it was, uh, it was,",,,,0
+12,A,"I'm an officer in the Air Force, Yeah.",off topic start,,talking about A's livelihood,2
+13,B,Oh.,,,,2
+14,B,Oh.,,,,2
+15,B,"Well, that's interesting.",,,,2
+16,B,Okay.,off topic end,,,2
+17,B,"So our topic is, is food today,",,,,0
+18,B,"is that,",,,,0
+19,A,Yeah.,,,,0
+20,B,Okay.,,,,0
+21,A,"If you're having a dinner party, what, what would you serve?",minor topic start,,talking about dinner parties,1
+22,B,"Okay, uh,",,,,1
+23,B,do you want me to go first?,,,,1
+24,A,Sure.,,,,1
+25,B,Okay.,,,,1
+26,B,"If I was having a dinner party I would probably, um, have some, um, some, uh, um, some fruit to start with with some apples sliced up and maybe some cheddar cheese and crackers and grapes and, um, probably serve maybe some wine and beer and maybe have some, uh, uh, salsa and chips around and peanuts.",,,,1
+27,B,"And then I would have, um, let's see. I usually have like a little theme when I have a dinner party Um, I would have maybe, um, say if it was like Greek night or something *sd um, maybe, um, on the barbecue we'd put, uh, cubes of lamb or I guess lamb used for Greek. And, um, like a shish kabob, and, um, mushrooms and tomatoes and onions",,,,1
+28,A,Uh-huh.,,,,1
+29,A,Uh-huh.,,,,1
+30,A,Uh-huh.,,,,1
+31,B,"and then we'd have, um, like a big Greek tossed salad kind of like a Caesar salad.",,,,1
+32,A,Uh-huh.,,,,1
+33,B,"And, um, let's see what else.",,,,1
+34,B,"Um, maybe some rolls and, um, I guess some, uh, some rice or something like that.",,,,1
+35,B,How does that sound?,,,,1
+36,A,"Jeez,",,,,1
+37,A,"well, well, when is the party here?",,,,1
+38,B,Yeah.,,,,1
+39,B,"Um, yeah,",,,,1
+40,B,that would take some planning,,,,1
+41,B,"but,",,,,1
+42,A,I don't know,,,,1
+43,A,"being a, being the bachelor here that I am, I, I don't think I'd, I'd be",,,,1
+44,A,"I mean it, it's not a question of capability here to do something like that.",,,,1
+45,A,"It's just there's, there's no motivation.",,,,1
+46,B,That's right.,,,,1
+47,A,"You know, I want to, I want to throw some charcoal on the grill and, and throw a steak on there and some baked potatoes and stuff like that",,,,1
+48,A,"but, um,",,,,1
+49,B,"Well, that sounds good too.",,,,1
+50,B,"I have, um, I have three kids",,,,1
+51,A,Uh-huh.,,,,1
+52,B,"so, um, when we have friends over I have my oldest kind of baby-sit for the little two younger ones upstairs",,,,1
+53,B,"and, um, usually we just have very plain kind of, you know, interesting, not very interesting meals. Pizza and that all",,,,1
+54,A,Uh-huh.,,,,1
+55,B,"so once in a while when we do something like that it's kind of fun,",,,,1
+56,B,"but it's not a, not a regular thing. Now are we supposed to talk for about five minutes,",,,,1
+57,A,Yeah.,,,,1
+58,A,Yeah.,,,,1
+59,B,it?,,,,1
+60,A,"Yeah,",,,,1
+61,A,"that's what they, they are shooting for here.",,,,1
+62,B,Okay.,,,,1
+63,B,"Um, let's see now",,,,1
+64,B,"okay,",,,,1
+65,B,so you would have a barbecue,,,,1
+66,A,"Well, I live on a, I live on a lake here,",,,,1
+67,B,Uh-huh.,,,,1
+68,A,"and, uh, so it,",,,,1
+69,A,"and then during the summertime it's real nice to be able to entertain outdoors,",,,,1
+70,B,"Oh, sure.",,,,1
+71,A,like that's a little more a casual thing.,,,,1
+72,A,"But in mine the wintertime it's not bad too because then I've got a, a fireplace and a nice, nice house and all that",,,,1
+73,A,"so we, really good place to do entertaining like that.",,,,1
+74,B,Uh-huh.,,,,1
+75,B,"Oh, that sounds wonderful.",,,,1
+76,A,"I just haven't, uh, really tried a whole lot",,,,1
+77,A,"but, uh I don't know,",,,,1
+78,B,Uh-huh.,,,,1
+79,A,let's see.,,,,1
+80,A,"I have had, well, one time I did have a dinner party.",,,,1
+81,A,"I served a, uh, uh,",,,,1
+82,A,"I had a gang of people over and kind of made a fried chicken thing and biscuits, and kind of southern, uh, southern food even though I'm up here in New York,",,,,1
+83,B,Uh-huh.,minor topic end,,,1
+84,A,so,off topic start,,talking about where A and B are from,2
+85,B,"Oh, you are in New York right now?",,,,2
+86,A,Yeah.,,,,2
+87,B,Oh.,,,,2
+88,B,"I'm, I'm in Texas.",,,,2
+89,B,"I didn't know this was all, from all over the whole country.",,,,2
+90,A,"Oh, yeah.",,,,2
+91,A,"Yeah,",,,,2
+92,B,"Oh, I see.",,,,2
+93,A,it is.,,,,2
+94,A,"It's,",,,,2
+95,B,And I'm originally from Long Island.,,,,2
+96,A,"Oh, no kidding?",,,,2
+97,B,"Yes,",,,,2
+98,B,and now where are you in New York?,,,,2
+99,A,Upstate.,,,,2
+100,B,"Oh, upstate.",,,,2
+101,A,Rome.,,,,2
+102,A,"In, uh, Griffins Air Force Base.",,,,2
+103,B,"Oh, okay.",,,,2
+104,B,"Oh, okay.",,,,2
+105,B,"Is that where you, you are originally from around there?",,,,2
+106,B,"Oh, okay.",,,,2
+107,A,"and, uh, been all over the place.",,,,2
+108,B,"Oh, wow.",,,,2
+109,B,That's interesting.,off topic end,,,2
+110,B,"Okay,",,,,0
+111,B,let's see.,,,,0
+112,B,"Um, well, I like to have, um, sometimes when I have a dinner party I'll have, um, everybody bring something,",,,,0
+113,A,Yeah.,,,,0
+114,B,"and that's real interesting because then you get different, um, different kinds of foods and new recipes",,,,0
+115,B,"and, um, uh, sometimes somebody will be bring something that you really like,",,,,0
+116,A,Right.,,,,0
+117,B,and get the recipe from them or whatever.,,,,0
+118,B,"And we are just getting interested in, in Mexican food",minor topic start,,talking about food in texas,1
+119,B,"because here in Texas they have lots of, really good Mexican restaurants",,,,1
+120,A,Uh-huh.,,,,1
+121,B,"and, um, we're, we're just getting into the fajitas and all that stuff that you could,",,,,1
+122,A,Sure.,,,,1
+123,B,do you know what a fajita is?,,,,1
+124,A,Yeah.,,,,1
+125,A,"Yeah,",,,,1
+126,B,Yeah.,,,,1
+127,A,"I've been down to Texas a few times, and, uh, had, uh, the pleasure of their good Mexican, cuisine down there.",,,,1
+128,B,Okay.,,,,1
+129,B,Yes.,,,,1
+130,B,"They have some delicious, delicious things,",,,,1
+131,B,"and I, um,",,,,1
+132,B,since I always make chicken burritos and just take chicken breasts,,,,1
+133,A,Uh-huh.,,,,1
+134,B,"and you boil them, maybe like four chicken breasts,",,,,1
+135,B,and you boil them until they are cooked. Maybe like thirty minutes,,,,1
+136,A,Uh-huh.,,,,1
+137,B,"and then you debone them and, and kind of shred them up into the meat that has gotten cooled",,,,1
+138,B,"and you take, um, little bit, maybe two tablespoons of butter and a in a big frying pan. And chop up some onion and put in oregano and salt,",minor topic end,major topic end,,1

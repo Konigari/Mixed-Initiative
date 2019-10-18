@@ -1,0 +1,156 @@
+,Person,Conversation,Custom Tag,Custom Tag 2,Topic Description,Class
+0,A,"Well, tell me about your home.",major topic start,,house,0
+1,B,Okay.,,,,0
+2,B,"Uh, right now we're living in,",,,,0
+3,B,"well it's me, my wife and, uh, two young boys.",,,,0
+4,B,"And, uh, right now we're in a, uh, I guess it's either a zero lot line or a garden home. Which you might call it.",,,,0
+5,A,Uh-huh.,,,,0
+6,B,"So we don't have a, a big yard. Uh,",,,,0
+7,B,"but, uh, when my wife and I first moved in, it was just the two of us.",,,,0
+8,B,So it was enough.,,,,0
+9,A,Uh-huh.,,,,0
+10,B,"Uh, and it's, uh, I guess what they call a story and a half.",,,,0
+11,B,"Because it's not a full two story. Where, you know, everything on top is on bottom.",,,,0
+12,A,Yeah.,,,,0
+13,B,"So, it's got real high ceilings on half the house",,,,0
+14,B,and the other half is just standard sized ceilings.,,,,0
+15,A,Huh.,,,,0
+16,B,"And, uh, it's about a five year old house now.",,,,0
+17,A,It sounds nice.,,,,0
+18,B,"It's, uh, pretty nice.",,,,0
+19,B,"Unfortunately, the builder who built it went out of business already",off topic start,,about the builder,2
+20,A,"Oh, yeah?",,,,2
+21,B,Yeah.,,,,2
+22,B,"It was a,",,,,2
+23,B,Landmark is the one who built it.,,,,2
+24,A,Yeah.,,,,2
+25,A,"Well, you know, these guys that gambled high lost big you know.",off topic end,,,2
+26,B,Yeah.,,,,0
+27,B,That's true.,,,,0
+28,A,"And, uh I'm insulating myself from that problem.",,,,0
+29,B,Exactly what happened to them.,,,,0
+30,A,I'm building my own house.,,,,0
+31,B,"Oh, that's nice.",,,,0
+32,A,"And as I look out the window of my trailer, I can envision all the insulation that's going up today",,,,0
+33,B,"Oh, really.",,,,0
+34,A,Yeah.,,,,0
+35,B,Are you doing it yourself?,,,,0
+36,A,Yeah.,,,,0
+37,B,Wow.,,,,0
+38,A,I used to be a builder.,minor topic start,,personal occupation related to major topic of building house,1
+39,B,"Oh, that's nice.",,,,1
+40,A,And I retired about five years ago  and  started college.,,,,1
+41,B,"Oh, I  see.",,,,1
+42,B,Huh.,,,,1
+43,A,And now I'm a college educated builder,,,,1
+44,A,"There's still no work, you know.",,,,1
+45,B,Yeah.,,,,1
+46,A,"So, uh,  you know, I decided this summer that, uh, you know, we had enough credit on the credit cards to buy the materials",minor topic end,,,1
+47,A,so I did.,,,,0
+48,B,That's great.,,,,0
+49,A,"And, uh, see the, the, the state has a law that says you cannot borrow the money to build your own home.",off topic start,,goverment laws,2
+50,B,is that so?,,,,2
+51,B,I didn't know that.,,,,2
+52,A,You can borrow the  money to pay somebody else to build your house,,,,2
+53,A,but you can't borrow the money to build your own.,,,,2
+54,B,Well that sounds kind of dumb.,,,,2
+55,A,"Well, it's to protect the, the banks from guys that say yeah I want to build my own house and go out a build a spec home",,,,2
+56,B,Uh-huh.,,,,2
+57,A,and then it doesn't sell,,,,2
+58,A,and then the  bank's  holding the bag.,,,,2
+59,B,Yeah.,,,,2
+60,B,Yeah.,,,,2
+61,A,Well.,,,,2
+62,B,Huh.,,,,2
+63,A,"As, as you know, anything that involves the government is, works half as well as it's supposed to  costs three times as much. Right?",off topic end,,,2
+64,B,That's right,,,,0
+65,A,Hence the savings and loan problem we have.,,,,0
+66,B,"Yeah,",,,,0
+67,B,that's true.,,,,0
+68,A,"But, uh, you know, my home is, uh, fairly simple.",,,,0
+69,A,It's designed to be added on to.,,,,0
+70,B,Uh-huh.,,,,0
+71,B,That's good.,,,,0
+72,A,Yeah.,,,,0
+73,A,"Well, I figure it's just me and my wife",,,,0
+74,A,"but, you know, I like to do stuff with my hands and whatnot,",,,,0
+75,A,so  I want  to have a shop.,,,,0
+76,B,Yeah.,,,,0
+77,B,How big a lot do you got it on?,,,,0
+78,A,Ten acres.,,,,0
+79,B,Wow.,,,,0
+80,B,That's nice.,,,,0
+81,B,That's real nice.,,,,0
+82,A,"Well, yeah.",,,,0
+83,A,It's really nice too because I can't see my nearest neighbor.,,,,0
+84,A,He's on the other side of a hill.,,,,0
+85,B,Oh.,,,,0
+86,A,And my second nearest neighbor is a dot on the horizon.,,,,0
+87,A,Seriously.,,,,0
+88,B,God.,,,,0
+89,B,That's pretty good.,,,,0
+90,A,"Well, in the winter time, I can see, see another guy",,,,0
+91,A,"but, you know, he's",,,,0
+92,B,Uh-huh.,,,,0
+93,A,"I can just make out his place, you know. I've got a thirty mile view to the east and about ten miles to the north.",,,,0
+94,B,Yeah.,,,,0
+95,B,Yeah.,,,,0
+96,A,"And, uh,",,,,0
+97,B,"Oh, that's pretty good.",,,,0
+98,A,Yeah.,,,,0
+99,A,"Well, I took a lot of time in choosing this site because the, the house has no heating or air conditioning.",minor topic start,,heating condition of house,1
+100,B,Uh-huh.,,,,1
+101,B,"Oh, you, you, you don't plan on putting any, any of that in?",,,,1
+102,A,"Well, it's got a, a very small furnace.",,,,1
+103,B,Uh-huh.,,,,1
+104,A,"And a, uh, we'll use a wood burning stove as well.",,,,1
+105,B,Yeah.,,,,1
+106,A,"But, in the house itself, I've been working inside, you know, these, these many months",,,,1
+107,B,Uh-huh.,,,,1
+108,A,and I have not had to use the heat.,,,,1
+109,B,Wow.,,,,1
+110,A,Because it's all geothermal.,minor topic end,,,1
+111,B,Yeah.,,,,0
+112,B,That's pretty good.,,,,0
+113,A,"And with all the,",,,,0
+114,A,"see I've got,",,,,0
+115,A,on the south side is all glass.,,,,0
+116,A,"Well, as much as I could get in it, you know. And, uh, the east side is glass.",,,,0
+117,B,Yeah.,,,,0
+118,A,"I've got one, two, three, four, five, six windows in the east side on forty-eight feet.",,,,0
+119,A,So it's almost all glass.,,,,0
+120,B,Wow.,,,,0
+121,A,"And,  uh,",,,,0
+122,B,My  wife would love that,,,,0
+123,A,"Oh, yeah.",,,,0
+124,A,"I mean,  you know.  There's no place in the house where you can stand and not see four windows.",,,,0
+125,B,She loves  lots of windows.,,,,0
+126,B,That's great.,,,,0
+127,A,"So, uh,",,,,0
+128,B,Is it a single story?,,,,0
+129,A,"Well, not really.",,,,0
+130,A,"It's, uh, it's on the side of a hill.",,,,0
+131,B,"Oh, I see.",,,,0
+132,A,"So the first, you know,",,,,0
+133,A,"the, the, the,",,,,0
+134,A,what I call residential level at the side that's in the hill is about four feet deep.,,,,0
+135,B,Uh-huh.,,,,0
+136,B,"Um, I see.",,,,0
+137,A,"And the side that's on the, uh, the other side is about six feet high.",,,,0
+138,B,Oh.,,,,0
+139,A,So I've got a pretty good grade there.,,,,0
+140,B,Yeah.,,,,0
+141,A,"And then when I put the verandas which will be twelve feet out all the way around on the north, south and east sides that will define the shop.",minor topic start,,future planning of house,1
+142,B,Uh-huh.,,,,1
+143,B,"Yeah,",,,,1
+144,B,"that's kind of like, like a Victorian style?",,,,1
+145,A,Exactly.,,,,1
+146,B,Yeah.,,,,1
+147,B,"I, I've always liked that.",,,,1
+148,B,"The,",,,,1
+149,B,"you know, I, we don't have much yard",,,,1
+150,B,but I built a small deck in the back.,,,,1
+151,A,Uh-huh.,,,,1
+152,B,"But, you know, I, I see these magazines where, you know, dig your, your own deck.",,,,1
+153,A,Uh-huh.,,,,1
+154,B,"I, I kind of wish I had them, those size property and, and, uh, one with a grade on it so I can build a real nice deck.",minor topic end,major topin end,,1

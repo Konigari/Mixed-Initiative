@@ -1,0 +1,363 @@
+,Person,Conversation,Custom Tag,Custom Tag 2,Topic Description,Class
+0,A,Well a lot of women are as knowledge about football as I am.,major topic start,,about their favorite teams and various other teams,0
+1,A,"Can I guess your favorite team, if you had one, might be the Steelers.",,,,0
+2,B,"Yes,",,,,0
+3,B,uh-huh.,,,,0
+4,A,"Well, I can understand that.",,,,0
+5,A,"I, you know, I kind of like the Cowboys, too.",,,,0
+6,B,Do you?,,,,0
+7,A,They've had  some great games in the past.,,,,0
+8,B,"Uh-huh,",,,,0
+9,B,"I, I always enjoy watching the the, Dallas and Pittsburgh together. You know.",,,,0
+10,A,"Uh-huh,",,,,0
+11,A,me too.,,,,0
+12,A,"It wasn't nearly as much fun when Bradshaw was playing for you guys, I'll tell you.",,,,0
+13,A,"He lives in the Dallas area now, as a matter of fact.",off topic start,,where Bradshaw lives,2
+14,B,Does he really?,,,,2
+15,A,"Well, actually, it's probably closer to Fort Worth,",,,,2
+16,A,"but it's, it's in the same area.",,,,2
+17,A,"He bought, uh, bought a big horse farm out in a little town called Roanoke, Texas.",,,,2
+18,B,Uh-huh.,,,,2
+19,A,But he pops up on the Dallas scene quite often.,off topic end,,,2
+20,A,"As a matter of fact, there was some talk about trying to get him involved with the team management in some sort of a coaching job.",minor topic start,,about Bradshaw from team Steelers entering the team as a coach,1
+21,B,"Oh,",,,,1
+22,B,I wonder if he'd ever do that.,,,,1
+23,A,"I don't know,",,,,1
+24,A,he'd be good at it.,,,,1
+25,A,"He's such a motivator, he,  primarily,  you know, with the quarterbacks.",,,,1
+26,B,Yes.,,,,1
+27,B,Uh-huh.,,,,1
+28,A,That  would be his specialty.,,,,1
+29,A,"I wished, I wished they could work something,",,,,1
+30,A,I really like him.,,,,1
+31,A,I really do.,,,,1
+32,B,Uh-huh.,minor topic end,,,1
+33,B,Well what about the Houston Oilers.,,,,0
+34,B,Do you like them?,,,,0
+35,A,"Yeah,",,,,0
+36,A,"okay,",,,,0
+37,A,I'd love to see Dallas and Houston play in a Super Bowl.,,,,0
+38,A,That would be really great.,,,,0
+39,B,Uh-huh.,,,,0
+40,A,"That may not ever happen,",,,,0
+41,A,I don't know.,,,,0
+42,A,"Uh, Houston  has had some wonderful talent, you know, down through the years",,,,0
+43,A,and in the earlier years they really had some super teams.,,,,0
+44,B,Uh-huh.,,,,0
+45,B,"And Warren Moon,  is, is  proving himself quite well right now.",off  topic start,,about Warren Moon,2
+46,A,That's right.,,,,2
+47,A,"He certainly is,",,,,2
+48,A,he's very good.,,,,2
+49,B,Uh-huh.,,,,2
+50,A,He's very good.,,,,2
+51,B,"He's one of the few, uh, Black quarterbacks that there are.",,,,2
+52,A,That's right.,off topic end,,,2
+53,A,"Randall Cunningham was with Philadelphia, I guess last year,",minor topic start,,about Randall Cunningham from team Philadelphia,1
+54,A,but he's no longer with the team.,,,,1
+55,A,"So, you're right,",,,,1
+56,A,"there are very few Black quarterbacks, or at least that are starting anyway.",,,,1
+57,B,Uh-huh.,minor topic end,,,1
+58,A,How do you think the Steelers are going to do this year.,,,,0
+59,A,You have any idea.,,,,0
+60,B,"I don't know,",,,,0
+61,B,"I hope they, they do better.",,,,0
+62,B,"They, they",,,,0
+63,B,during the past couple of years they've been doing a little bit better.,,,,0
+64,A,Uh-huh.,,,,0
+65,B,"But, uh, I think they still have a little, I think they're still such a, a young team I think they still have a little bit to go before they reach the potential,   that it did when ever Bradshaw was playing.",,,,0
+66,A,Yeah.,,,,0
+67,A,"Oh, yeah,",,,,0
+68,A,that was just such super team.,,,,0
+69,B,"Or, if they even reach that potential again, you know, they may never reach that again.",,,,0
+70,A,Yeah.,,,,0
+71,A,"Well that's a tough,",,,,0
+72,A,"it would be tough to do,",,,,0
+73,A,it really would.,,,,0
+74,B,Uh-huh.,,,,0
+75,A,"They have such a super team for years, that won what, four Super Bowls?",,,,0
+76,B,"Yeah,",,,,0
+77,B,four in a row.,,,,0
+78,A,Four in a row.,,,,0
+79,A,I don't know if that could ever be duplicated again or not.,,,,0
+80,B,"Oh, I don't know.",,,,0
+81,A,Yeah.,,,,0
+82,B,Shooting  for one for the thumb now is what they were saying.,,,,0
+83,A,That's right,,,,0
+84,A,"And,",,,,0
+85,B,"But basically everyone that was on the team then is gone now,",,,,0
+86,B,so.,,,,0
+87,A,That's right.,,,,0
+88,B,I think Mike Webster was left,,,,0
+89,B,"but then he, he just left.",,,,0
+90,A,"Uh-huh,",,,,0
+91,A,yeah.,,,,0
+92,B,Uh.,,,,0
+93,A,"He may have been the last of the old guard,",,,,0
+94,A,I don't know.,,,,0
+95,B,"Yeah,",,,,0
+96,B,"I think he is,",,,,0
+97,B,I think he was.,,,,0
+98,A,"Uh-huh,",,,,0
+99,A,"yeah,",,,,0
+100,A,they had such a super team.,,,,0
+101,B,Uh-huh.,,,,0
+102,A,Have you been following the big draft that occurred yesterday?,,,,0
+103,B,"No,",,,,0
+104,B,I didn't.,,,,0
+105,A,I see.,,,,0
+106,B,Huh-uh.,,,,0
+107,A,"There's quite a bit of activity now,",,,,0
+108,A,"of course they had so many, you know, nice, uh, choices because their record was so lousy the last few years.",,,,0
+109,A,"They picked up,  you  know, quite a few of the,",,,,0
+110,B,Uh.,,,,0
+111,A,of course you never know.,,,,0
+112,A,"The guys they pick, you know, may never play a game.",,,,0
+113,A,"You never know,",,,,0
+114,A,"it's, it's a gamble,",,,,0
+115,A,it really is.,,,,0
+116,B,"Yeah,",,,,0
+117,B,uh-huh.,,,,0
+118,A,"They may get hurt, or, not be able to participate at that level, if you know,",major topic end,,,0
+119,B,"Well who would you say is your favorite player, or has ever been your favorite player?",major topic start,,about their favaourite players and various other players,0
+120,A,Ever been?,,,,0
+121,B,Uh-huh.,,,,0
+122,A,"Probably an old guy that played, probably before you were born",,,,0
+123,A,his name was Sam Huff.,,,,0
+124,A,He used to play for the New York Giants.,,,,0
+125,B,Oh.,,,,0
+126,A,"That was one of the toughest guys that I've ever seen in my life,  as  far as, you know, dedication.",,,,0
+127,B,Really.,,,,0
+128,A,He just went all out every single play.,,,,0
+129,B,Uh-huh.,,,,0
+130,A,"Of course, there have been some other great ones too, Dick Butkis, and Bradshaw, you know,",,,,0
+131,A,there's been so many.,,,,0
+132,B,"Yeah,",,,,0
+133,A,"But if I had to pick one, I would probably pick Sam Huff, as a matter of fact.",,,,0
+134,B,"Oh, you know, that's really funny, um,",off topic start,,about how B got into knowing much about football,2
+135,B,"well, I, I come from a large family",,,,2
+136,B,"and, there's quite a few boys",,,,2
+137,B,so that's kind of how I got in with the football.,,,,2
+138,B,Either watch that or watch nothing.,,,,2
+139,A,That's right.,,,,2
+140,B,"And, um, at one time I could name all the players on the Steelers, you know.",,,,2
+141,A,Uh-huh.,off topic end,,,2
+142,B,"And, but, even when Bradshaw was playing, I, I don't know, I, I didn't particularly care for him,",,,,0
+143,A,Uh-huh.,,,,0
+144,B,I  thought he was kind of cocky or something.,,,,0
+145,A,"He is,",,,,0
+146,A,"he is,",,,,0
+147,B,Uh-huh.,,,,0
+148,A,of course a quarterback has a big ego.,,,,0
+149,B,"Yeah,",,,,0
+150,B,uh-huh.,,,,0
+151,A,"They really they have to have,",,,,0
+152,A,they can't survive.,,,,0
+153,B,"Uh-huh,",,,,0
+154,B,uh-huh.,,,,0
+155,A,"They always think they can win, you know, which is the way it should be.",,,,0
+156,B,Uh-huh.,,,,0
+157,A,"Boy, he never gave up, I'll tell you.",,,,0
+158,B,Yeah,,,,0
+159,B,"him and Franco Harris,",,,,0
+160,B,I really didn't care for the either two of them.,,,,0
+161,A,"Uh-huh,",,,,0
+162,A,"uh-huh,",,,,0
+163,B,"I mean  they were good,",,,,0
+164,B,"but, I, you know, you couldn't deny that.",,,,0
+165,A,Oh yeah.,,,,0
+166,B,"But I  didn't, I thought, you know, well I just didn't really care for either one of them.",,,,0
+167,A,Uh-huh.,,,,0
+168,B,"Uh, today, my favorites out of those guys were probably, um, Lambert, Ham,  and,  uh, Stallworth and Swan.",,,,0
+169,A,Uh-huh.,,,,0
+170,A,Uh-huh.,,,,0
+171,A,"Uh-huh,",,,,0
+172,A,"absolutely,",,,,0
+173,A,I can't disagree with that.,,,,0
+174,A,"They were super players,",,,,0
+175,A,they really were.,,,,0
+176,B,Uh-huh.,,,,0
+177,A,"They really,",,,,0
+178,B,"I, I, I like, not just with the Pittsburgh, I like watching on Saturday afternoons when they'll have like the plays or the, the best plays from,  you  know, from the week or something.",off topic start,,about B's liking to watch football highlights,2
+179,A,Uh-huh.,,,,2
+180,A,"Yeah,",,,,2
+181,A,"highlights, yeah.",,,,2
+182,B,"Yeah,",,,,2
+183,B,I love watching that.,,,,2
+184,B,"Then I like watching their bloopers too, you know",,,,2
+185,A,"Yeah,",,,,2
+186,A,"yeah,",,,,2
+187,A,"that's kind of funny too, as a matter of fact",,,,2
+188,A,"Some of them a, a bit embarrassing.",,,,2
+189,A,"Yeah,",,,,2
+190,A,"well they make mistakes too, I guess.",,,,2
+191,B,"Yeah,",,,,2
+192,B,"uh-huh,",off topic end,,,2
+193,A,,,,,0
+194,B,"it's  funny that more people don't get hurt. You know, especially, I would say the receivers,  when they're in  the air and they get tackled.",off topic start,,about people getting hurt while playing football,2
+195,A,Absolutely.,,,,2
+196,A,"Uh-huh,",,,,2
+197,A,"oh they,  They take such a beating.",,,,2
+198,B,"Oh, yeah,",,,,2
+199,B,it's funny some of their necks don't get broken.,,,,2
+200,A,"Absolutely,",,,,2
+201,A,I don't know how they do it.,,,,2
+202,A,"It's, it must just take a hundred percent concentration, I guess, because they know they're going to get hit,",,,,2
+203,A,"it's just a matter of how hard, you know, or where.",,,,2
+204,B,Yeah.,,,,2
+205,B,"An they have to be in ideal physical shape, basically.",,,,2
+206,A,"Oh, absolutely.",,,,2
+207,A,They look like sometimes they're just broken in two like a match stem.,,,,2
+208,A,"Gosh, what a beating,",,,,2
+209,A,"they really do take a beating,",,,,2
+210,A,they really do.,,,,2
+211,B,Yeah.,off topic end,,,2
+212,B,"Well what did you think of, um. a couple years ago for the Bears, the Refrigerator.",,,,0
+213,A,"I think he was just probably a passing phenomena, I think",,,,0
+214,A,"I don't know,",,,,0
+215,A,"I, I'm knowing what, you know,",,,,0
+216,A,"of course, Mike Ditka was in Dallas for years and years as coach, is knowing his, or, you know, knowing of his temperament, I'm just surprised he ever, you know, kept the guy around,",,,,0
+217,A,I really am.,,,,0
+218,A,"He's such a, he's about a half hot head anyway, such a temper.",,,,0
+219,B,"Oh, you know, and to me he does, um, oh, he's just so big and fat,",,,,0
+220,A,Uh-huh.,,,,0
+221,B,he  doesn't even look like he's in shape.,,,,0
+222,B,"He's just so big, no one can move him.",,,,0
+223,A,"That's right, yeah,",,,,0
+224,A,absolutely.,,,,0
+225,A,"There's just so much mass there, I guess they just can't,",,,,0
+226,A,"I don't know, you know,",,,,0
+227,A,"I,",,,,0
+228,A,"probably the guy is, you know, probably physically strong.",,,,0
+229,A,"I, you know,",,,,0
+230,A,obviously not very fast.,,,,0
+231,B,Uh-huh.,,,,0
+232,A,"But I guess it's just, like you say, a mass that nobody can seem to get out of the way.",,,,0
+233,A,"As far as him scoring touch downs, you know, I think that was kind of weird.",,,,0
+234,A,"I don't know,",,,,0
+235,A,"Dallas has a guy, uh, his name is Nate Newton,",,,,0
+236,A,now he has a real weight problem too.,,,,0
+237,A,"He fights it every single year,",,,,0
+238,A,"but, he manages to still keep playing,",,,,0
+239,A,"but,  he  has a terrible weight problem.",,,,0
+240,B,Yeah.,,,,0
+241,B,Wow.,,,,0
+242,A,They,,,,0
+243,A,the coaches watch him all year long.,,,,0
+244,A,"They, they weigh him several times a year just to make sure he's not, you know, completely out of control.",,,,0
+245,B,Uh-huh.,,,,0
+246,A,"But I guess most every team has has someone like that,",,,,0
+247,A,"I don't,",,,,0
+248,B,"Oh, yeah,",,,,0
+249,B,"there's, there are some really big guys playing in football.",,,,0
+250,A,"Absolutely they get bigger and bigger, it seems every year.",,,,0
+251,B,Uh-huh.,,,,0
+252,A,"I guess you have to to, you know, to stay in the game I guess.",,,,0
+253,B,"Yeah,",,,,0
+254,B,"you would, uh-huh.",,,,0
+255,A,Yeah.,,,,0
+256,B,"Um, now who,",,,,0
+257,B,would you say that you have a,,,,0
+258,B,"I mean other than Dallas, would you say that you have, uh, a favorite quarterback.",,,,0
+259,B,"I mean the quarterback's seem to get most of the, the attention, you know.",,,,0
+260,A,"Oh, yeah,",,,,0
+261,A,"sure,",,,,0
+262,A,"well, you'd have to, uh, or I would have to say, you know, someone like Montana, I guess, who's done so well for so many years.",,,,0
+263,B,"Yeah,",,,,0
+264,B,"I I, I enjoy watching him play.",,,,0
+265,A,"Yeah,",,,,0
+266,A,his age is about to catch up with him though.,,,,0
+267,A,He's no Spring chicken anymore.,,,,0
+268,B,"No,",,,,0
+269,B,but he's still performing.,,,,0
+270,A,"And like you say Warren Moon's an excellent,",,,,0
+271,A,Warren Moon's an  excellent.,,,,0
+272,A,But he's very exciting to watch.,,,,0
+273,B,"Yes he is,",,,,0
+274,A,"Uh-huh,",,,,0
+275,A,sure.,,,,0
+276,B,"I, I,  I enjoy watching him also.",,,,0
+277,A,"Uh-huh,",,,,0
+278,A,absolutely.,,,,0
+279,B,"What about, uh, Marino?",,,,0
+280,A,"Uh, I'm,",,,,0
+281,A,"obviously he's a very good quarterback,",,,,0
+282,A,"I'd, I never was, you know, too, a whole lot of, a big fan, you know.",,,,0
+283,A,"Yeah,",,,,0
+284,A,"he may, uh-huh.",,,,0
+285,A,Yes,,,,0
+286,A,"he was,",,,,0
+287,A,I believe that's right at one point in time.,,,,0
+288,A,but he's a very young fellow.,,,,0
+289,B,Uh-huh.,,,,0
+290,A,"Yeah,",,,,0
+291,A,"of course a quarterback can look so good if he's got a lot, if he's got a good supporting cast, you know.",,,,0
+292,B,"That's true,",,,,0
+293,B,that's true.,,,,0
+294,A,"If not, he gets  beat to death like poor old Troy Aikman has the last couple of years anyway,",,,,0
+295,A,you,,,,0
+296,A,"Dallas did better last year,",,,,0
+297,A,hopefully they'll do better this year.,,,,0
+298,B,"to someone else in the Uh, probably around twelve, uh-huh.",,,,0
+299,B,"Yeah,",,,,0
+300,B,"uh, I didn't, I don't know,",,,,0
+301,B,"I, I just think, you know Marino will get better",,,,0
+302,B,"and, uh, his team's not as good as what it was when he went to the Super Bowl,  you know,",,,,0
+303,A,That's right.,,,,0
+304,B,so.,,,,0
+305,A,"Yeah,",,,,0
+306,A,"Miami's had some down years, too.",off topic start,,about team miami and their injuries,2
+307,B,Yeah.,,,,2
+308,A,"But they all do, I guess,",,,,2
+309,B,Uh-huh.,,,,2
+310,B,Yeah,,,,2
+311,B,"That's true,",,,,2
+312,B,"and with age comes,  you know,",,,,2
+313,A,"Yeah,",,,,2
+314,A,with,,,,2
+315,A,"yeah,",,,,2
+316,B,"the,  the",,,,2
+317,B,"I'm sure arthritis sets in with them,  you know.",,,,2
+318,A,"Oh yes,  very much so.",,,,2
+319,A,"Hip injuries and things like that, yeah.",,,,2
+320,B,"Right,",,,,2
+321,B,yeah.,,,,2
+322,A,"Yeah,",,,,2
+323,A,"that, that forces a lot of the guys to get out of the game.",,,,2
+324,B,"Uh-huh,",,,,2
+325,B,"and they're so young,",,,,2
+326,A,That's right.,,,,2
+327,B,"but, they're  retired, you know,",,,,2
+328,A,"Uh-huh,",,,,2
+329,A,"yeah,",off topic end,,,2
+330,A,"I read some time, well not too long ago that the average, uh, professional career only lasts seven years.",off topic start,,about the retirement age of a player,2
+331,A,"So that's when you think about it, that's really not a very long time, of course.",,,,2
+332,B,"Oh yeah,",,,,2
+333,B,but then you think about how many have been in there longer than that.,,,,2
+334,A,"But if the average is seven years that means a lot of guys don't make it seven years, you know.",,,,2
+335,B,"Yeah,",,,,2
+336,B,a lot of them would have to get out like in just a couple.,,,,2
+337,A,that's,,,,2
+338,B,"Holy smokes, I didn't that doesn't seem like very long.",,,,2
+339,A,"That's, that's a pretty short career on average.",,,,2
+340,B,Uh-huh.,,,,2
+341,A,"Of course they play their, you know, cards right and do some good investments, they'll, you know, they'll do all right.",,,,2
+342,B,Uh-huh.,,,,2
+343,A,"But a lot of them don't, unfortunately.",,,,2
+344,B,Yeah.,off topic end,,,2
+345,B,"Um, what do you think of the, uh, L A Raiders,",off topic start,,about team LA raiders,2
+346,B,"used to the, the Oakland?",,,,2
+347,A,"Yeah,",,,,2
+348,A,"they, they're always branded, you know, as a bunch of outlaws",,,,2
+349,A,"and,  if  their, if their, you know, arrest record won't let won't let them play anywhere else, they seem to go to, they seem to go to the Raiders.",,,,2
+350,A,"But  that just may be, you know, perceived,",,,,2
+351,A,"you know perception,",,,,2
+352,A,I don't know.,,,,2
+353,B,Yeah.,off topic end,,,2
+354,A,"Al  Davis is, he's a kind of strange character, strange, strange looking guy.",,,,0
+355,A,"Apparently he's kind of a wild guy,",,,,0
+356,A,I don't really know for sure.,,,,0
+357,A,"They've had some excellent teams, though, obviously.",,,,0
+358,B,"Yes,",,,,0
+359,B,they have.,,,,0
+360,A,"I'm not sure they've yet decided where they want to play,",,,,0
+361,A,"they keeping talk about, you know, going,",major topic end,,,0

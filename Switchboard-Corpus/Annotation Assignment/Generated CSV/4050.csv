@@ -1,0 +1,136 @@
+,Person,Conversation,Custom Tag,Custom Tag 2,Topic Description,Class
+0,B,Hello.,Opening,,,0
+1,A,"I pressed the button one,",,,,0
+2,A,so we're recording right now.,,,,0
+3,A,I'm sorry,,,,0
+4,B,That's okay.,,,,0
+5,B,I'm Bill from Raleigh.,,,,0
+6,A,"Okay,",,,,0
+7,A,"and I'm Melanie from Harrisville, Utah.",,,,0
+8,B,"Oh, another one from a different state besides Texas.",,,,0
+9,A,Yeah.,,,,0
+10,A,"Um, okay,",,,,0
+11,A,"Bill, we're talking about family reunions.",Major Topic Start,,Talking about reunions,0
+12,B,Right.,,,,0
+13,A,"Okay, um,",,,,0
+14,A,have you ever had to plan a family reunion?,,,,0
+15,B,"Uh, yes",,,,0
+16,B,"and no,",,,,0
+17,B,"it wasn't really a a planning one,",,,,0
+18,B,"but it was kind of, uh, it was a birthday",Off topic start,,Talking about birthday,2
+19,A,Oh.,,,,2
+20,B,and I brought a lot of family together then.,,,,2
+21,A,Uh-huh.,,,,2
+22,A,And how did you feel it went?,,,,2
+23,B,It went pretty good.,Off topic end,,,2
+24,B,"I'm, I've worked in hotels,",,,,0
+25,B,"so I, I kind of know how to do these things.",,,,0
+26,A,Oh.,,,,0
+27,B,"I used to, you know.",,,,0
+28,A,"All this planning and, and getting together and such.",,,,0
+29,A,"Um, oh, let's see what else.",,,,0
+30,B,"Usually when we have kind of our family reunion it's my grandmother's birthday,",Minor Topic Start,,Talking about grandmother’s birthday,1
+31,B,"and and it's all of like, she, she comes from a big family.",,,,1
+32,A,Uh-huh.,,,,1
+33,B,She has like seven sisters I think.,,,,1
+34,A,"Oh, boy",,,,1
+35,B,They show up and all their kids.,,,,1
+36,B,"And then all, she has, uh,",,,,1
+37,B,"I have like, uh,",,,,1
+38,B,"let's see,",,,,1
+39,B,"she has four sons and two daughters,",,,,1
+40,B,"and they show up and all their kids,",,,,1
+41,A,Uh-huh.,,,,1
+42,B,"so it's a pretty big reunion,",,,,1
+43,B,"it's about two hundred people, maybe.",,,,1
+44,A,"Oh, my word.",,,,1
+45,A,"Well, what did you find was most helpful in planning the birthday get together?",,,,1
+46,B,"Um, the, probably the biggest challenge was getting a place where everyone, you know, could eat comfortably and, and everything, uh.",,,,1
+47,A,Uh-huh.,,,,1
+48,B,"I guess probably the most helpful thing was that, um, for the rent, we rented like a, a rescue squad building or something like that.",,,,1
+49,A,Oh.,,,,1
+50,A,Uh-huh.,,,,1
+51,B,"And, uh, each one of the, everybody that showed up donated some money for the rent and for, for like soft drinks",,,,1
+52,B,and and so nobody like really got stuck with the bill.,,,,1
+53,A,Oh.,,,,1
+54,A,"Oh, that's good.",,,,1
+55,B,"And each person in the family, you know, brought a dish, or something.",,,,1
+56,A,"Uh-huh,",,,,1
+57,A,"and then did you have a main meal,",,,,1
+58,A,"or did everyone just bring,",,,,1
+59,A,it  was just pot luck.,,,,1
+60,B,It was kind of  pot luck.,,,,1
+61,A,Uh-huh.,,,,1
+62,B,"You know, everybody brought their specialties, I guess you would say.",,,,1
+63,A,"Yeah,",,,,1
+64,A,"yeah,",,,,1
+65,A,show off a little bit,,,,1
+66,B,Yeah.,,,,1
+67,B,"And of course my grandmother's food was, as always, gone first because she's such a great cook.",,,,1
+68,A,Oh.,,,,1
+69,A,Oh.,,,,1
+70,A,Now how old is she?,,,,1
+71,B,"Uh, she's eighty-six.",,,,1
+72,A,"Oh, goodness.",,,,1
+73,A,"Is she pretty spry, is she, you know, pretty.",,,,1
+74,B,"Now she does,",,,,1
+75,B,she looks probably like she's in her early sixties,,,,1
+76,A,"Oh, wow.",,,,1
+77,B,"and if she didn't have arthritis, she'd get around better than me as a matter of fact",,,,1
+78,A,Uh-huh.,,,,1
+79,A,Oh.,,,,1
+80,A,"Oh, that's neat, that she's in good health, and that, at that age.",,,,1
+81,A,Yeah.,,,,1
+82,B,"Oh, yeah.",,,,1
+83,B,My nickname for her is Honey Woman.,,,,1
+84,B,That's what I call her.,,,,1
+85,A,Really.,,,,1
+86,A,Well that sounds fun.,Minor Topic End,,,1
+87,A,"Well, I I had a real challenge of planning a family reunion a few years ago,",,,,0
+88,A,"and there were,",,,,0
+89,A,"we sent out five hundred, uh, announcements, because our family is quite large, like your, your family there.",,,,0
+90,A,"And so that was a real challenge,",,,,0
+91,A,"and I was president of our family reunion for two years,",,,,0
+92,A,"and I wasn't very at that duty, for two years in a row,",,,,0
+93,A,but I found that advance planning was the key to success.,,,,0
+94,B,"Uh, also one thing that's helpful,",,,,0
+95,B,and I don't know if your family's spread out or whatever,Minor Topic Start,,Talking about family,1
+96,A,Uh-huh.,,,,1
+97,B,"but most of, all my family lives like in the same county",,,,1
+98,B,so,,,,1
+99,A,"Oh, that's wonderful, though",,,,1
+100,B,But it's just kind of like get on the telephone,,,,1
+101,B,"and, it's so and such days from such and such date",,,,1
+102,A,Oh.,,,,1
+103,B,and everybody just shows up.,,,,1
+104,A,"Oh, well, that is, that is helpful.",,,,1
+105,A,"Yeah,",,,,1
+106,A,"our family ranges from, oh, goodness, well, Australia,",,,,1
+107,A,"I have a brother lives in Australia, to, uh, Boise, Idaho, and, and, uh, all kinds of places.",,,,1
+108,B,"I would say you're spread out, then.",,,,1
+109,A,We are,,,,1
+110,B,"Uh, my immediate family, you know, my, my parents and my brothers and sisters, I guess we're the ones that have the gypsy blood or whatever,",,,,1
+111,B,because my dad was in the Army,,,,1
+112,B,and we're we're pretty strung out all over.,,,,1
+113,A,Oh.,,,,1
+114,B,"But since they've moved back to Carolinas, we still are the only ones do not live in in Yantsen County.",,,,1
+115,A,In.,,,,1
+116,A,Oh.,,,,1
+117,B,"I live in Raleigh,",,,,1
+118,B,"and then my, my parents live in Greenville,",,,,1
+119,B,"and I have one brother and his wife live in Greenville, and, uh, another brother that lives in, outside of Fayetteville.",,,,1
+120,A,Uh-huh.,,,,1
+121,B,"So I mean, we're, we're spread out,",,,,1
+122,B,"but everybody else is centralized in, in, my home town, Waynesboro",Minor Topic End,,,1
+123,A,Boy.,,,,0
+124,B,so.,,,,0
+125,A,"Oh, my gosh.",,,,0
+126,B,Nobody moves away except us,,,,0
+127,A,They must really like it there.,,,,0
+128,B,"Yeah,",,,,0
+129,B,I got out as soon as I graduated.,,,,0
+130,A,Yeah.,,,,0
+131,A,Oh.,,,,0
+132,B,"Just like this town is too small for me,",,,,0
+133,B,Good-bye.,Major Topic End,,,0
+134,A,"Oh, you're ready to move on to",,,,0

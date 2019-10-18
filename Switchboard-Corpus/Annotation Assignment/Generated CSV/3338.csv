@@ -1,0 +1,177 @@
+,Person,Conversation,Custom Tag,Custom Tag 2,Topic Description,Class
+0,A,Tell me what you like to do.,major topic start,,Theme of the conversation is A's interests and kids,0
+1,B,"Well, I, I collect antique tools, uh, for one thing, I well, I'm sort of in an antique business,",,,,0
+2,B,"but it's a little sideline, part time thing.",,,,0
+3,A,Oh.,,,,0
+4,A,"Uh-huh,",,,,0
+5,A,wonderful.,,,,0
+6,B,"And, uh, I'm building a, a log house at a farm that I have in East Texas, which is a hundred miles from here.",minor topic start,,A talks about a house she's building,1
+7,A,Oh.,,,,1
+8,A,Wonderful.,,,,1
+9,B,"Yeah,",,,,1
+10,B,it's really neat.,,,,1
+11,B,"And, uh, uh, course I've been working on it for five years,",,,,1
+12,B,"but, you know,",,,,1
+13,A,"Oh, but how wonderful.",,,,1
+14,A,Are you close to getting it done?,,,,1
+15,B,"Yeah,",,,,1
+16,B,"yeah,",,,,1
+17,B,it's getting real close to,,,,1
+18,A,Oh.,,,,1
+19,B,"you know, of course there's still a lot of work to be done,",,,,1
+20,B,"and then when you get it completely, you know, the shell finished, uh, you still have a lot of stuff to do inside,",,,,1
+21,B,"but, uh,",,,,1
+22,A,Are you going to move your whole family over there then?,,,,1
+23,B,"No,",,,,1
+24,B,"actually, uh, I'm not even sure,",minor topic end,,,1
+25,B,"I may,",,,,0
+26,B,I'll probably always have a place here in Richardson or Dallas,off topic start,,A talks about having a holiday home,2
+27,A,"Uh-huh,",,,,2
+28,A,kind of your getaway place.,,,,2
+29,B,"Yeah,",,,,2
+30,B,escape.,,,,2
+31,B,"But it's beautiful,",,,,2
+32,B,"it's, you know, it's Eastern Hardwood, uh, forest,",,,,2
+33,B,"there are a lot of pine trees,",,,,2
+34,B,but it's mostly oaks,,,,2
+35,B,and .,,,,2
+36,A,"Oh, how beautiful,",,,,2
+37,A,and it's pretty flat there?,,,,2
+38,B,"Well, it's kind of, hilly,",,,,2
+39,B,"but, it's, you know, low hills,",,,,2
+40,B,"it's not, uh,",,,,2
+41,A,"See, I've only been to Texas once.",,,,2
+42,A,"I have two sisters in Texas now, um, one in Austin, one in Dallas,",,,,2
+43,A,and the one in Dallas is the one that got me to doing this,,,,2
+44,B,Yeah.,,,,2
+45,A,"and, uh, I thought Austin was beautiful",,,,2
+46,B,"You,",,,,2
+47,A,"I liked the hills and the trees,",off topic end,,,2
+48,B,"Yeah,",,,,0
+49,B,in,,,,0
+50,B,"Yeah,",,,,0
+51,B,"it's really different because that's kind of the, you know, that's the chalk hills down there,  limestone hills,",,,,0
+52,A,"Oh, and you've always,  lived in Texas, have you?",off topic start,,B talks about being a Texan,2
+53,B,"Yeah,",,,,2
+54,B,except for time in service.,,,,2
+55,A,Uh-huh.,,,,2
+56,A,"Born and raised Texan, huh.",,,,2
+57,B,"Yeah. At, at which one?",off topic end,,,2
+58,A,"Well, I had never been there,",,,,0
+59,A,that's pretty neat.,,,,0
+60,A,My sisters both seem to like it pretty well.,minor topic start,,A talks of her siblings,1
+61,A,"My brother-in-law works for the University, um, in Dallas.",,,,1
+62,A,He's admissions director.,,,,1
+63,A,Uh. University of Texas in Dallas.,,,,1
+64,B,"Oh, okay",,,,1
+65,A,Yeah.,,,,1
+66,B,it's just north of me here.,,,,1
+67,A,"Yeah,",,,,1
+68,A,"well that's, he's got a job there",,,,1
+69,A,"and this is his first year,",,,,1
+70,A,"so, it's been a real interesting thing for them",,,,1
+71,B,That's great.,,,,1
+72,A,But they seem to like it okay.,,,,1
+73,A,"I think they're too far away from me,",,,,1
+74,A,"but maybe some day they can get closer,",minor topic end,,,1
+75,B,"Well, yeah,",,,,0
+76,A,we'll see.,,,,0
+77,B,Pretty good trip.,,,,0
+78,B,"So what do you, what kind of hobbies are you in?",,,,0
+79,A,"Well, I'm mother of four,",,,,0
+80,A,"so basically I'm just, real busy with my kids right now in sports,",,,,0
+81,A,"and we have a little Halloween talent show tonight,",,,,0
+82,A,"and, I substitute at the schools part-time.",,,,0
+83,B,"Oh, that's great.",,,,0
+84,A,"Well, I am a travel agent at heart,",,,,0
+85,A,"and my hobby is just,",,,,0
+86,A,"I love traveling and, and being involved of that and finding out more, uh,",,,,0
+87,A,"but, it's real hard to work in the summers and holidays and weekends when you have four children and a husband,",,,,0
+88,A,"so I reluctantly gave that career up and am just substituting at the school,",,,,0
+89,B,"No, kidding.",,,,0
+90,A,"so I've been librarian all this week, which has been real interesting,",,,,0
+91,A,and I'm enjoying it.,,,,0
+92,A,I'm around my kids,,,,0
+93,B,That's pretty easy substituting isn't it?,,,,0
+94,A,"yeah,",,,,0
+95,A,"it's great,",,,,0
+96,A,"it's great,",,,,0
+97,A,"and what else do I do,",,,,0
+98,A,I do lots of cross stitching when I have time,,,,0
+99,B,Ooh.,,,,0
+100,A,"and I enter things in our little state fair,",,,,0
+101,A,and that's pretty fun.,,,,0
+102,B,That's great.,,,,0
+103,A,"Well, but, actually my hobbies is mostly is my sports. Tennis,",,,,0
+104,A,I play tennis.,,,,0
+105,B,"Ooh, I love tennis too",,,,0
+106,A,"Ooh,",,,,0
+107,A,do you?,,,,0
+108,B,"and I ski, ski,",,,,0
+109,B,do you ski?,,,,0
+110,A,"Yes,",,,,0
+111,A,we snow ski.,,,,0
+112,A,"We snow ski at Mount Bachelor mostly in Oregon,",,,,0
+113,B,"Uh, that's great.",,,,0
+114,A,have you ever been there?,,,,0
+115,B,"No, uh,",,,,0
+116,A,Wonderful place.,,,,0
+117,B,I've skied in Colorado,,,,0
+118,B,"and we usually go to New Mexico because it's a little cheaper, you know.",,,,0
+119,A,Ooh.,,,,0
+120,A,Uh-huh.,,,,0
+121,A,Where in Colorado?,,,,0
+122,B,"I've been to Telluride which is on the west side and, uh, Copper,",,,,0
+123,A,"Yes,",,,,0
+124,A,yes.,,,,0
+125,B,Copper is kind of my favorite up there. Breckenridge and Keystone.,,,,0
+126,A,Really.,,,,0
+127,A,Uh-huh.,,,,0
+128,B,I guess those are the only places I've skied up there.,,,,0
+129,A,"I would love,",,,,0
+130,A,I can hardly wait to get up there.,,,,0
+131,B,"Me, too.",,,,0
+132,B,"You guys, are you guys getting snow?",minor topic start,,They talk about the mountains and snow,1
+133,A,"We,",,,,1
+134,A,it is snowing right now.,,,,1
+135,A,We're to get one to three inches tonight.,,,,1
+136,B,"Oh, gee,",,,,1
+137,B,I heard Aspen got three feet.,,,,1
+138,A,"Oh, yeah,",,,,1
+139,A,"well we're, we are on the dry side of the mountains.",,,,1
+140,A,"Seattle is only about two and a half hours,",,,,1
+141,A,so of course I'm a real Seahawks fan,,,,1
+142,B,Yeah.,,,,1
+143,A,"and, um, going over that pass is just a real nightmare.",,,,1
+144,B,"I can imagine, my lord.",,,,1
+145,A,"And, um, so, and we're on the colder side,",,,,1
+146,A,"they're on the rainy side,",,,,1
+147,A,we're on the snowy side,minor topic end,,,1
+148,A,"and, um, we, we ski.",,,,0
+149,A,"My, my children all ski",,,,0
+150,B,"Oh, super.",,,,0
+151,A,"and we've, we have been to Whistler in Canada, which is just a marvelous place,",,,,0
+152,A,"Whistler and Black Home is in Canada,",,,,0
+153,A,"and then we've gone to Sun Valley several times,",,,,0
+154,A,"that's a, just a great place. But no not in Colorado",,,,0
+155,A,"since I was in college, since I went to school,",,,,0
+156,B,What about Utah?,,,,0
+157,A,"Haven't been there,",,,,0
+158,A,"I keep hearing these marvelous things about Deer Valley and,",,,,0
+159,B,"Yeah,",,,,0
+160,B,haven't either.,,,,0
+161,A,"um, to don't, Adam, talking to um City,",,,,0
+162,B,Always want to go to Canada Canada to Banff or somewhere like that,,,,0
+163,A,"Ooh, yes.",,,,0
+164,A,And your kids all ski?,,,,0
+165,B,"Uh, not all of them",,,,0
+166,A,Uh-huh.,,,,0
+167,B,"My, my kids are all grown.",,,,0
+168,A,Uh-huh.,,,,0
+169,B,But my youngest son is a skier.,,,,0
+170,A,"Really,",,,,0
+171,A,that's great.,,,,0
+172,A,"Well, my boys are at the point where they scare their mommy to death.",,,,0
+173,B,Uh-huh.,,,,0
+174,A,"When they're skiing they're fearless,",major topic end,,,0
+175,A,"and they go off,",,,,0

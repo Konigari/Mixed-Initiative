@@ -1,0 +1,112 @@
+,Person,Conversation,Custom Tag,Custom Tag 2,Topic Description,Class
+0,A,"Okay,",opening,,,0
+1,A,is it Mike?,,,,0
+2,B,Yes.,opening,,,0
+3,A,Do you repair your own car?,major topic start,,The theme is car repair,0
+4,B,"I try to, whenever I can.",,,,0
+5,B,"I've always been a, a I guess a product of a handyman father.",,,,0
+6,A,"Well, I tell you what, that's, count your blessings because uh, it really is good when someone can do some things to a car themselves.",,,,0
+7,B,Yeah.,,,,0
+8,B,Yeah.,,,,0
+9,B,"There's,",,,,0
+10,B,"although I'll tell you, you know, over the years the cars get more complicated.",minor topic start,,They talk about how car repair gets tricky with time,1
+11,A,"Well, that's why I don't do as much as I'd like.",,,,1
+12,B,"Right,",,,,1
+13,B,yeah.,,,,1
+14,A,"Because they are, I mean they've got, they've gotten complicated haven't they?",minor topic end,,,1
+15,B,Yes.,,,,0
+16,B,"One of my first cars was a fifty-six Buick. Which, after awhile I could, you know, take it apart in my sleep if I needed to.",off topic start,,B talks about the first car he repaired and how it's changed now,2
+17,A,Uh-huh.,,,,2
+18,A,Is that right?,,,,2
+19,B,Yeah.,,,,2
+20,B,"It, it got to be pretty straightforward to understand",,,,2
+21,B,"and, now since then, you know, the closer a car is to a fifty-six Buick, the, the more I know about it.",,,,2
+22,B,And then start getting into these Nissans and the like,,,,2
+23,B,and I just can't keep up.,,,,2
+24,A,"Yeah,",,,,2
+25,A,"I, I agree.",,,,2
+26,A,"About all I ever,",,,,2
+27,A,"I never was too mechanically inclined,",,,,2
+28,A,"but I used to always change my own oil and do the points and plugs and,",,,,2
+29,B,Yeah.,,,,2
+30,A,"Course, they don't use, uh, points anymore.",,,,2
+31,B,That's right,,,,2
+32,A,"But, Uh, they do still use plugs.",off topic end,,,2
+33,B,Yeah.,,,,0
+34,B,Yeah.,,,,0
+35,A,"And, uh, now brakes, I've always done a lot of, you know, changing brakes.",minor topic start,,They talk about brake repair,1
+36,B,Uh-huh.,,,,1
+37,A,"And I used to do, I could always do the alternator, you know, and starter.",,,,1
+38,B,Yes.,,,,1
+39,A,"I don't anymore,",,,,1
+40,A,"but I have on a lot, a lot of times.",,,,1
+41,B,"Yes,",,,,1
+42,B,I understand.,minor topic end,,,1
+43,B,My last car repair actually had to do with brakes,off topic start,,B talks about when his brakes needed repair,2
+44,B,and it's one I did not do myself.,,,,2
+45,B,"I took the car, my,",,,,2
+46,B,"I have a seventy-nine El Dorado, took it to be inspected",,,,2
+47,A,Uh-huh.,,,,2
+48,B,and the parking brake failed.,,,,2
+49,B,"So I got under there and messed with the, the that, uh, that adjustment to make, to tighten it up",,,,2
+50,A,Uh-huh.,,,,2
+51,B,and that didn't do the trick,,,,2
+52,A,Uh-huh.,,,,2
+53,B,"and then I got there and tried to,",,,,2
+54,A,"It probably slipped loose, didn't it?",,,,2
+55,B,"Well, actually that wasn't even eventually the problem.",,,,2
+56,B,"I, I did a lot of things that I, I did everything that I could think to do.",,,,2
+57,A,Uh-huh.,,,,2
+58,B,"And, eventually I brought it up to a, a place called Just Brakes",,,,2
+59,A,Uh-huh.,,,,2
+60,B,"and it turns out that there's a,",,,,2
+61,B,"the parking brake in the rear,",,,,2
+62,B,"there's a, there's disc brakes",,,,2
+63,B,and the parking brake is a piston deal.,,,,2
+64,A,Um.,,,,2
+65,B,"And because the parking brake hadn't been used in so many years, the piston froze up.",,,,2
+66,A,Oh.,,,,2
+67,B,So they ended up having to pound it out.,,,,2
+68,B,"And one of them, they, were able to get running, uh, kind of oiling it and playing with it",,,,2
+69,B,"and the other one they just, it was just frozen solid,",,,,2
+70,B,so I ended up having to buy one,,,,2
+71,B,"and all total, it was just under two hundred dollars, believe it or not, to get all that done",,,,2
+72,A,"well, it really wasn't quite, as bad as you thought, was it, was it?",,,,2
+73,B,"yeah,",,,,2
+74,B,"actually, I, I think it was a lot of money,",off topic end,,,2
+75,B,"but I, I don't, like I",,,,0
+76,A,"Well, it was a lot of money,",,,,0
+77,A,"but,",,,,0
+78,B,"Yeah,",,,,0
+79,B,"but, I,",,,,0
+80,B,it got to the point where I didn't know what was going on,,,,0
+81,B,"so,",,,,0
+82,A,"You had to have the help, didn't you?",,,,0
+83,B,"That's right,",,,,0
+84,B,that's right.,,,,0
+85,A,Yeah.,,,,0
+86,A,"Well, do you still do much work on them, then?",,,,0
+87,B,I do.,,,,0
+88,B,"actually that was just a, at, at the beginning of September",,,,0
+89,B,"and, whenever I can, I do try.",,,,0
+90,B,I,,,,0
+91,B,"actually, I'd say this.",,,,0
+92,B,"I, I've gotten to the point where I don't change the oil anymore. Only because,",minor topic start,,They talk about oil change,1
+93,A,Disposal is a problem.,,,,1
+94,B,"Well, that is one problem,",minor topic end,,,1
+95,B,"but also these, uh, these fast oil change places, you just can't beat them.",off topic start,,They talk about oil change places,2
+96,A,That's true.,,,,2
+97,B,"For sixteen bucks they'll not only will they change the oil in ten minutes, and do a you know, as good a job as I can do, but they'll, uh, lube, too",off topic end,,,2
+98,A,That's true.,,,,0
+99,A,"Right,",,,,0
+100,A,"that, that,",,,,0
+101,A,"I've, I've quit doing that myself.",,,,0
+102,B,Yeah.,,,,0
+103,A,"And, but one of the main reasons was the disposal of the oil, you know.",,,,0
+104,B,"Yep,",,,,0
+105,B,that's right.,,,,0
+106,A,"And, uh, but, it,",,,,0
+107,A,"but, no,",,,,0
+108,A,"I guess,",,,,0
+109,A,"that,",,,,0
+110,A,"and the main reason that it's, it's quick.",major topic end,,,0

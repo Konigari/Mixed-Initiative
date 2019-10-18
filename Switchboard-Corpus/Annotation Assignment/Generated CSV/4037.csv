@@ -1,0 +1,103 @@
+,Person,Conversation,Custom Tag,Custom Tag 2,Topic Description,Class
+0,A,"Uh, Greg,",major topic start,,Discussing whether or not death penalty should be in practice,0
+1,A,"uh, I, I'm not familiar.",,,,0
+2,A,"I think, uh, you guys in Indiana, don't you have the, the death penalty?",off topic start,,Inquiring if Indiana has death penalty,2
+3,B,"Yeah,",,,,2
+4,B,we do have the death penalty here.,,,,2
+5,B,"It's not exercised very often,",,,,2
+6,B,but we do have it.,,,,2
+7,A,Uh-huh.,,,,2
+8,B,"I believe it,",off topic end,,,2
+9,A,Uh-huh.,,,,0
+10,B,"I know there's a lot of, lot of problems with it,",,,,0
+11,B,"but, uh seems to me that some crimes are just so heinous that, that the person just, I feel, doesn't deserve to live, doesn't deserve for the tax payers to spend however many thousands of dollars it costs a year to keep them in, in prison for life.",,,,0
+12,A,Uh-huh.,,,,0
+13,A,Right.,,,,0
+14,B,"But, I know there's a lot of problems with that, like, well, they say, okay, if you declare someone, put them on death row and execute them, well, then ten years later you find out that he really didn't do it, then that life was wasted,",,,,0
+15,B,"but just seems like in some cases that it's a, it's a good policy.",,,,0
+16,A,Uh-huh.,,,,0
+17,A,Uh-huh.,,,,0
+18,A,"Uh, I, I tend to agree with you,",,,,0
+19,A,"uh, I've changed my views over, uh, even within the last few years, uh, to be honest.",minor topic start,,How A's views about capital punishment changed,1
+20,A,"Uh, uh, when I was in when I was an undergraduate, I was a member of Amnesty International",,,,1
+21,B,Uh-huh.,,,,1
+22,A,"and, uh, and, of course, at that time, you know, I thought, uh, uh, it was stupid to kill anybody for, uh,",,,,1
+23,A,"you know, that",,,,1
+24,A,the eye for an eye was a stupid argument.,,,,1
+25,B,Right.,,,,1
+26,A,"But the, uh, the more,",,,,1
+27,A,"now I live in downtown Dallas,",,,,1
+28,A,"and I, uh, you know, I've seen, uh, I've seen cases on, in the news and all where, where, you know, uh, a, a person who had murdered a person is back on the street and then commits another murder.",minor topic end,,,1
+29,B,Right.,,,,0
+30,B,Right.,,,,0
+31,A,"I think that maybe, uh, a good solution to capital punishment might be, uh, reserve it solely for, uh, repeat offenders of a crime like, uh, murder.",minor topic start,,Possible failsafe way to implement capital punishment,1
+32,B,"That's a, that's a thought that I had never really had on that which seems pretty sensible.",,,,1
+33,A,"Yeah,",,,,1
+34,A,it seems sensible and failsafe.,,,,1
+35,A,"I, I, uh, I don't,",,,,1
+36,A,"you know, not completely failsafe,",,,,1
+37,A,"but if a man's convicted of two murders, uh, you know, there's a pretty good chance that something's wrong.",,,,1
+38,B,Right.,minor topic end,,,1
+39,A,"Uh I also, uh,",,,,0
+40,A,"to tell you how liberal I have turned, uh, toward this, or, or, or whatever side that is I've kind of chosen, uh, I believe it that, uh, big time drug importers, like, uh, say Noriega for example that these people need to be, uh, eliminated, uh from society,",minor topic start,,Why even big time drug importers deserve death penalty,1
+41,B,Right.,,,,1
+42,B,Yeah.,,,,1
+43,B,Uh-huh.,,,,1
+44,B,Uh-huh.,,,,1
+45,A,"and I think, I think the death penalty is the best choice for those people, because, uh, really any kind of, uh, uh, jail sentence for them is just another chance to, uh, create another power structure",,,,1
+46,B,"Yeah,",,,,1
+47,B,"you're, you're right there.",,,,1
+48,B,"Uh, I",,,,1
+49,B,"basically my views, I guess they tend to be more economically oriented in that I just, you know, they come out with these figures that it costs fifty thousand dollars, taxpayer dollars a year to keep someone alive in jail when they're going to be there for life, they're never going to be rehabilitated.",minor topic end,,,1
+50,A,Uh-huh.,,,,0
+51,A,Right.,,,,0
+52,A,Right.,,,,0
+53,B,"I mean, I don't believe that the prison system that we have today does much towards rehabilitation to begin with",minor topic start,,questioning the prison system's effectivity,1
+54,A,Right.,,,,1
+55,B,"so to me I'm paying taxes, you know, twenty percent of my check or whatever to keep somebody alive who I, in my mind shouldn't be there in the first place and is never going to be a valuable or worthwhile part of society,",,,,1
+56,A,Uh-huh.,,,,1
+57,B,"so I, I'm all in favor of it.",,,,1
+58,A,Uh-huh.,minor topic end,,,1
+59,A,"Well, uh, do you, uh,",minor topic start,,Discussing if there are cases where capital punishment shouldn't be sentenced,1
+60,A,"are there cases where you think that, that, uh, the capital, the capital punishment shouldn't be, uh, uh, sentenced?",,,,1
+61,B,"Well, I, I really don't know on that question.",,,,1
+62,B,"It just seems like,",,,,1
+63,B,"for instance, the Jeffrey Dahlmer case. I mean, I don't really think that this person is going to ever be a worthwhile part of society.",,,,1
+64,B,I hope the guy never gets back out on the streets,,,,1
+65,A,Uh-huh.,,,,1
+66,B,"and in that case, Wisconsin doesn't have a death penalty,",,,,1
+67,B,so he's going to be sentenced to life imprisonment,,,,1
+68,A,Right.,,,,1
+69,B,"and I think that, that he should not be allowed to live,",,,,1
+70,B,"but, you know, then you're kind of playing God which is never a good thing to do.",,,,1
+71,A,"That's true,",,,,1
+72,A,yeah.,,,,1
+73,A,Right.,,,,1
+74,B,"But cases where I think the death penalty should be withheld, uh, not really that I can think of.",,,,1
+75,B,"I, I would, I would be in favor of the death penalty in things like, you know, murders, and like you said, repeat murders or serial killers",,,,1
+76,A,Uh-huh.,,,,1
+77,A,Uh-huh.,,,,1
+78,B,"uh, I don't really agree with the, uh, death penalty for people like Noriega and such as that.",,,,1
+79,B,"I think that they're, they're operating on a more,",,,,1
+80,B,"I mean, I know that they're causing massive problems in society up here,",,,,1
+81,B,"but I don't really think that, that it's, it's in our power to take these people from a sovereign state and say you don't deserve to live, because they're feeding our consumer needs.",minor topic end,,,1
+82,A,Right.,,,,0
+83,A,"Sure,",,,,0
+84,A,"yeah,",,,,0
+85,A,"I understand, I understand your point.",,,,0
+86,A,Yeah.,,,,0
+87,A,"Uh, of course, you know, with, uh, with, with Dahlmer now, uh, you, you realize that I think it's Ohio, uh, gets to try him next",off topic start,,Discussing Dahlmer's case,2
+88,A,and they do have the death penalty.,,,,2
+89,B,Uh-huh.,,,,2
+90,B,Yeah.,,,,2
+91,A,"Yeah,",,,,2
+92,A,"so, uh, that was a curious case.",,,,2
+93,A,I.,,,,2
+94,B,"Yeah,",,,,2
+95,B,that is very curious.,,,,2
+96,A,"Uh, uh, something is sort of nightmarish to say the least.",,,,2
+97,B,Yeah.,,,,2
+98,B,"That's, that's right.",off topic end,,,2
+99,A,"Uh, well, here in Texas we, uh,",off topic start,,Death sentence by leathal injection in Texas ,2
+100,A,"I think even, even this last week, last week they had another, they, uh,",,,,2
+101,A,"you know, they use their capital punishment by lethal injection, uh, uh,",off topic end,major topic end,,2

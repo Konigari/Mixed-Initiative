@@ -1,0 +1,236 @@
+,Person,Conversation,Custom Tag,Custom Tag 2,Topic Description,Class
+0,A,"All right, uh, well,",Opening,,,0
+1,A,"let's see,",,,,0
+2,B,How old are you Lisa?,Major Topic Start,,Talking about introductions,0
+3,A,I'm twenty.,,,,0
+4,B,Okay.,,,,0
+5,A,How old are you?,,,,0
+6,B,I'm older.,,,,0
+7,A,Older,,,,0
+8,B,Older than you are.,,,,0
+9,A,Okay.,,,,0
+10,B,"Okay,",,,,0
+11,B,we are supposed to talk about places we like to go.,,,,0
+12,B,"So I'm going,",,,,0
+13,B,"and where are you from, where are you calling from?",,,,0
+14,A,"I'm calling from, uh, Provo, Utah,",,,,0
+15,A,"but I'm from Plano, Texas.",,,,0
+16,B,"Oh, you are from Plano.",,,,0
+17,B,My sister lives in Plano.,,,,0
+18,A,"Oh, really?",,,,0
+19,B,"Yes,",,,,0
+20,B,"her husband is the new Director of Admissions at, uh, University of Texas at Dallas.",,,,0
+21,A,"Oh, wow.",,,,0
+22,B,"Yeah,",,,,0
+23,B,"so,",,,,0
+24,B,"Anyway, so, where's your favorite place to go?",Minor Topic Start,,Talking about vacation house,1
+25,A,My grandparents live there.,,,,1
+26,A,That's generally our usual summer vacation.,,,,1
+27,B,Where in Arizona?,,,,1
+28,A,"Uh, Tempe.",,,,1
+29,B,"Okay,",,,,1
+30,B,I've never been to Tempe.,,,,1
+31,A,"So,",,,,1
+32,B,That's where I'd like to go.,,,,1
+33,B,What do you like about Tempe?,,,,1
+34,A,"Uh, mainly just being with family is it.",,,,1
+35,A,We just hang out,,,,1
+36,A,and my grandparents have a pool,,,,1
+37,A,so we go swimming,,,,1
+38,A,"and, uh,",,,,1
+39,B,"Pretty hot isn't it, in the summer?",,,,1
+40,A,Yeah,,,,1
+41,A,but we keep cool just by going swimming,,,,1
+42,A,and it's fun to be with my cousins.,,,,1
+43,A,"They're up there also, my grandparents and my cousins.",,,,1
+44,B,That's good.,,,,1
+45,B,Uh-huh.,,,,1
+46,A,"So,",,,,1
+47,B,Been to Hawaii?,,,,1
+48,A,"No,",,,,1
+49,A,have you?,,,,1
+50,B,"Yes,",,,,1
+51,B,"in fact, I just got some reservations.",,,,1
+52,B,"I'm going to go for, uh, almost two weeks this winter.",,,,1
+53,A,"Oh, my goodness.",,,,1
+54,B,Yes.,,,,1
+55,B,"It's the longest,",,,,1
+56,B,"well actually I lived there,",,,,1
+57,B,"so I was there longer,",,,,1
+58,B,"but two weeks is the longest vacation I'll have ever taken there,",,,,1
+59,B,so I'm kind of looking forward to that one.,,,,1
+60,A,Wow.,,,,1
+61,A,Around Christmas time?,,,,1
+62,B,"Uh, no,",,,,1
+63,B,in March.,,,,1
+64,A,Oh.,,,,1
+65,B,We're going to go in March after my children's birthdays and get all that business out of the way.,,,,1
+66,A,Wow.,Minor Topic End,,,1
+67,B,"Yeah,",,,,0
+68,B,"so I think, I would like to go to Arizona.",,,,0
+69,B,"I mean, I was in Phoenix in January, last January",,,,0
+70,B,but it was rainy and icky.,,,,0
+71,A,"Oh, really?",,,,0
+72,B,It was the coldest it's been there ever in January,,,,0
+73,B,I think. It's very cold.,,,,0
+74,A,"So, do you travel a lot",,,,0
+75,B,"But, I would like to go to Tempe.",,,,0
+76,A,"or,",,,,0
+77,B,Do we travel a lot?,,,,0
+78,B,"Uh, some, yeah.",,,,0
+79,B,"Well, I've been a, I was a travel agent.",,,,0
+80,A,Oh.,,,,0
+81,B,"I mean, I have been up until just a few months ago.",,,,0
+82,B,But I'm thinking of going back to work,,,,0
+83,A,Huh.,,,,0
+84,B,Yeah.,,,,0
+85,A,"So you know a lot of good vacation spots, huh.",Minor Topic Start,,Talking about vacation spots,1
+86,B,I I know a lot of good places to go.,,,,1
+87,B,But you definitely need to go to Hawaii.,,,,1
+88,B,Very definitely.,,,,1
+89,A,That's your favorite?,,,,1
+90,B,"Yes,",,,,1
+91,B,it is my favorite.,,,,1
+92,B,My husband hasn't been to Europe yet,,,,1
+93,B,and I'd like to take him there.,,,,1
+94,B,"And, but he's traveled all over the United States",,,,1
+95,B,and I haven't.,,,,1
+96,B,"Like, I haven't been down south.",,,,1
+97,B,I'd like to go to New Orleans.,,,,1
+98,B,Have you been there?,,,,1
+99,A,I haven't.,Minor Topic End,,,1
+100,A,"Where, where do you live?",,,,0
+101,B,"We, I live in Yakima, Washington.",,,,0
+102,A,Wow.,,,,0
+103,B,So it's cold and rainy today.,,,,0
+104,B,It's yucky.,,,,0
+105,A,Um.,,,,0
+106,B,But we've had some pretty nice weather.,,,,0
+107,B,"We played tennis outdoors until last week,",,,,0
+108,B,so that's a pretty good deal.,,,,0
+109,A,Um.,,,,0
+110,B,"So do you go to school in Provo, Utah?",,,,0
+111,A,I do.,,,,0
+112,B,Do you use NuSkin skin care.,Minor Topic Start,,Talking about NuSkin Care,1
+113,B,They're located in Provo.,,,,1
+114,A,I work for NuSkin,,,,1
+115,B,Do you?,,,,1
+116,A,Yes.,,,,1
+117,B,I'm a NuSkin person.,,,,1
+118,A,"Oh, really?",,,,1
+119,B,"Yeah,",,,,1
+120,B,"I sell NuSkin, too.",,,,1
+121,B,"I, I am my only",,,,1
+122,A,"Oh, my goodness.",,,,1
+123,B,and best,,,,1
+124,B,not only and best,,,,1
+125,B,but I'm my best customer.,,,,1
+126,A,Great,,,,1
+127,B,"Since we're not supposed to talk about this, though, is there anything more intensive for the eye area than the eye cream?",,,,1
+128,A,"Uh,",,,,1
+129,B,Do you know?,,,,1
+130,A,"I don't,",,,,1
+131,A,"probably, maybe the rejuvenating cream is the only other thing I would use.",,,,1
+132,B,"I have that, too.",,,,1
+133,B,"I'm forty-two,",,,,1
+134,B,"I need something,",,,,1
+135,B,I need more.,,,,1
+136,A,Than the intensive eye?,,,,1
+137,B,Yeah.,,,,1
+138,B,I didn't know if there was anything else.,,,,1
+139,B,And I use the Celltrex.,,,,1
+140,A,Uh-huh.,,,,1
+141,B,"But anyway,",,,,1
+142,B,"well, yes,",,,,1
+143,B,NuSkin is wonderful.,,,,1
+144,A,"Good,",,,,1
+145,A,yes.,,,,1
+146,B,I think it's a wonderful product.,,,,1
+147,B,Do you use it?,,,,1
+148,A,"I do,",,,,1
+149,A,"yeah,",,,,1
+150,A,we get free products every month,,,,1
+151,A,"so,",,,,1
+152,B,"Oh, my gosh.",,,,1
+153,B,That's great.,,,,1
+154,A,"Right, right",,,,1
+155,A,"now I'm getting about sixty bucks a month, free products",,,,1
+156,A,"so,",,,,1
+157,B,"Yeah,",,,,1
+158,B,"oh, yeah.",,,,1
+159,A,I've worked there about a year.,,,,1
+160,B,That's good.,,,,1
+161,B,Are they good to work for?,,,,1
+162,A,"Yes,",,,,1
+163,A,they're wonderful to work for.,,,,1
+164,B,That's great.,,,,1
+165,A,Yep,Minor Topic End,,,1
+166,B,"Anyway, so we're supposed to be talking about places to go",,,,0
+167,B,and you have not been to Europe.,,,,0
+168,B,Do you go to school?,,,,0
+169,A,Uh-huh.,,,,0
+170,B,Do you ski?,,,,0
+171,A,"I ski, yes.",,,,0
+172,A,"I've,",,,,0
+173,B,"Ski,",,,,0
+174,B,you probably ski very well in Utah.,,,,0
+175,A,"No,",,,,0
+176,A,I don't,,,,0
+177,A,"Actually since I grew up in Texas I've only been here about two years and have gone skiing about three times. well, five times each season.",,,,0
+178,B,Uh.,,,,0
+179,B,Why did you move to Utah?,,,,0
+180,B,"You're going, oh, you are going to school? At B Y U,",Minor Topic Start,,Talking about school,1
+181,A,"Yeah,",,,,1
+182,A,"I,",,,,1
+183,B,is that where B Y U is?,,,,1
+184,A,Uh-huh.,,,,1
+185,A,Yep.,,,,1
+186,B,"Okay,",,,,1
+187,B,I know some people that went to B Y U.,,,,1
+188,B,That's great.,,,,1
+189,B,Pretty good.,,,,1
+190,A,I do like to ski.,,,,1
+191,B,"Pretty, pretty down there. Huh?",,,,1
+192,A,"Yeah,",,,,1
+193,A,"I, I said I do like to ski.",,,,1
+194,B,"So, where, have you skied?",,,,1
+195,A,"And it's, it's kind of nice being up here just because it's all like a vacation in itself when you get to go.",,,,1
+196,B,Sure.,,,,1
+197,A,If you like that kind of thing,,,,1
+198,B,"Sure,",,,,1
+199,B,so you're a sophomore. Or junior?,,,,1
+200,A,I am actually a junior. Beginning of my junior year.,,,,1
+201,B,You're a junior.,,,,1
+202,B,Good for you.,,,,1
+203,A,"So,",,,,1
+204,B,What are you studying?,,,,1
+205,A,Nursing.,,,,1
+206,B,Good for you.,,,,1
+207,B,You sound like a girl that has it together.,,,,1
+208,B,"I would just encourage you to do a little traveling, though, before you get married.",,,,1
+209,B,"Because when you get married, you won't have the money or the time.",Minor Topic End,,,1
+210,A,"You think,",,,,0
+211,A,I know.,,,,0
+212,B,"So just, you know,",,,,0
+213,B,"don't, don't be in any hurry.",,,,0
+214,A,"I'm not, I'm not.",,,,0
+215,B,You really should go to Europe.,,,,0
+216,B,I went to Europe for six weeks after I graduated from college,Minor Topic Start,,Talking about Europe Trip,1
+217,B,"and that was just,",,,,1
+218,B,"I, I mean I could have had that or a down payment on a new car",,,,1
+219,B,and I took the trip.,,,,1
+220,B,And,,,,1
+221,A,And it was great?,,,,1
+222,B,"uh, I traveled with a group of sixteen other students.",,,,1
+223,B,"Actually they, there was two other graduating seniors besides myself,",,,,1
+224,B,and we just had a ball.,,,,1
+225,B,"We stayed at,",,,,1
+226,A,How long did you get to stay there?,,,,1
+227,B,"Uh, six weeks.",,,,1
+228,A,"Oh, really?",,,,1
+229,B,Yeah.,,,,1
+230,B,"It was wonderful,",,,,1
+231,B,so you should think about doing something like that.,Minor Topic End,,,1
+232,A,"Uh-huh,",,,,0
+233,A,I just had a friend that got back from Europe,Major Topic End,,,0
+234,A,and she was there like all winter semester.,,,,0

@@ -1,0 +1,316 @@
+,Person,Conversation,Custom Tag,Custom Tag 2,Topic Description,Class
+0,A,Okay,opening,,,0
+1,B,"Okay, uh,",opening,,,0
+2,B,"the question was about, uh, physical fitness and staying in shape and exercise.",,,,0
+3,A,Uh-huh.,,,,0
+4,B,"Well, uh, I, I don't do it as much as I should.",minor topic start,major topic start,person starts talking about exercising and frequency,1
+5,B,I try to walk.,,,,1
+6,A,Uh-huh.,,,,1
+7,B,"And, uh, last year I would, I did it every day,",,,,1
+8,B,"but I've kind of, in ninety-one I've kind of gone down hill.",,,,1
+9,A,Uh-huh.,,,,1
+10,B,"And so I'm not doing it as much as I need to,",,,,1
+11,B,"but I, I can tell you when I do do it on a regular basis I feel so much better and so much healthier.",,,,1
+12,A,I agree,,,,1
+13,B,"But it's just to get motivated to do it,",,,,1
+14,B,"and once I get started, and, and, I, I, I I do it every night.",,,,1
+15,A,Uh-huh.,,,,1
+16,B,"It's just to get, uh, motivated again,",,,,1
+17,B,and what happened about couple of weeks ago I started again.,minor topic end,,,1
+18,B,"And I was walking,",off topic start,,person starts talking about a personal event ,2
+19,B,and it got kind of dark.,,,,2
+20,A,Uh-huh.,,,,2
+21,B,"And I was by myself,",,,,2
+22,B,and there was this fellow in this truck that kept circling the block.,,,,2
+23,A,Ooh.,,,,2
+24,B,"And, so I, I kind of got frightened,",,,,2
+25,B,and I kind of use that as an excuse.,,,,2
+26,B,"All I have to do, is start earlier,",,,,2
+27,B,but.,off topic end,,,2
+28,A,Right.,,,,0
+29,B,"I haven't walked since,",minor topic start,,persons views on excuses on fitness,1
+30,B,so.,,,,1
+31,A,It's always easy to find an excuse not to exercise.,,,,1
+32,A,I know what you mean.,,,,1
+33,B,"Yeah,",,,,1
+34,B,it sure is.,,,,1
+35,B,It sure is.,minor topic end,,,1
+36,B,How about you?,,,,0
+37,B,Do you exercise on a regular basis?,minor topic start,,person A's previous fitness regime,1
+38,A,"Um, well, I try to.",,,,1
+39,A,"Um, I started at the beginning of this year,",,,,1
+40,A,"I decided all right, I'm going to start exercising again,",,,,1
+41,A,"I'm going to be real good,",,,,1
+42,A,"and I went through the T I fitness center and registered for the, uh, aerobics classes there.",,,,1
+43,B,Uh-huh.,,,,1
+44,A,And they run for two months at a time.,,,,1
+45,A,"And you have to, you do have to pay to take them.",,,,1
+46,A,"And I took, I signed up for one that was three nights a week, an hour and a half,",,,,1
+47,A,so that was four and a half hours a week.,,,,1
+48,B,Oh.,,,,1
+49,A,"And it cost sixty dollars,",,,,1
+50,A,"and I thought, okay, that's not cheap,",,,,1
+51,A,that'll encourage me to always go since I spent that much money.,,,,1
+52,B,Right.,,,,1
+53,A,"And I had a friend of mine going,",,,,1
+54,A,"so I was real good,",,,,1
+55,A,I only missed it about three times.,,,,1
+56,A,"And then, oh, March came around,",,,,1
+57,A,"and I signed up again,",,,,1
+58,A,"and I got, uh, caught up with a class I was taking at T I,",,,,1
+59,A,and then I was having to work some real late hours to get caught with my work after I got out of class.,,,,1
+60,B,Uh-huh.,,,,1
+61,A,And then I went to Colorado Springs the next week to do some training at the T I up there.,,,,1
+62,A,"And so that was two weeks I had missed,",,,,1
+63,A,"and, boy, I tell you what, I've been terrible ever since then.",minor topic end,,,1
+64,B,"Yeah,",,,,0
+65,B,"it's once you get out of that habit you just don't, you don't get back into it.",,,,0
+66,A,Uh-huh.,,,,0
+67,B,"Because I teach school,",minor topic start,,person B now narrates previous personal regime for fitness,1
+68,B,and last year a bunch of teachers had an aerobics class.,,,,1
+69,B,"We went in together and hired a private instructor,",,,,1
+70,B,and she came to our school twice a week.,,,,1
+71,A,Uh-huh.,,,,1
+72,B,"And, I, I was,",,,,1
+73,B,"I would go faithfully,",,,,1
+74,B,and then I missed once.,,,,1
+75,B,"Then I went back again a couple times and missed another time, and then kept missing and never went back again.",,,,1
+76,A,Uh-huh.,,,,1
+77,B,"I think, if you,",,,,1
+78,B,you just have to stick with it.,minor topic end,,,1
+79,A,"Oh, yeah.",,,,0
+80,A,"I think I've been two maybe three times the month of April,",minor topic start,,person A's recent fitness regime,1
+81,A,and this session is about to run out.,,,,1
+82,A,Now I signed up for a different one now that's only two nights a week because I am getting kind of into a real busy schedule as far as teaching a lot of training classes,,,,1
+83,A,"and some of them require me to go out of town,",,,,1
+84,B,Uh-huh.,,,,1
+85,A,"and, and, uh, that just kind of throws my whole schedule off on doing that.",,,,1
+86,B,Yeah.,,,,1
+87,A,"lately, uh, there's been nights that I could have gone",minor topic end,,,1
+88,A,"and I've found excuses, uh things like I had the flu last week,",off topic start,,persons flu infection,2
+89,B,Yeah.,,,,2
+90,A,but I'm fine this week.,off topic end,,,2
+91,A,I could have gone Monday.,minor topic start,,again about person A's recent fitness regime,1
+92,A,"I could have gone tonight,",,,,1
+93,A,and I didn't.,,,,1
+94,B,Yeah.,,,,1
+95,A,"So, I'm kind of finding excuses,",,,,1
+96,A,"and now it's kind of like, well,",,,,1
+97,A,this is the last week.,,,,1
+98,A,I'll just start fresh next week.,,,,1
+99,A,"But, I better better do it.",minor topic end,,,1
+100,A,And I think another thing is that my friend that was taking with me the first two months wasn't the second two months.,off topic start,,persons friend not attending with them,2
+101,A,"She started taking tennis lessons,",,,,2
+102,A,"and so I haven't had that extra motivation, of, of us forcing each other, or not forcing each other but encouraging each other to go.",,,,2
+103,B,Yeah.,,,,2
+104,A,So.,,,,2
+105,B,"Sure,",,,,2
+106,B,yeah,,,,2
+107,B,that makes a difference when you have somebody to go with and to do the same the same thing.,,,,2
+108,A,Uh-huh.,off topic end,,,2
+109,B,Like it's misery loves company.,,,,0
+110,B,I don't really love exercise.,,,,0
+111,B,"I mean, some I,",off topic start,,persons neighbours fitness regime,2
+112,B,"the neighbor across the street, she goes, belongs to President's,",,,,2
+113,B,"and, uh, it's not President's any more.",,,,2
+114,B,I don't know what the name of it is anymore.,,,,2
+115,B,But she loves it.,,,,2
+116,A,Uh-huh.,,,,2
+117,B,"I mean, it's just, it's an automatic high for her.",,,,2
+118,A,Uh-huh.,,,,2
+119,B,She just enjoys it so much.,,,,2
+120,B,And I don't.,,,,2
+121,A,Yeah.,,,,2
+122,A,I'm the same way.,,,,2
+123,B,"I feel good after I do it,",,,,2
+124,B,but I hate it when I'm doing it.,,,,2
+125,A,Yeah.,,,,2
+126,B,"You know, I just,",,,,2
+127,B,"I don't enjoy it at all,",,,,2
+128,B,and she just loves it.,,,,2
+129,B,"So. Even when she doesn't go to the health club, she runs, you know.",,,,2
+130,A,Uh-huh.,,,,2
+131,B,"And, it's a daily thing for her.",,,,2
+132,B,"So, it, you know,",,,,2
+133,B,and it's so hard for me.,,,,2
+134,B,"I envy her,",,,,2
+135,B,"I wish I could be that way,",off topic end,,,2
+136,B,"but I don't. I don't,",,,,0
+137,A,I do too.,minor topic start,,person B's opinions on running/walking,1
+138,B,"and I have an older sister that loves running, too,",,,,1
+139,B,"and she runs all the time,",,,,1
+140,B,"but at, to me, it's every minute's agony,",,,,1
+141,B,"and I,",,,,1
+142,B,"in fact, I don't run.",,,,1
+143,B,I hate to run.,,,,1
+144,A,Uh-huh.,,,,1
+145,B,Like when I walk I'll take along a radio or something,,,,1
+146,B,"and that helps, you know, pass the time.",,,,1
+147,A,Right.,,,,1
+148,A,"Yeah,",,,,1
+149,A,walking is kind of boring.,minor topic end,,,1
+150,A,"I do have a few friends that live in my apartment complex in this neighborhood,",off topic start,,person A's neighbours giving company,2
+151,A,"and we try to, we used to try to get together,",,,,2
+152,A,and I think now that the weather's getting nicer we're going to start doing it again and occasionally go walking.,,,,2
+153,A,There's a real nice residential area right behind our apartment complex.,,,,2
+154,B,"Uh-huh,",,,,2
+155,B,uh-huh.,,,,2
+156,A,And it's not as boring if you get several people,,,,2
+157,B,That's right.,,,,2
+158,A,"and you can kind of talk,",off topic end,,,2
+159,A,"and, and it, it makes it pass pretty quickly,",,,,0
+160,A,and the aerobics isn't too boring.,minor topic start,,conversation on aerobics starts,1
+161,A,"I kind of enjoy it when I'm doing it. Um,",,,,1
+162,A,"it's a lot more fun than some other things I could do, I guess.",,,,1
+163,B,"Yeah,",,,,1
+164,B,yeah.,,,,1
+165,A,"But, uh, I do, I do have to make myself go,",,,,1
+166,A,"and of course while I'm doing it I feel pretty good,",,,,1
+167,A,and after I get finished I feel great.,,,,1
+168,B,"Oh, it's great afterwards,",minor topic end,,,1
+169,B,yeah.,,,,0
+170,A,"I mean, I can go in there,",off topic start,,person A's personal experiences,2
+171,A,"I can be,",,,,2
+172,A,"like a Friday afternoon when I'm tired, it's the end of the week and I just want to go home. And I'll make myself go,",,,,2
+173,A,"and I'll have headache and everything,",,,,2
+174,A,"and I get out,",,,,2
+175,A,I don't have a headache any more.,,,,2
+176,A,"I feel great,",,,,2
+177,A,"and I'm just,",,,,2
+178,A,it's amazing how much better I feel.,,,,2
+179,B,Yeah.,,,,2
+180,A,"And then just in general, I sleep a lot better",,,,2
+181,B,"Yeah,",,,,2
+182,B,that's right.,,,,2
+183,A,and I just feel much better.,off topic end,,,2
+184,A,"I mean, I've been kind of dragging the last few weeks,",off topic start,,reasons and excuses for person not working out,2
+185,A,and I know if I would just get around to exercising I'd feel better.,,,,2
+186,B,Exactly,,,,2
+187,B,"it does,",,,,2
+188,B,it gives you energy.,,,,2
+189,A,But my dragginess is my excuse for not exercising.,,,,2
+190,B,Yeah.,,,,2
+191,A,"Well, I'm too tired,",,,,2
+192,A,or I have a headache,,,,2
+193,A,"or,",,,,2
+194,A,"well, I just got over the flu,",,,,2
+195,A,and I'm still kind of draggy,,,,2
+196,A,so I better not go,,,,2
+197,B,It's kind of a vicious circle isn't it?,,,,2
+198,A,"Yeah,",,,,2
+199,A,it really is.,,,,2
+200,B,"Yeah,",,,,2
+201,B,"I find, too, that I have more energy when I exercise,",,,,2
+202,B,"and, you know, it's silly not to,",,,,2
+203,B,"but, I don't know,",,,,2
+204,B,it's just a put off.,,,,2
+205,B,"I don't know why I don't do more,",off topic end,,,2
+206,B,"and I, and I know that it's good for my health.",minor topic start,,views on benefits of fitness,1
+207,B,"I know, you know, from everything that you read and you see on television now, exercise is so important to good health.",,,,1
+208,A,Right.,,,,1
+209,B,"So, you know, you, not only, you know, you're not only doing something to keep yourself fit, but you're probably prolonging your life.",,,,1
+210,B,So.,,,,1
+211,A,Right.,,,,1
+212,B,"There's no reason that we shouldn't do it,",,,,1
+213,B,but I don't know.,minor topic end,,,1
+214,A,It's just hard to make yourself go.,,,,0
+215,A,"And I, I think one thing I don't like about aerobics is that after I'm finished it's kind of late at night,",off topic start,,persons qualms with aerobics,2
+216,A,"and I've been sweaty,",,,,2
+217,A,"and, and it, you know,",,,,2
+218,A,I don't really feel like going in the grocery store all sweaty or running errands.,,,,2
+219,B,Yeah.,,,,2
+220,A,So it kind of kills the evening for doing errands.,,,,2
+221,A,So I think a Tuesday Thursday might be a little bit better.,,,,2
+222,B,Yeah.,,,,2
+223,A,"Of course, I feel like once I've done it, if I'm sweaty I might as well do an extra thirty minutes because you've already kind of shot your night.",,,,2
+224,B,Right.,,,,2
+225,A,"But, um, so I'm kind of glad they have a longer class on Tuesday, Thursday now that I can just kill two nights, and and, uh, get a reasonable amount of workout in.",off topic end,,,2
+226,B,Yeah.,,,,0
+227,B,"Does it cost the same for just two nights or,",off topic start,,cost of aerobics class and its facilities,2
+228,A,"No,",,,,2
+229,A,it's less expensive.,,,,2
+230,B,"Well, that's good, too.",,,,2
+231,A,This one was only forty-five dollars.,,,,2
+232,A,"But I'm glad it's not too totally cheap, because if it was too cheap I would talk myself out of going more, probably.",,,,2
+233,B,"Yeah,",,,,2
+234,B,yeah.,,,,2
+235,A,"Since it's more expensive, I think, Okay, you spent that much money, you'd better go",,,,2
+236,B,"That's right,",,,,2
+237,B,that's right.,,,,2
+238,A,So hopefully.,,,,2
+239,A,"Yeah,",,,,2
+240,A,"yeah,",,,,2
+241,A,"it's right there,",,,,2
+242,A,"and it's, they have a really nice facility at the T I.",,,,2
+243,A,"They've got two different aerobics rooms,",,,,2
+244,A,they have the mirrors.,,,,2
+245,A,"Of course, sometimes you don't like to see the mirrors on the wall",,,,2
+246,A,you don't like to see how you work.,,,,2
+247,A,"But, I guess, sometimes it kind of motivates you to really get going.",,,,2
+248,A,"But,",,,,2
+249,B,"Yeah,",,,,2
+250,B,and then they hire private instructors?,,,,2
+251,A,Uh-huh.,,,,2
+252,B,"Oh, that's great.",,,,2
+253,A,"And they have ceiling fans in the rooms,",,,,2
+254,A,"and it's, it's a pretty nice setup. Um,",,,,2
+255,A,"and of course it's real convenient, because it is right there at work.",,,,2
+256,A,"I think if I had to come home and then go somewhere, I'd never make it.",,,,2
+257,B,Yeah.,,,,2
+258,A,"And just the fact that I can go straight from my desk over to the, the recreation center and do it helps a lot.",,,,2
+259,B,Uh-huh.,,,,2
+260,B,"Yeah,",,,,2
+261,B,"I can see that would be, uh, easy.",,,,2
+262,B,They make it as easy as they possibly can for you.,,,,2
+263,A,"Oh, yeah",off topic end,,,2
+264,B,"Well, um, do a lot of people take advantage of it?",off topic start,,peoples participation in aerobics,2
+265,A,Quite a few do.,,,,2
+266,A,"They have probably, ooh, I'd say fifteen different, fifteen to twenty different aerobics classes each session that are running,",,,,2
+267,A,"and they have them anywhere from six in the morning. Uh,",,,,2
+268,A,"they have some during, during lunch hour that are shorter,",,,,2
+269,A,and I guess guys can take advantage of that.,,,,2
+270,A,"For me, I wouldn't have time to do an hour, hour of aerobics and then take a shower and get, get dressed again.",,,,2
+271,B,"Oh, yeah.",,,,2
+272,A,But there's a lot more guys that do that one.,,,,2
+273,B,Uh-huh.,,,,2
+274,A,"And, um, they have them, you know, in the evenings,",,,,2
+275,A,they even have some late night ones for people that work second shift and things like that.,,,,2
+276,A,So they have big variety.,,,,2
+277,A,"They even have some, uh, aerobic, uh, water aerobics when the weather gets nice out in the pool.",off topic end,,,2
+278,A,I've never done that one before.,,,,0
+279,A,But.,off topic start,,person talks about the facilities again,2
+280,B,"Oh, you have a pool there, too?",,,,2
+281,A,Uh-huh.,,,,2
+282,B,"Oh, how nice.",,,,2
+283,A,"They've got an olympic pool, and, and basketball courts and sand volleyball.",,,,2
+284,A,"They've got the full weight room and, uh, the locker rooms with, uh, a jacuzzi and sauna and the shower facilities, and hair dryers, and all the, you know, everything you'd need just about.",,,,2
+285,B,Wow.,,,,2
+286,A,"It's a real, it is a real nice facility.",,,,2
+287,A,"It's also got a full inside basketball court,",,,,2
+288,A,and I think they're working on building a jogging track and some other things.,,,,2
+289,A,"But it's, it is very nice.",,,,2
+290,B,That's great.,,,,2
+291,A,I just don't take as much advantage of it as I should.,,,,2
+292,B,"Now to use,",,,,2
+293,A,"I mean, I'm just now finally starting to do the aerobics thing.",,,,2
+294,A,But.,,,,2
+295,B,"Well, does it cost money like to use the, to exercise in the weight room or to, uh, to to go swimming.",off topic end,,,2
+296,B,"Do you have to pay for that, too.",off topic start,,person starts talking about costs again,2
+297,A,Yeah.,,,,2
+298,A,"You can get a fitness membership that allows you to use the facilities,",,,,2
+299,A,and it's about eight dollars a month.,,,,2
+300,B,"Oh, that's not bad.",,,,2
+301,A,"No,",,,,2
+302,A,not at all,,,,2
+303,B,Huh-uh.,,,,2
+304,A,Pretty cheap.,,,,2
+305,B,Um.,,,,2
+306,A,"And then the aerobics cost extra even if you have the fitness membership,",,,,2
+307,A,"but, I think the aerobics classes are even pretty reasonably priced, from what I've heard.",,,,2
+308,B,"I think so too,",,,,2
+309,B,yeah.,off topic end,,,2
+310,B,"Well, and people of all ages take advantage of the aerobics?",,,,0
+311,A,Hm?,,,,0
+312,B,People of all ages take advantage of the aerobics?,,,,0
+313,A,"Oh, yeah,",,major topic end,,0
+314,A,"in fact, uh, the T I-er's families can come in on these things,",,,,0

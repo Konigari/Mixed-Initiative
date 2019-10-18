@@ -1,0 +1,127 @@
+,Person,Conversation,Custom Tag,Custom Tag 2,Topic Description,Class
+0,A,"Okay,",opening,,,0
+1,A,"should begin. *listen; could probably code if we could tell if it said ""we"" or ""you""",,,,0
+2,B,Okay.,,,,0
+3,B,All right.,,,,0
+4,A,"Uh, I can begin this, um,",opening,,,0
+5,A,basically I work for Honeywell in Minneapolis,major topic start,,benefits package,0
+6,B,Uh-huh.,,,,0
+7,A,"and the, the benefit program we have here is really quite good.",,,,0
+8,A,"I'm, I'm pretty pleased with it.",,,,0
+9,A,"They cover, uh, just about everything, vision, dental, medical",,,,0
+10,B,Uh-huh.,,,,0
+11,A,"uh, you name it,",,,,0
+12,A,"and for me this is the first job I've had where they've covered that much,",,,,0
+13,A,so I'm pretty satisfied myself.,,,,0
+14,B,Uh-huh.,,,,0
+15,A,"Um, what's your situation?",,,,0
+16,B,"I work for the University of New Hampshire,",,,,0
+17,B,"and uh, our benefits package isn't, uh, isn't quite as good in some ways. Uh, you know,",,,,0
+18,A,Oh.,,,,0
+19,B,overall I'm satisfied with it.,,,,0
+20,B,"We don't have the vision care,",,,,0
+21,B,"we do have the health care and the, uh, and the or the dental.",,,,0
+22,A,Uh-huh.,,,,0
+23,B,Uh.,,,,0
+24,A,Are you a professor there?,off topic start,,talks about the ocupation,2
+25,B,"No,",,,,2
+26,B,"I work in, I'm a, on the professional administrative and technical staff,",,,,2
+27,B,"and I, effectively I run the telephone switch at, uh, at the University of New Hampshire.",off topic end,,,2
+28,A,"Oh, I see,",,,,0
+29,A,okay.,,,,0
+30,B,"Uh, so the, uh, the benefits,",,,,0
+31,B,"uh, probably the main thing I like about the benefits is the, uh, the, uh, very generous vacation time and sick time.",,,,0
+32,A,"Oh, no doubt",,,,0
+33,B,"We get fifteen days a year sick time,",,,,0
+34,B,"and, uh, we get twenty-four days a year, right from the day one when you start work, you get twenty-four days a year, uh, time off.",,,,0
+35,A,Right.,,,,0
+36,A,"Well, that's good.",,,,0
+37,B,Yeah.,,,,0
+38,A,"Yeah,",,,,0
+39,A,"that's one of the things I guess I would change about Honeywell, is, uh,",minor topic start,,talks about the lack of holidays in benefits package,1
+40,A,"I used to work with the Army Research Institute,",,,,1
+41,A,"and being a, uh, a government organization you got quite a few holidays off.",,,,1
+42,B,Right.,,,,1
+43,A,But here you don't get that.,,,,1
+44,A,You maybe get two or three a year.,,,,1
+45,B,Uh-huh.,,,,1
+46,A,"So it's really,",,,,1
+47,A,"unless you, unless you have some vacation time or some, some sick leave or whatever, um, you kind of have to finagle your way around to get that time.",,,,1
+48,B,Uh-huh.,,,,1
+49,A,"So, that's, that's kind of a drawback I think.",minor topic end,,,1
+50,A,"But, uh. I don't know.",,,,0
+51,A,"What do you consider most important, you think, in terms of, of the different benefits?",,,,0
+52,B,"Well, I think, uh, the, the health care, of course, is an important, and has to be the single most important benefit",,,,0
+53,A,Uh-huh.,,,,0
+54,B,"and, uh, the rates that we keep paying seem to keep increasing, uh you know,",off topic start,,about increasing healthcare rates,2
+55,A,Yeah.,,,,2
+56,B,"I'm, I'm a little disturbed about that,",,,,2
+57,B,"but I think that's a national trend,",,,,2
+58,B,"and I don't know that, uh, I don't know what the solution is to it.",,,,2
+59,B,It's bigger than just the benefits part.,,,,2
+60,A,"Yeah,",,,,2
+61,A,"I don't know if you saw on TWENTY TWENTY the other night,",,,,2
+62,A,"they, uh, they basically reviewed Oregon's plan or The Oregon Plan toward, uh, nationalizing health care and that kind of thing.",,,,2
+63,B,Uh-huh.,,,,2
+64,B,Right.,,,,2
+65,A,It's kind of an interesting plan.,,,,2
+66,A,It's kind of cold though.,,,,2
+67,A,"They've essentially made up a list of, uh, oh, all the different, uh, medical maladies that you can have and then basically made a cutoff,",,,,2
+68,B,"Oh, yeah.",,,,2
+69,A,"about six hundred and eighty-seven and below will not be covered by, by, uh, subsidized health care,",,,,2
+70,A,and the ones above would.,,,,2
+71,B,Um.,,,,2
+72,A,So it's kind of like drawing this line,,,,2
+73,A,"and, and if you have it great,",,,,2
+74,A,"if you don't, you're kind of out of luck",,,,2
+75,B,Uh-huh.,,,,2
+76,A,"but, um, it was kind of an interesting show.",off topic end,,,2
+77,B,Um.,,,,0
+78,A,"I think you're right,",,,,0
+79,A,"I think health care is probably the, the most pressing uh, the pressing one,",,,,0
+80,B,Right.,,,,0
+81,A,"but I'll tell you, I, I don't mind having dental, you know,",,,,0
+82,A,"sometimes dental costs can be, um, just about as expensive, if not more,",,,,0
+83,A,and I know historically a lot of companies I think carried dental as a rider along with the medical,,,,0
+84,B,Uh-huh.,,,,0
+85,A,"but I'm not sure that's, that's widely followed any more.",,,,0
+86,A,"I'm not sure,",,,,0
+87,A,"how, how does, uh, University of New Hampshire handle it?",,,,0
+88,B,"Well, we have two different plans that we can subscribe to under dental, uh, depending,",,,,0
+89,B,"and, and the cost between them is very, is very little.",,,,0
+90,B,"I think it costs me something like five dollars a, a month for the dental plan.",,,,0
+91,A,Um.,,,,0
+92,B,"But it pays, uh, a substantial amount.",,,,0
+93,B,"I mean, the examinations and, and, uh, checkups every year, or every six months are free",,,,0
+94,A,Great.,,,,0
+95,B,"and, uh, it, it covers the bulk of the dental expenses.",,,,0
+96,A,"Is that, uh, let me interrupt, is that the same for both, uh, professors and, and also staff and administration,",minor topic start,,whether benefits differ among different catgory of employees,1
+97,A,"is that generally across the board, do you think",,,,1
+98,A,"or,",,,,1
+99,B,"Uh, yes,",,,,1
+100,B,it is.,,,,1
+101,B,"The benefits plan is different for operating, for what we call operating staff, which are considered to be, uh, clerical personnel, accountants, things like that as opposed to what they call the P A T staff, which I belong to",,,,1
+102,A,Right.,,,,1
+103,A,Uh-huh.,,,,1
+104,B,"but the main,",,,,1
+105,B,"I think the, the health and all that and the dental is the same for everybody, and the retirement plan.",,,,1
+106,B,"But the main difference is in the, uh, the way sick time is accrued and vacation time is accrued.",,,,1
+107,A,Uh-huh.,,,,1
+108,A,"Oh, okay.",,,,1
+109,B,"Uh, for the operating staff it's on a seniority, it's, you know, based on how long they've worked there.",,,,1
+110,A,Right.,,,,1
+111,B,"That determines how much, uh, vacation time they get.",minor topic end,,,1
+112,A,"Yeah,",,,,0
+113,A,"I'm kind of interested because I'm actually, that's the route I'd like to take when I finally get my degree is to, uh, is to teach in a university.",off topic start,,personal information which didn't needed to be provided,2
+114,B,Uh-huh.,,,,2
+115,B,Uh-huh.,,,,2
+116,A,I'm a doctoral student in Florida right now,,,,2
+117,B,Oh.,,,,2
+118,A,"but, uh,",,,,2
+119,A,"yeah,",,,,2
+120,A,"that's, that's interesting.",off topic end,,,2
+121,A,"That's one of the things I'd like to think about is in what kind of benefits they would, uh, they would cover and things like that.",,,,0
+122,B,"College programs belong to this T I A A, uh, C R E F retirement fund.",,,,0
+123,A,"Oh, is that right?",,,,0
+124,B,"Right,",,,,0
+125,B,"and in the case of the University of New Hampshire, uh,",major topic end,,,0

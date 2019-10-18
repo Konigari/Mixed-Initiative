@@ -1,0 +1,125 @@
+,Person,Conversation,Custom Tag,Custom Tag 2,Topic Description,Class
+0,A,"Hi, Cynthia.",opening,,,0
+1,A,What did you wear to work today?,,,,0
+2,B,"Um, let's see.",,,,0
+3,B,What did I wear to work today?,,,,0
+4,B,"Um, actually I wore corduroy shorts with a white blouse, um, and flat shoes.",,,,0
+5,A,"So, can you dress pretty casually?",major topic start,,"talking about the dress codes at work and what outfits they prefer based on weather, and the workplace",0
+6,B,"Um, on occasion. On occasion.",,,,0
+7,A,Yeah.,,,,0
+8,B,"Um, I do vary.",,,,0
+9,B,"Um, you know, I wear suits,",,,,0
+10,B,I wear skirts and sweaters.,,,,0
+11,B,On occasion I can wear jeans.,,,,0
+12,B,"Um, how about you?",,,,0
+13,A,"Well, I, um, run a business out of my home.",,,,0
+14,B,Uh-huh.,,,,0
+15,A,"So I tend to get up in the morning, put on, sweats, um, do whatever I want to do with the kids, then whenever I have a meeting with a client, I'll put a suit on. And then come home and get back into regular clothes again",,,,0
+16,B,Yes.,,,,0
+17,B,Uh-huh.,,,,0
+18,B,Uh-huh.,,,,0
+19,B,Uh-huh.,,,,0
+20,B,"Um, you know, there's real no, no real dress code where I work.",,,,0
+21,B,"Um, you see people wearing, you know, all different attire.",,,,0
+22,B,"I, um, don't like to wear heels, that really tires me out.",,,,0
+23,B,I work in a big building.,,,,0
+24,A,Yeah.,,,,0
+25,B,"So, I predominantly wear flat shoes.",,,,0
+26,B,"Um, you know, in the winter I wear sweaters,",,,,0
+27,B,"in summer I, you know, I like one piece dresses, short sleeves, things like that.",,,,0
+28,A,"I've recently, um, tried to update my wardrobe, trying to put suits together that I can interchange, the, jackets and the blouses and all that a lot.",,,,0
+29,B,Right.,,,,0
+30,B,Right.,,,,0
+31,A,"That's helped me a lot with having,",,,,0
+32,A,"I can only have a, a limited wardrobe, since I'm only, working part-time right now.",,,,0
+33,B,Uh-huh.,,,,0
+34,B,Uh-huh.,,,,0
+35,A,"Um, but still, it gives it some variety. Add different blouses and scarves and belts and things like that.",,,,0
+36,B,Uh-huh.,,,,0
+37,B,"Right,",,,,0
+38,B,"right,",,,,0
+39,B,"accessories,",,,,0
+40,B,uh-huh.,,,,0
+41,A,What about your casual wear?,minor topic start,,talking about casual work wear,1
+42,A,Do you like to wear jeans most of the time?,,,,1
+43,B,"Um, yeah",,,,1
+44,B,mostly.,,,,1
+45,B,"I mean, at home I predominantly wear laughs while saying remainder of sweatpants and things like that, also.",,,,1
+46,A,Yeah.,,,,1
+47,A,"It's nice you can wear shorts, especially on a day like today when it's so hot.",,,,1
+48,B,"Yeah,",,,,1
+49,B,"well, they're, um, you know, they're like",,,,1
+50,A,Dress shorts.,,,,1
+51,B,"yeah,",,,,1
+52,B,they're like black corduroy Bermuda shorts.,,,,1
+53,A,Yeah.,,,,1
+54,B,"And sometimes I wear a blazer with them,",,,,1
+55,B,and I get really a lot of compliments on them.,,,,1
+56,B,"Um, where I work is predominantly male.",,,,1
+57,A,Yeah.,,,,1
+58,B,"So, you know, they,",,,,1
+59,B,"their attire is always the same, you know. Suits or slacks, you know, jeans, whatever.",,,,1
+60,A,"Yeah,",,,,1
+61,A,"but ,",,,,1
+62,B,"And, um, but I'm really the only woman, I guess, at work that does that,",,,,1
+63,B,but seems to work for me,,,,1
+64,A,"Yeah,",,,,1
+65,A,but .,,,,1
+66,B,"In fact, I just bought, I, I just got a new outfit as a gift that, um,",,,,1
+67,B,"it's one of those skorts,",,,,1
+68,B,"you know,",,,,1
+69,B,it's shorts but it looks like a skirt.,,,,1
+70,A,Uh-huh.,,,,1
+71,B,"So, I think that'll be good for work, too.",,,,1
+72,A,"Oh, yeah.",,,,1
+73,A,It'll be comfortable.,minor topic end,,,1
+74,B,Yeah.,,,,0
+75,B,Yeah.,,,,0
+76,B,"So,",,,,0
+77,A,"I guess down here, uh,",,,,0
+78,A,"we just recently moved to Texas,",minor topic start,,talking about seasonal work wear,1
+79,A,so my wardrobe has changed quite a bit.,,,,1
+80,B,Uh-huh.,,,,1
+81,A,"Um, we moved from Colorado where,",,,,1
+82,A,and I have a closet full of sweaters.,,,,1
+83,B,Uh-huh.,,,,1
+84,A,"That,",,,,1
+85,B,"Well, see, I live in Virginia.",,,,1
+86,A,"You live in Virginia, now?",,,,1
+87,B,Uh-huh.,,,,1
+88,A,"Oh, that's interesting.",,,,1
+89,B,Yeah.,,,,1
+90,B,Yeah.,,,,1
+91,B,"So, I'm,",,,,1
+92,B,"you know, like right now, today was in about, you know, the fifties.",,,,1
+93,A,Uh-huh.,,,,1
+94,B,"But, um, you know, I, I do wear a lot of sweaters and things like sweater dresses.",,,,1
+95,A,Yeah.,,,,1
+96,A,I'd like to be able to wear those here.,,,,1
+97,A,Today it's eighty-eight degrees.,,,,1
+98,B,"Oh, my",,,,1
+99,A,So,,,,1
+100,B,Uh-huh.,,,,1
+101,A,"Needless to say, my sweaters have been hung in the closet for quite a while now",,,,1
+102,B,Uh-huh.,,,,1
+103,A,"Today was, uh, definitely a shorts day around here.",major topic end,minor topic end,,1
+104,B,Uh-huh.,,,,0
+105,B,"Yeah,",,,,0
+106,B,"we're still pretty much, you know, in winter, as far as that goes here.",,,,0
+107,A,"This is pretty unseasonal,",,,,0
+108,A,"but, uh, at least, we,",,,,0
+109,A,"you know, it, it, it feels good,",,,,0
+110,A,"it gets, uh,",,,,0
+111,A,everybody doesn't have cabin fever today.,,,,0
+112,A,"It's nice to get, out and about.",,,,0
+113,B,Uh-huh.,,,,0
+114,B,Uh-huh.,,,,0
+115,B,I guess we've discussed everything there is about clothing,,,,0
+116,A,Okay.,,,,0
+117,A,Sounds good.,,,,0
+118,B,Okay?,,,,0
+119,A,It was nice talking to you.,,,,0
+120,B,"Okay,",,,,0
+121,B,"it was nice talking to you, also.",,,,0
+122,A,Bye-bye.,,,,0
+123,B,Bye-bye.,closing,,,0

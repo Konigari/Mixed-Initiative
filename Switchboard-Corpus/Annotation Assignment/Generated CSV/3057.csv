@@ -1,0 +1,260 @@
+,Person,Conversation,Custom Tag,Custom Tag 2,Topic Description,Class
+0,A,Hi,opening,,,0
+1,A,you want to start first,,,,0
+2,B,Of course.,major topic start,,Whether or not nursing homes are a good option,0
+3,B,"We are talking about the elderly and, uh, whether or not we we like nursing homes",,,,0
+4,A,Right.,,,,0
+5,B,"and, as a matter of fact, I can tell you something about that.",,,,0
+6,A,Uh-huh.,,,,0
+7,A,"You apparently have somebody there, in one.",,,,0
+8,B,"No,",off topic start,,B Talking about his/her grandmother and mother running a nursing home,2
+9,B,"actually, my grandmother owned and operated a nursing home for years",,,,2
+10,B,"and her mother,",,,,2
+11,A,"Oh, you are kidding?",,,,2
+12,B,"No,",,,,2
+13,B,she did.,,,,2
+14,A,Oh.,,,,2
+15,B,"And then my mother also owned and operated a nursing home, for years. And then, uh, went on back to school and became the director of nurses at a nursing home",,,,2
+16,A,Uh-huh.,,,,2
+17,A,I will be darned.,,,,2
+18,A,Uh-huh.,,,,2
+19,B,"And, uh, my mother and my older sister both are geriatric nurses.",,,,2
+20,A,"Oh, for heaven's sake.",,,,2
+21,B,"So, I do know something about that.",,,,2
+22,A,"You are very, very much aware of what goes on.",,,,2
+23,B,Absolutely.,,,,2
+24,A,That is great.,,,,2
+25,B,"Actually, the motivation for Grandmother entering the business, was that her mother was very old, and couldn't seem to find companions.",,,,2
+26,A,Uh-huh.,,,,2
+27,A,Uh-huh.,,,,2
+28,A,"Uh-huh,",,,,2
+29,A,uh-huh.,,,,2
+30,B,She was lonely.,,,,2
+31,A,Right.,,,,2
+32,B,"And she needed company, for her mother",,,,2
+33,A,Right.,,,,2
+34,B,and so she opened a nursing home and initially started with eight ladies.,,,,2
+35,A,I will be darned.,,,,2
+36,B,"And then, uh, it, it grew into a, very prosperous business from that point.",off topic end,,,2
+37,A,"Uh-huh,",minor topic start,,When should one shift to a nursing home,1
+38,A,"uh-huh,",,,,1
+39,A,uh-huh.,,,,1
+40,B,"Uh, then they,",,,,1
+41,A,"Now, see that is a nice attitude to go into.",,,,1
+42,B,Uh-huh.,,,,1
+43,A,"Uh, it seems like they must be waiting until it is a necessity",,,,1
+44,B,Uh-huh.,,,,1
+45,A,"and there is no chance of, uh, good companionship or doing anything.",,,,1
+46,B,"Well, that is not really true, either, uh,",,,,1
+47,B,"I think that is a stigma and an I, and an impression that has come from some few bad experiences.",,,,1
+48,A,Uh-huh.,,,,1
+49,B,"You see, those who had bad experiences talk about them.",,,,1
+50,A,"Uh, right,",,,,1
+51,A,right.,,,,1
+52,B,"And those who do not may write, a letter to the nursing home and say you did good,",,,,1
+53,A,Uh-huh.,,,,1
+54,A,Uh-huh.,,,,1
+55,B,but they do not talk a whole lot about that.,,,,1
+56,A,That is true.,,,,1
+57,A,"But what I mean is instead of maybe entering a nursing home, when you are still able to have good, relationships with, maybe other friends they wait until they are, you know, unable.",,,,1
+58,B,Uh-huh.,,,,1
+59,B,Uh-huh.,,,,1
+60,B,Uh-huh.,,,,1
+61,B,Sure.,,,,1
+62,B,"Well now, That is right.",,,,1
+63,B,"Well, that is because they wait until the children make those choices, they choose to not make those, choices themselves.",minor topic end,,,1
+64,A,Right.,,,,0
+65,A,"Right,",,,,0
+66,A,right.,,,,0
+67,B,"However, my daughter-in-law also is a nurse in a nursing home.",minor topic start,,B talking in favour of all the amenities of nursing homes over their short comings,1
+68,A,Uh-huh.,,,,1
+69,B,"And, uh, she works for one here in Dallas, which is more a retirement village than it is a nursing home.",,,,1
+70,B,"And these, these,",,,,1
+71,A,"Uh, uh-huh.",,,,1
+72,B,"I love watching these elderly people come, they will come and tell her. ""Well I am going for my, tennis lessons.",,,,1
+73,A,Uh-huh.,,,,1
+74,B,"And, uh, would would you, you know, call down and have the van come around and take, us for our tennis lessons.""",,,,1
+75,A,"Uh-huh,",,,,1
+76,A,uh-huh.,,,,1
+77,B,And they are very active and very enthusiastic,,,,1
+78,B,"and they have, some excellent programs right there on site.",,,,1
+79,A,Uh-huh.,,,,1
+80,A,Yeah.,,,,1
+81,B,"Their dining room looks like, you know, Luby's Cafeteria.",,,,1
+82,A,Yeah.,,,,1
+83,A,That is great.,,,,1
+84,B,"Or, or one of the lovely cafeterias.",,,,1
+85,B,"And they have, you know, pink linen napkins for their dinners. And, a well equipped library.",,,,1
+86,A,"Uh-huh,",,,,1
+87,A,uh-huh.,,,,1
+88,A,"Yeah,",,,,1
+89,A,that sounds great.,,,,1
+90,B,"Oh, I am certainly very much for a nursing home",,,,1
+91,B,"and I think when the, the parent gets old enough, to the extent where they just do not want to be bothered with keeping house, and with taking care of themselves, anymore. That is a wonderful alternative.",,,,1
+92,A,Yeah.,,,,1
+93,A,Uh-huh.,,,,1
+94,A,Uh-huh.,,,,1
+95,A,Uh-huh.,,,,1
+96,B,It is expensive.,,,,1
+97,B,It is costly.,,,,1
+98,A,"See if they could, could get this idea across though, better than what it is, you, know.",,,,1
+99,B,Uh-huh.,,,,1
+100,B,"Well, now my daddy's mother, uh, lived in a, a retirement village",,,,1
+101,B,"and she and her sister had side by side duplexes, one bedroom duplex.",,,,1
+102,A,Uh-huh.,,,,1
+103,B,"She still had her individuality,",,,,1
+104,A,Uh-huh.,,,,1
+105,B,but they were there close,,,,1
+106,B,"and they did have, uh, you know, the button that you could push the central office if you got into problems",,,,1
+107,B,"and, there were lights that you could flip on and so forth.",,,,1
+108,A,Uh-huh.,,,,1
+109,B,And they have security.,,,,1
+110,A,Uh-huh.,,,,1
+111,B,"No,",,,,1
+112,B,"I am very much in favor,",,,,1
+113,B,"I have heard horror stories,",,,,1
+114,A,"Oh, well you have that with anything.",,,,1
+115,B,"I know that the elderly can easily be abused,",,,,1
+116,A,Oh yeah .,,,,1
+117,B,"but I would be willing to bet they are far less abused in a nursing home than are, they are in, homes of their own children.",minor topic end,,,1
+118,A,"In the homes, yeah.",off topic start,,A talking about her sister's case,2
+119,A,"Well, we used our nursing home as, uh,",,,,2
+120,B,Uh-huh.,,,,2
+121,A,"like when my sister was real bad before she died uh, we took her the last month and a half, into a nursing home.",,,,2
+122,B,Uh-huh.,,,,2
+123,B,Uh-huh.,,,,2
+124,B,Uh-huh.,,,,2
+125,A,And they were super with her.,,,,2
+126,B,Absolutely.,,,,2
+127,A,"They were, uh,",off topic end,,,2
+128,B,"Well now, my grandmother,",minor topic start,,B talking about how her grandmother benefitted from her nursing home,1
+129,B,of course all of my folks lived to be very old,,,,1
+130,A,Uh-huh.,,,,1
+131,B,"and my grandmother developed Hodgkin's Disease, when she was in her late eighties, uh, late seventies, I mean.",,,,1
+132,A,Uh-huh.,,,,1
+133,A,Uh-huh.,,,,1
+134,A,Uh-huh.,,,,1
+135,B,"She went to the doctor,",,,,1
+136,B,"she had surgery,",,,,1
+137,B,she got the treatments,,,,1
+138,B,"and during, the period of time that she was undergoing those treatments she was in a nursing home.",,,,1
+139,A,"Uh-huh,",,,,1
+140,A,uh-huh.,,,,1
+141,A,Uh-huh.,,,,1
+142,B,"She got better,",,,,1
+143,B,"she got well,",,,,1
+144,B,she got out and went dancing again.,,,,1
+145,A,"Well, a lot of people do that.",,,,1
+146,A,"They , left them temporally maybe they had a, broken hip or something or,",,,,1
+147,B,Uh-huh.,,,,1
+148,B,That is right.,,,,1
+149,B,"Uh-huh,",,,,1
+150,B,uh-huh.,,,,1
+151,B,"I think it is a wonderful interim place,",,,,1
+152,A,Uh-huh.,,,,1
+153,B,"it is a place that you do not have to struggle with hospital, problems",,,,1
+154,A,"Uh-huh,",,,,1
+155,A,uh-huh.,,,,1
+156,B,"and yet it is not, you know,",,,,1
+157,B,"you have,",,,,1
+158,A,And it can become home to them.,,,,1
+159,B,"Uh-huh,",,,,1
+160,B,uh-huh.,,,,1
+161,A,"It, It depends upon the individual.",,,,1
+162,B,It certainly is.,,,,1
+163,B,"It certainly does,",,,,1
+164,B,"but, you see, we have had excellent experience with that.",minor topic end,,,1
+165,B,"And, uh, I, I did not put my husband in a nursing home when he became ill,",minor topic start,,How B would want to make the call of going to the nursing home herself,1
+166,B,"but, I would not object to going to one.",,,,1
+167,A,"Uh-huh,",,,,1
+168,A,uh-huh.,,,,1
+169,B,"I might, I might like to be, uh, coherent enough to make my own choice.",,,,1
+170,A,Uh-huh.,,,,1
+171,A,"Uh-huh,",,,,1
+172,A,uh-huh.,,,,1
+173,B,"Uh, I would not particularly think I would want my kids to say, ""well, I think this is what I need for Mom"", and, then dump me there.",minor topic end,,,1
+174,A,This is,,,,0
+175,A,"and,",,,,0
+176,B,"But, I would  like,",,,,0
+177,A,There has to be  consideration taken on everything.,,,,0
+178,B,That is right.,,,,0
+179,B,"Uh-huh,",,,,0
+180,B,uh-huh.,,,,0
+181,B,"And I think you would shop for a nursing home, just like you would shop for a church, or a doctor or anything else.",minor topic start,,The apt time and method of choosing a nursing home,1
+182,A,Yeah.,,,,1
+183,A,"That is right,",,,,1
+184,A,"you would look into it thoroughly and, do, do the best job you could in choosing one.",,,,1
+185,B,"Uh-huh,",,,,1
+186,B,sure.,,,,1
+187,B,Uh-huh.,,,,1
+188,B,"When you get to the point where you are in trouble, and you have got to have that help, you are in no position to make those choices.",,,,1
+189,A,Uh-huh.,,,,1
+190,A,No,,,,1
+191,A,"and you do not have the time to look,",,,,1
+192,A,"that is what, I am saying,",,,,1
+193,B,That is right.,,,,1
+194,B,Uh-huh.,,,,1
+195,A,most people will not even look at that until it becomes a necessity.,,,,1
+196,B,Absolutely.,,,,1
+197,B,"I think that one of the best ways to do that is for families to realize they are going to be needing those facilities one day, and to actually get involved and participate on a community level with community service.",,,,1
+198,A,Uh-huh.,,,,1
+199,B,"Go out to the nursing home, help guide some craft programs, perhaps, work on some music programs,  whatever their talents are.  And work with, those senior citizens.",,,,1
+200,A,"Whatever their talents,  yeah.",,,,1
+201,A,Uh-huh.,,,,1
+202,A,"Yeah,",minor topic end,,,1
+203,A,"I have a cousin who is, uh,",off topic start,,A talking about her cousin's son's case,2
+204,A,"she had a son that was epileptic from birth,",,,,2
+205,A,"and he did fine, at home,",,,,2
+206,B,Uh-huh.,,,,2
+207,A,"they lived on a farm,",,,,2
+208,B,Uh-huh.,,,,2
+209,A,"but she made arrangements, so that when she was gone, she did not want her, her children, her other children burdened with his care.",,,,2
+210,B,Uh-huh.,,,,2
+211,B,Uh-huh.,,,,2
+212,B,That is right.,,,,2
+213,A,"So he, they, she has made arrangements that when she, she was gone, that he would go into the nursing home.",,,,2
+214,B,Uh-huh.,,,,2
+215,A,"And he has, I would say, he adjusted very well",,,,2
+216,A,"and, uh, he, he, he has been there quite a long time.",,,,2
+217,B,Uh-huh.,,,,2
+218,A,"And, uh, he don't know me usually",,,,2
+219,B,Yeah.,,,,2
+220,A,"So, he goes wheeling down, uh, the hall to bingo.",,,,2
+221,A,"Somebody else, is helping him out, you know,",,,,2
+222,B,That is right.,,,,2
+223,B,"Uh. Well, one of the things, I think that is most desirable for the elderly and that is routine.",,,,2
+224,A,"and, uh, he has adjusted very well.",,,,2
+225,A,"Uh-huh,",,,,2
+226,A,oh yes.,,,,2
+227,A,Yes.,,,,2
+228,B,"Routine and, uh, constancy.",,,,2
+229,A,Uh-huh.,,,,2
+230,A,"Uh-huh,",,,,2
+231,A,uh-huh,off topic end,,,2
+232,B,"Uh, the only real problem with that in a nursing home is that the staff turns over.",off topic start,,Talking about the implications of underpaying the nursing home staff,2
+233,B,"I do not think they pay, the nursing home staff sufficiently, to, to get the dedication that they have in some other profession,",,,,2
+234,A,uh-huh.,,,,2
+235,A,"To keep them there, uh-huh.",,,,2
+236,A,True.,,,,2
+237,B,"and that is sad, because, I think the health profession is one of the most critical,",,,,2
+238,A,Yes.,,,,2
+239,A,"But , for some reason people resist, uh, the fact that they should be paid as well as businesses and that type of thing, you know.",,,,2
+240,B,"And, uh,",,,,2
+241,B,That is right.,,,,2
+242,A,It seems to be a resistance.,,,,2
+243,B,"Care for the elderly and care for the children, I cannot imagine a more costly and a more, a more, uh, better area to invest, your money.",,,,2
+244,A,Uh-huh.,,,,2
+245,A,Uh-huh.,,,,2
+246,A,"Right,",,,,2
+247,A,right.,,,,2
+248,A,But there seems to be a resistance.,,,,2
+249,B,You are  preserving your heritage and your future there.,,,,2
+250,A,"Yeah,",,,,2
+251,A,yeah.,,,,2
+252,A,"So, uh,",off topic end,,,2
+253,B,"And, as a matter of fact, I do not see why they do not have children's programs in nursing homes.",off topic start,,children's programs in nursing homes,2
+254,A,"Well, around here, we have some, you know, the churches, take your, the children",,,,2
+255,B,Uh-huh.,,,,2
+256,A,"and, I know our kids thoroughly,",,,,2
+257,B,Uh-huh.,,,,2
+258,A,"the children thoroughly enjoy,",off topic end,major topic end,,2
