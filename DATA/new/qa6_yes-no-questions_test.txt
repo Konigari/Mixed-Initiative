@@ -1,0 +1,857 @@
+1 You get cards mail ?
+2 got whole bunch .
+3 I ca n't remember many .
+4 I n't know
+5 I 'm amazed
+6 course 're talking politics
+7 people say got thirty .
+8 Well I wonder need thirty renditions persons voice
+9 I 'm voice synthesis .
+10 Is there a topic shift 	yes	6
+1 But I 'd sure like see summary .
+2 We 'll get politics I 'm sorry
+3 Well I think 've used much time 're supposed anyway .
+1 We 're supposed discuss crime United States done .
+2 That 's rather rather broad topic
+3 They 're usually pretty broad anyway .
+4 Where live ?
+5 Uh live Plano .
+6 I 'm Richardson
+7 I heard topic I thinking thing uh Maceo High School Dallas .
+8 Uh children school ?
+9 mine already college
+10 Is there a topic shift 	yes	4
+1 least high school beginning like rampages .
+2 oldest first year high school
+3 really frightening uh think ca n't even send school safety .
+4 I mean certainly know ca n't turn loose middle Dallas
+5 know ca n't even send normal activities safety 's really frightening .
+6 That 's true .
+7 And uh I really know
+8 're coming principal
+9 I really n't know .
+10 Is there a topic shift 	no	9
+1 I mean 's much society violence
+2 kids access weapons drugs
+3 I I really n't know done .
+4 well I I n't understand course little world guns could available .
+5 Well I n't either
+6 apparently really .
+7 Uh I mean Plano would think would know innocent could get large area .
+8 But know son comes home tells know hears kids talk guns
+9 uh someone came football practice two weeks ago gun .
+10 Is there a topic shift 	yes	4
+1 Oh heavens .
+2 And I mean scared death
+3 know called police
+4 goodness know could easily .
+5 Well maybe 's answer crime getting prosecution .
+6 You know I n't
+7 I somehow I feel 're living impartial society far people seeing something happen know across street seeing someone get mugged unfortunately raped
+8 people n't anything .
+9 A woman raped Richardson I read paper oh two weeks ago .
+10 Is there a topic shift 	yes	5
+1 And neighbors said heard yelling help .
+2 But nobody nobody anything .
+3 I ca n't imagine .
+4 You know I mean heard someone calling help .
+5 Nobody even called police say know I hear strange screaming
+6 I 'm afraid know
+7 I n't blame people today 's society going help .
+8 well I see know especially heard screams house something going maybe know could dangerous
+9 certainly I ca n't understand calling police .
+10 Is there a topic shift 	no	9
+1 's 's really frightening 're 're trying live little cocoons
+2 probably one best things could crime participate prevention .
+3 Well I I think 're right .
+4 I guess people kind keep noses pointed business
+5 I think 's real dangerous
+6 uh I n't know .
+7 I try tell kids kind aware 's around know
+8 see situation looks like could trouble get call help whichever .
+9 well know call help scares
+10 Is there a topic shift 	no	9
+1 I n't know
+2 I n't know
+3 I ca n't say n't care people care another person .
+4 But 's getting involved impersonal society I think live today .
+5 Well maybe thing child school maybe make people think bit know take steps correct .
+6 I n't know
+7 's really frightening .
+1 So well appropriate topic day Earth Day
+2 Um well think uh pollutants main pollutants air ?
+3 I trouble chemical plants things like I uh I think put much
+4 're regulated enough .
+5 well 's .
+6 channel thirteen uh programs day
+7 I 'm sure yesterday n't really watch much yesterday
+8 day lot programs environment know 're affecting Earth things people
+9 mentioned sulfur carbon dioxide lot
+10 Is there a topic shift 	no	9
+1 actually um population increases know course cars know number cars increase per population 's problem . But also like said industry pollution
+2 know regulation 's placed I mean 's better used
+3 's incredible still n't know n't 're made regulate amount pollutants put air .
+4 You know I I
+5 I ca n't stand
+6 I know fact get away lot
+7 know 're supposed regulated plant I n't know T I plant uh Pillsbury plant town adjacent
+8 I know people work
+9 course would n't think Pillsbury would put certain chemicals
+10 Is there a topic shift 	yes	7
+1 put toxic chemicals um uh uh make dough clean flour stuff like
+2 I mean 's incredible .
+3 And um said 're know little creek runs
+4 people work told inspectors coming know shut everything
+5 clean act normal basis 're 're dumping things 're supposed dumping
+6 I 'm like 're getting away imagine
+7 's 's Pillsbury plant
+8 I ca n't imagine plants
+9 I would n't thought Pillsbury could would I mean even know well
+10 Is there a topic shift 	no	9
+1 chemicals use refine flours stuff know break flours
+2 know consider know 's probably radioactive
+3 toxic anything 's uh classified damage Earth .
+4 So could lot things could put know chemical wise use uh testing 're dumping .
+5 know like In packaging
+6 uh know goodness .
+7 I n't think packaging plant
+8 um lot refining
+9 I 'm really
+10 Is there a topic shift 	no	9
+1 's called flour
+2 Uh thing I think bleaching
+3 I mean I I n't know 's flour .
+4 But um 're southwest side Houston
+5 n't much far uh aiming plants uh east side .
+6 We 've got Imperial sugar
+7 uh 're know 're right creek also
+8 uh 've years .
+9 I mean think know
+10 Is there a topic shift 	no	9
+1 's probably lot easier detect things go ground maybe
+2 I 'm really sure
+3 I would think would easier detect things could detect stream
+4 know uh testing ground point
+5 pollute air 've got know 've got movement air 's going move lot .
+6 So I n't see know
+7 unless hangs like places 's lot pollution know like Los Angeles bigger cities tends get stuck
+8 know lot particles air know per per uh per particles surrounding community 's moved away
+9 I worry every
+10 Is there a topic shift 	no	9
+1 're still well water
+2 're city water
+3 I think well somebody 's dumped something back one knows know sinked ground
+4 well I know
+5 I 'm sure
+6 I ca n't remember name county
+7 's 's Stillwater sweet
+8 I 'm sure
+9 I think 's uh
+10 Is there a topic shift 	yes	4
+1 I know piece property
+2 's called Dublin
+3 's Dublin Texas .
+4 I 'm really sure county
+5 Stephenville 's 've lot problems 've um introduced lot dairies
+6 lot cattle area
+7 I mean 've got like per per uh per lot
+8 know 've got like lot head cattle dairies n't
+9 's like big ranch let cow roam around free
+10 Is there a topic shift 	no	9
+1 've got able milk .
+2 I read article I could n't believe know like one cow produces like day produces like hundred pounds manure .
+3 I like God
+4 thing says know people think well cow manure good fertilizer
+5 get much manure says becomes real problem 's 's
+6 know buy cow manure store 've added stuff
+7 've added humus stuff breaks
+8 article said 've got real problem um 've got toxins uh bacteria manure
+9 's 's going uh
+10 Is there a topic shift 	no	9
+1 n't deep um
+2 know water natural water uh
+3 I forget 's called know
+4 's like spring spring water
+5 stuff seeping water
+6 're like 're afraid know within certain amount years 's 're water town totally polluted
+7 wo n't able drinking water um polluted completely polluted 're know 's many toxins bacterial growth
+8 I 'm like God know one know introducing dairy farms one county .
+9 ground filter .
+10 Is there a topic shift 	no	9
+1 I n't realize cow one cow produces much manure
+2 talking like thousands cows know talking thousands cows one little tiny area .
+3 These well fed .
+4 Good grief well fed cows uh
+5 Well evidently .
+6 But um I mean evidently normal cow produces much
+7 're spread ranches stuff 's know problem
+8 get tiny little areas know 've got real big problem
+9 said scraping bulldozers stuff taking uh like ponds filter
+10 Is there a topic shift 	no	9
+1 ponds 've much rain past years overflow
+2 overflow creeks stuff area .
+3 said creeks foam .
+4 People people stand outside houses watch creeks foam brown
+5 Oh 's bad .
+6 I 'm like oh gosh
+7 smell really bad
+8 Oh I going say air pollution alone hundred pounds cow manure going bad .
+9 I I n't know
+10 Is there a topic shift 	yes	9
+1 really frightens though far think know thinking air pollution
+2 channel thirteen 're really um emphasizing problem acid rain know
+3 keep putting stuff air know keep creating problem anything 's really going problem um Earth know Earth receiving back know tell 's going come .
+4 And cutting trees know bothers .
+5 As far know
+6 The rain forest .
+7 uh 've wanting
+8 uh 's suggested cut trees
+9 I 'm like
+10 Is there a topic shift 	no	9
+1 know 's cut know cut someplace else
+2 take longer grow back
+3 trees help uh
+4 Well carbon dioxide use ca n't synthesize
+5 're synthesizing us .
+6 believe 's much better .
+7 So uh yeah
+8 I think 's lots could done improve things done .
+9 I n't know personally know
+10 Is there a topic shift 	yes	6
+1 I suppose know make sure car working properly
+2 nowadays emission controls
+3 uh I think main thing keep legislator 's back know far
+4 seems like 've really started far environment saying okay 're really going get involved
+5 's really becoming problem .
+6 By year two thousand
+7 kind results going environment .
+1 Have faced uh elderly care yet uh nursing home care parents ?
+2 Unfortunately yes .
+3 Uh fact tonight I dinner uh three brothers wives
+4 review nursing home staff .
+5 My mother 's nursing home .
+6 And uh review today
+7 things part n't really like like uh making decisions living wills extended care type thing
+8 I 'm familiar
+9 's something uh know
+10 Is there a topic shift 	yes	5
+1 I never thought I 'd go kind experience .
+2 But I guess .
+3 I think sooner later uh
+4 mother husband 's mother end putting nursing homes
+5 point lived six weeks got .
+6 Oh really ?
+7 And uh-huh .
+8 And 's absolutely I believe one hardest things I ever . In life .
+9 I know 's absolutely devastating .
+10 Is there a topic shift 	yes	4
+1 What found dealing nursing homes ?
+2 Well 're every horror stories hear I think true .
+3 Uh 've know 've looked around
+4 wife looked extensively ones area
+5 And one uh 's lot drawbacks lot things n't like .
+6 But 's different every one .
+7 And know cost three thousand dollars month
+8 Um uh-huh .
+9 think 're paying hospital almost well even much care .
+10 Is there a topic shift 	yes	3
+1 It 's expensive really .
+2 uh well 's little bit difference two mother mother-in-law .
+3 And uh ran
+4 oh I think mother-in-law 's like fifteen hundred
+5 mother 's two thousand .
+6 Then five years ago .
+7 And uh uh one things know I discovered knew I came different hours got much better care
+8 I started mother-in-law first I would go certain hours
+9 And I 'd pop unexpectedly I discovered know little bit better .
+10 Is there a topic shift 	no	9
+1 Oh really ?
+2 You know uh-huh .
+3 And know couple times mother-in-law I would catch something taken care . And know would rate
+4 I got I knew mother know go time time . Because would
+5 I looking nursing homes another thing I learned uh
+6 mother set go one
+7 reason I went back went around different floors .
+8 And I saw areas shown
+9 come across well know originally shown
+10 Is there a topic shift 	no	9
+1 Well I 'll darned .
+2 uh put one .
+3 We put another one I I went couple times n't expecting saw know much uh better pleased situation .
+4 know whole point .
+5 You 've got 've got shop .
+6 I know mother 's unit 's mainly Alzheimer 's
+7 uh 're convinced probably would better geriatric .
+8 Uh fact people 're around
+9 're 're 's reminds much asylum type situation .
+10 Is there a topic shift 	yes	8
+1 Does mother Alzheimer 's ?
+2 well knows .
+3 They call uh dementia .
+4 And uh n't know .
+5 I I mean know us anymore
+6 whether 's Alzheimer 's nobody really knows
+7 's basically .
+8 And health bad .
+9 Although gone downhill drastically since last
+10 Is there a topic shift 	no	9
+1 well retirement community
+2 somewhere back mind would live children .
+3 Well capabilities take care .
+4 And uh gone steadily since
+5 's nursing home oh I would say three months .
+1 artistic painting ?
+2 Uh I tole painting .
+3 I really love tole painting .
+4 Uh I n't done oil watercolor .
+5 I would like learn someday
+6 right passion tole painting
+7 Do lot ?
+8 I I took one class I guess three four years ago
+9 I 've done little uh
+10 Is there a topic shift 	no	9
+1 But takes lot time
+2 real time consuming
+3 sell projects ?
+4 Uh mostly I given away gifts .
+5 Uh I 've done uh perpetual calendars cookie jar lids oh know things like
+6 uh I would eventually like make enough sell quit job
+7 Where work ?
+8 I work Stop Shop Ogden
+9 Now ever send stuff boutique ?
+10 Is there a topic shift 	yes	6
+1 I 've wanted uh n't n't mass produced enough .
+2 So I five children
+3 That keeps busy .
+4 tole painting know something I spare time
+5 well cut projects ?
+6 I really enjoy .
+7 Huh . Do uh ever spray projects I mean base coat first
+8 I n't tried spray varnish .
+9 I use wood sealer .
+10 Is there a topic shift 	yes	5
+1 I bought spray gun one airless uh airless high volume low pressure spray guns .
+2 Oh uh-huh .
+3 And I lot woodworking
+4 's I bought .
+5 But I n't used yet .
+6 Oh well 's 'ud probably give smoother finish would n't ?
+7 Now type woodworking ?
+8 Uh fine furniture .
+9 That 's I brought bought sprayer finish projects .
+10 Is there a topic shift 	yes	7
+1 That 's worst worst part woodworking .
+2 I get sick making
+3 Oh 's hard finish huh .
+4 spraying put nicer finish .
+5 Oh well interesting .
+6 So kind equipment ?
+7 For woodworking ?
+8 Uh let see
+9 table saw scroll saw band saw lathe routers
+10 Is there a topic shift 	no	9
+1 Boy sounds like 're really .
+2 That nice .
+3 I I scroll saw jig saw
+4 I really anxious get band saw router
+5 band saw really nice .
+6 I Inca .
+7 I n't know 've ever heard .
+8 But 's nice right equipment .
+9 makes easier n't ?
+10 Is there a topic shift 	yes	3
+1 Well sold furniture
+2 mostly I like give away gifts .
+3 But Making furniture .
+4 Oh 's interesting .
+5 Do uh take classes learn ?
+6 Uh junior high
+7 I kept high school got equipment kept .
+8 Oh mostly hobby .
+9 Well interesting .
+10 Is there a topic shift 	no	9
+1 Oh I would I really would love go take class woodworking learn .
+2 I n't know I necessarily want furniture
+3 For tole painting .
+4 Well I guess I 'll let go .
+5 're supposed talk come tell us
+6 first one .
+7 You 're probably veteran .
+8 Well really fun .
+9 I 've enjoyed . Uh
+10 Is there a topic shift 	yes	4
+1 like I say I 've made couple calls Texas talked different kinds people
+2 I think 'll enjoy .
+3 It 's fun .
+4 Sounds fun .
+5 Where buy tole painting paints around ?
+6 Uh know 's shop Roy I really love .
+7 Uh 's Copper Mill restaurant used Hayloft .
+8 well live Roy
+1 begin . *listen ; could probably code could tell said `` '' `` ''
+2 All right .
+3 Uh I begin um
+4 basically I work Honeywell Minneapolis
+5 benefit program really quite good .
+6 I 'm I 'm pretty pleased .
+7 They cover uh everything vision dental medical
+8 first job I 've 've covered much
+9 I 'm pretty satisfied .
+10 Is there a topic shift 	no	9
+1 Um 's situation ?
+2 I work University New Hampshire
+3 uh benefits package n't uh n't quite good ways . Uh know
+4 overall I 'm satisfied .
+5 We n't vision care
+6 health care uh dental .
+7 Are professor ?
+8 I work I 'm professional administrative technical staff
+9 I effectively I run telephone switch uh University New Hampshire .
+10 Is there a topic shift 	yes	7
+1 Oh I see
+2 Uh uh benefits
+3 uh probably main thing I like benefits uh uh generous vacation time sick time .
+4 We get fifteen days year sick time
+5 uh get twenty-four days year right day one start work get twenty-four days year uh time .
+6 Well 's good .
+7 's one things I guess I would change Honeywell uh
+8 I used work Army Research Institute
+9 uh government organization got quite holidays .
+10 Is there a topic shift 	yes	7
+1 But n't get .
+2 You maybe get two three year .
+3 So 's really
+4 unless unless vacation time sick leave whatever um kind finagle way around get time .
+5 So 's 's kind drawback I think .
+6 But uh . I n't know .
+7 What consider important think terms different benefits ?
+8 Well I think uh health care course important single important benefit
+9 uh rates keep paying seem keep increasing uh know
+10 Is there a topic shift 	yes	6
+1 I 'm I 'm little disturbed
+2 I think 's national trend
+3 I n't know uh I n't know solution .
+4 It 's bigger benefits part .
+5 I n't know saw TWENTY TWENTY night
+6 uh basically reviewed Oregon 's plan The Oregon Plan toward uh nationalizing health care kind thing .
+7 It 's kind interesting plan .
+8 It 's kind cold though .
+9 They 've essentially made list uh oh different uh medical maladies basically made cutoff
+10 Is there a topic shift 	no	9
+1 Oh yeah .
+2 six hundred eighty-seven covered uh subsidized health care
+3 ones would .
+4 So 's kind like drawing line
+5 n't 're kind luck
+6 um kind interesting show .
+7 I think 're right
+8 I think health care probably pressing uh pressing one
+9 I 'll tell I I n't mind dental know
+10 Is there a topic shift 	yes	7
+1 sometimes dental costs um expensive
+2 I know historically lot companies I think carried dental rider along medical
+3 I 'm sure 's 's widely followed .
+4 I 'm sure
+5 uh University New Hampshire handle ?
+6 Well two different plans subscribe dental uh depending
+7 cost little .
+8 I think costs something like five dollars month dental plan .
+9 But pays uh substantial amount .
+10 Is there a topic shift 	no	9
+1 I mean examinations uh checkups every year every six months free
+2 uh covers bulk dental expenses .
+3 Is uh let interrupt uh professors also staff administration
+4 generally across board think
+5 The benefits plan different operating call operating staff considered uh clerical personnel accountants things like opposed call P A T staff I belong
+6 I think health dental everybody retirement plan .
+7 But main difference uh way sick time accrued vacation time accrued .
+8 Oh okay .
+9 Uh operating staff 's seniority 's know based long 've worked .
+10 Is there a topic shift 	yes	3
+1 That determines much uh vacation time get .
+2 I 'm kind interested I 'm actually 's route I 'd like take I finally get degree uh teach university .
+1 since I got somebody Arlington Virginia one day
+2 Is right ?
+3 Well I never thought
+4 like I call day Birmingham Michigan know
+5 I thinking yeah I thinking
+6 Birmingham I could think Alabama .
+7 It 's funny many names used uh country .
+8 well tell kind books read ?
+9 Well tell truth I 've going college last four years
+10 Is there a topic shift 	yes	3
+1 mainly text books .
+2 I going say fun kind right ?
+3 I I really tend like biographies lot necessarily always heavy ones
+4 I read one Grace Kelley .
+5 I love read real people .
+6 To half time 's fascinating made stories
+7 know 's 's really truly true thing .
+8 You know I read one Bob Hope I liked .
+9 real good .
+10 Is there a topic shift 	yes	3
+1 I 'm like
+2 's heavy biography know I enjoy .
+3 I used like read royalty lot .
+4 I I younger I read every king queen lived I think Europe .
+5 That thing .
+6 I trying think uh
+7 I read uh novel used names like Princess Di Prince Phillip coming entertained
+8 Oh really .
+9 time ago .
+10 Is there a topic shift 	yes	3
+1 Seems like THE SPY WENT DANCING something like .
+2 Oh sounds like fun .
+3 It lot fun used real names know .
+4 Wonder one famous writers know
+5 Margaret Truman Daniels writes lot .
+6 fact I believe
+7 I believe .
+8 Sounds like something would write .
+9 I think mention someone given
+10 Is there a topic shift 	no	9
+1 I thought well great
+2 I 've heard 's done know books really interesting
+3 always sell well .
+4 Well use real people like I think royalty especially know .
+5 brings life .
+6 I know uh British people laugh us 're enthralled royalty .
+7 know 's like enthralled football forth know .
+8 movie stars .
+9 Our movie stars
+10 Is there a topic shift 	yes	6
+1 's totally different concept us .
+2 Oh right .
+3 I n't I n't chance read lot lately either .
+4 I read uh mostly novels .
+5 I went visit daughter Florida
+6 I took novel uh read Thanksgiving time
+7 uh uh one generation novels know
+8 Oh yes .
+9 starts 're small continues generations
+10 Is there a topic shift 	yes	2
+1 Oh I always like .
+2 I like .
+3 Have ever read anything Susan Howatch ?
+4 Is n't fabulous ?
+5 Oh wonderful .
+6 I n't like get one books
+7 I I live read .
+8 I 'll I 'll skip everything get back book
+9 I stayed one night I think two morning finishing one I I could put .
+10 Is there a topic shift 	no	9
+1 Oh yeah .
+2 I n't know
+3 often come .
+4 I probably missed last since I 've back school .
+5 seems like n't write often oh well like Danielle Steele silly things .
+6 She writes thing .
+7 Well turn overnight I swear .
+8 're silly things
+9 I mean 've read one I mean 's It 's practically thing know .
+10 Is there a topic shift 	yes	5
+1 I 've never read whole one I n't think .
+2 And think rich .
+3 would n't I know
+4 I 'm criticizing
+5 would n't I like money
+6 Oh yeah .
+7 go hardback paperback
+8 And make movies .
+9 You know mini series forth
+10 Is there a topic shift 	yes	9
+1 seems like Susan Howatch write often .
+2 I seen many .
+3 're higher intellectual level quotes lot know .
+4 I think lot research .
+5 could n't possibly turn like popular writers
+6 oh books incredible .
+7 I n't think 've ever made movie ?
+8 I n't think
+9 I 've often wondered n't ?
+10 Is there a topic shift 	yes	7
+1 You know I
+2 I really thought
+3 Maybe 's take much .
+4 I n't know .
+5 Maybe 're involved average person go sit know .
+6 They 're big
+7 would like another GONE WITH THE WIND I guess another three hour movie
+8 And maybe turns people
+9 look GONE WITH THE WIND know .
+10 Is there a topic shift 	no	9
+1 Oh I know .
+2 It 's one favorite movies .
+3 Uh uh gotten SCARLETT yet ?
+4 I n't .
+5 's exactly I going say .
+6 beginning know route coming I heard mixed publicity kind good bad
+1 kind house live ?
+2 Well uh live brick home far north Dallas
+3 's uh four bedrooms three half baths swimming pool back
+4 It 's thirty-five hundred square feet .
+5 Well sounds like pretty similar .
+6 I live one
+7 I n't swimming pool .
+8 And mine 's twenty-seven hundred square foot .
+9 But four bedrooms
+10 Is there a topic shift 	no	9
+1 rest sounds alike .
+2 I think 's pretty much typical area .
+3 Have living long ?
+4 I 've house
+5 I 'm right twelve half years .
+6 So 've longer .
+7 We built one uh
+8 's let 's see 's six years six half years ago
+9 We bought lot uh architect draw plans based specifications
+10 Is there a topic shift 	yes	3
+1 Oh really ?
+2 've little six years . And uh really enjoyed built wanted live .
+3 Well I bet
+4 My husband got big garage .
+5 He three car garage big work area
+6 likes rebuild cars redo engines
+7 work space needs .
+8 Well sounds interesting .
+9 I bet 's enjoyed way
+10 Is there a topic shift 	yes	3
+1 kind hard find one prebuilt 's kind fits specifications .
+2 's decided build .
+3 We looked things already uh built
+4 garages always house large seemed like garages small even three car garages .
+5 Well n't three car garage .
+6 They 're kind rare .
+7 So put three car garage .
+8 But even three car garages n't work space .
+9 All taken car space .
+10 Is there a topic shift 	no	9
+1 And big landing area 's cars garage house starts work .
+2 've got two car garage
+3 husband 's got big space cars house big work shop know workbench everything .
+4 Well sounds like husbands similar interests .
+5 Now mine work cars
+6 Oh I see .
+7 But likes spot keep piddling things .
+8 Well 's nice 's house .
+9 It really .
+10 Is there a topic shift 	no	9
+1 Because know lot things
+2 I know I would n't mind
+3 I one time going fix one daughters left bedroom I room put craft stuff sewing machine kind stuff
+4 I n't know
+5 ended I got furniture back one moved something .
+6 So I n't end vacant room like I thought I would .
+7 Well still son daughter college come home .
+8 And room use guest bedroom husband 's family come .
+9 His parents come
+10 Is there a topic shift 	yes	3
+1 also kids friends come stay
+2 seems like 's always used bedroom .
+3 Well I still
+4 three daughters married
+5 I n't know
+6 I still need four bedrooms company time time . And coming back home things know .
+7 Oh I understand
+8 And 've got grandchildren
+9 come place .
+10 Is there a topic shift 	no	9
+1 That 's true
+2 n't want able come 's room .
+3 That 's right
+4 sure n't .
+5 At times I keep thinking though might kind nice .
+6 Well I I n't reached point yet .
+7 I 've heard people say .
+8 But uh middle son engaged
+9 oldest son going girl .
+10 Is there a topic shift 	yes	6
+1 He 's college good job
+2 could afford get married engaged yet
+3 daughter 's going boy
+4 's still college
+5 're happy finish education first .
+6 That 's plans .
+7 Well I n't blame .
+8 So I hope .
+9 Well I three girls
+10 Is there a topic shift 	no	9
+1 ended four grandsons .
+2 Oh ho-ho .
+3 And little boys around house whole lot girls .
+4 A whole new world .
+5 And uh I enjoy coming short doses
+6 I understand .
+7 've ten minutes already explored entire house
+8 know everything .
+9 But 're fun .
+10 Is there a topic shift 	no	9
+1 So 're back safety catches whole nine yards either watching every minute .
+2 Well I watch .
+3 I I never put things kids little
+4 I n't .
+5 I try teach get things .
+6 Well 's thing I .
+7 I hope I 'll able grandchildren .
+8 I think children kind develop attitudes .
+9 At least daughters .
+10 Is there a topic shift 	yes	3
+1 They try teach get things instead put everything .
+1 I n't know think .
+2 I I uh
+3 person I I want believe 's honest effort .
+4 I want believe really trying change . That maybe headed democratic society
+5 I I want believe 's okay .
+6 But 's side says yeah
+7 's like struggle within going I open-minded give benefit doubt kind basic personality .
+8 You know I I trust people .
+9 I 'll .
+10 Is there a topic shift 	no	9
+1 Or I keep going well 'll wait see
+2 Well I think 's struggle within Soviet Union .
+3 Um I think people fed
+4 I think 's showing
+5 republic trying gain independence
+6 I think uh 's making Gorbachev others realize hey maybe Communist thing n't working .
+7 's 's uh western society telling 's n't work .
+8 You know 've always said know Soviet people united
+9 maybe seeing hey n't believe know .
+10 Is there a topic shift 	yes	2
+1 That 's right .
+2 I guess I keep one part 's like
+3 well I n't know I want trust
+4 's like I ca n't
+5 maybe 's know 've propaganda years
+6 I n't know .
+7 Well could .
+8 You know I
+9 always think K G B think bad things know .
+10 Is there a topic shift 	yes	9
+1 But I would n't doubt Soviet people think C I A think bad things know .
+2 And probably things .
+3 You think C I A n't spy ?
+4 I 'm sure .
+5 Now difference n't I I n't think take people kill n't believe believe .
+6 You know I think extent n't go far
+7 I 'm sure lie . You know ?
+8 Oh yeah .
+9 Oh absolutely .
+10 Is there a topic shift 	no	9
+1 That 's part propaganda thing
+2 I think get away keep minds oh
+3 excuse I 've got cold today .
+4 That 's right .
+5 I hope get better
+6 Um I think get propaganda thing I 'm sure countries seeing seeing know thinking K G B C I A
+7 uh economic point view Soviet Union n't something fast ai n't going able feed people winter know .
+8 That 's true .
+9 And I 'm concerned
+10 Is there a topic shift 	yes	3
+1 I feel like ought spending maybe time effort energy trying solve resolve .
+2 You know I mean know country wants democratic I 'm helping know I I understand know looking United States biggest longest supporter type government .
+3 But time I I agree .
+4 I n't think know turn backs ignorant per se things happening .
+5 That 's right .
+6 You know 've got uh 've got quite domestic problems uh I feel ought concentrating .
+7 I think problem know
+8 international scope maybe president feels uh know long-term relations countries 's important
+9 well 'll 'll always United States .
+10 Is there a topic shift 	yes	8
+1 And know need solve international problems
+2 um I think I heard news last week sometime uh president ended canceling one international trips could spend time domestic issue American public kind getting fed .
+3 believe 's abroad
+4 like said 's issues .
+5 And I I encouraged happening Soviet Union .
+6 I 'm encouraged 's happened know iron curtain countries know block
+7 I think 's moved right direction .
+8 I I think sometimes people expect happen overnight .
+9 You know 's going .
+10 Is there a topic shift 	yes	5
+1 It n't happen overnight
+2 That 's right .
+3 That 's right .
+4 And I I think sometimes forget .
+5 But I I I I say yes I 'm know I 'm encouraged way 's going . Uh
+1 So get current event information ?
+2 Well see I 'm going school right
+3 uh I 'm working I n't get I n't get chance read paper lot
+4 I n't watch T V much really either uh free time kind
+5 I like stuff .
+6 While I 'm work sometimes I computer network um I read news sometimes
+7 's kind helpful .
+8 I would imagine going college though professors different things
+9 keep 's going .
+10 Is there a topic shift 	yes	2
+1 That 's true
+2 I mean roommates stuff know people around talk .
+3 And people I work pretty know up-to-date kind stuff
+4 Well I 'm housewife
+5 I three kids
+6 um I get information probably news six o'clock um talking people hearing 's going . .
+7 Do watch watch network like major network news
+8 watch like MACNEIL LEHRER HOUR ?
+9 Just regular channel channel eight .
+10 Is there a topic shift 	yes	4
+1 Oh really .
+2 That 's channel
+3 's um eyewitness news .
+4 Oh see channel I channel eight 's um like public T V
+5 's kind different .
+6 Oh uh-huh .
+7 I think I think uh
+8 I think lot commentators like major networks like right 's kind appropriate right election stuff going
+9 um seems um kind get throw opinions know report news .
+10 Is there a topic shift 	yes	7
+1 And I think even elections choose 're going follow 're
+2 basically know candidate get follow news know kind publicize name .
+3 I n't think way I get news right way get .
+4 I think get lopsided picture 's going .
+5 report I mean
+6 give candidate perhaps know ten second blurbs know say ca n't get full picture know message unless time sit probably read something .
+7 And news n't um cover many stories
+8 I mean covers basic know violent crimes know catastrophes weather stuff
+9 really n't know 's going .
+10 Is there a topic shift 	no	9
+1 Um I read current letters come elections
+2 I guess I read
+3 I study 's running area
+4 I study 's going economy .
+5 I guess I read magazines um get information .
+6 What kind see
+7 I subscribe like SCIENCE NEWS
+8 's 's real good gives like brief summary like updates like 's going science without getting lot detail would know bog I would n't know
+9 I n't really read
+10 Is there a topic shift 	no	9
+1 I n't I n't really subscribe anything else .
+2 I used read every month READER 'S DIGEST
+3 um I guess I friends clip articles
+4 I know interested something course war I read little newspaper find going .
+5 Oh yeah .
+6 But lot times I know I wish I time read stories newspaper
+7 I ca n't seem find time .
+8 If put video video cassette tape something could listen I would I things .
+9 Well I remember back uh war everyone work always radio T V going constantly stuff .
+10 Is there a topic shift 	yes	6
+1 But uh .
+2 Well I um even story news Texas people wanted see
+3 people said wanted see outside Texas news .
+4 You know n't want hear every night killings went Dallas
+5 want hear 's going economy 's done help 's going countries 's know information .
+6 If reported every reported every violent crime Atlanta would take would probably take whole news hour
+7 But uh .
+8 Well I guess 'll get pretty good news coverage couple years host uh summer olympics
+9 start already 're like um
+10 Is there a topic shift 	yes	2
+1 newspaper section I think every Olympics know
+2 've got like countdown
+3 's like sixteen hundred days something .
+4 I know 're trying get tickets right .
+5 Oh really ?
+6 That 's going crazy time year .
+7 But uh .
+8 I ca n't believe I mean
+9 're 're stretching Olympic news much coverage
+10 Is there a topic shift 	no	9
+1 I guess people want hear .
+2 Also big news right Braves 're uh 're know spring training whatever
+3 well last year .
